@@ -1,11 +1,3 @@
-//Dewata
-dewata.rsw#Dewata#
-dew_in01.rsw#Inside Dewata#
-dew_dun01.rsw#Krakatau Volcano#
-dew_dun02.rsw#Dewata Dungeon#
-dew_fild01.rsw#Dewata Field#
-
-
 //Bossnia
 //bossnia_01.rsw#Bossnia#
 //bossnia_02.rsw#Bossnia#
@@ -775,3 +767,48 @@ ayothaya_e.rsw#Ayothaya Excavation Site#
 louyang_e.rsw#Louyang Excavation Site#
 morocc_mem.rsw#Memory of Morroc#
 payon_mem.rsw#Memory of Payon#
+
+1@mist.rsw#The Hazy Maze Forest#
+mora.rsw#Mora Village#
+bif_fild01.rsw#Bifrost Bridge#
+bif_fild02.rsw#Bifrost Bridge#
+
+moc_paraup.rsw#Inside of Paradise Group Building in Morroc 2nd floor#
+
+
+// ---------- Port Malaya 신규 맵 ------------
+malaya.rsw#Port Malaya#
+ma_fild01.rsw#Baryo Mahiwaga#
+ma_fild02.rsw#Forest#
+ma_scene01.rsw#Bakonawa Lake#
+ma_in01.rsw#Inside of Malaya#
+ma_dun01.rsw#Bangungot Hospital 1F#
+1@ma_h.rsw#Bangungot Hospital 2F#
+1@ma_c.rsw#Buwaya Cave#
+1@ma_b.rsw#Bakonawa Hideout#
+ma_zif01.rsw#Inside of Jeepney#
+ma_zif02.rsw#Inside of Jeepney#
+ma_zif03.rsw#Inside of Jeepney#
+ma_zif04.rsw#Inside of Jeepney#
+ma_zif05.rsw#Inside of Jeepney#
+ma_zif06.rsw#Inside of Jeepney#
+ma_zif07.rsw#Inside of Jeepney#
+ma_zif08.rsw#Inside of Jeepney#
+ma_zif09.rsw#Inside of Jeepney#
+job_ko.rsw#Hidden Place#
+
+malangdo.rsw#Malangdo#
+mal_in01.rsw#Malangdo Inside#
+mal_in02.rsw#Inside the Ship#
+// 별빛산호지대 번역필요
+mal_dun01.rsw#Starry Coral Area#
+1@cash.rsw#Octopus Cave#
+1@pump.rsw#Culvert#
+2@pump.rsw#Culvert#
+eque_qsch01.rsw#Okolnir#
+auction_03.rsw#Kafra Mail Annex#
+
+//생체던전
+lhz_dun04.rsw#Human Experimentation Laboratory B4#
+que_lhz.rsw#Human Experimentation Laboratory B4#
+1@lhz.rsw#Wolfchev's Lab#
