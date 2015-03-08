@@ -39,7 +39,7 @@ Weight : ^77777715^000000
 #
 506#
 ^000088Status Recovery Item^000000
-A potion which cures ^000088Poison^000000, ^000088Silence^000000, ^000088Blind^000000 and ^000088Chaos^000000 effects.
+A potion which cures ^000088Poison^000000, ^000088Silence^000000 and ^000088Blind^000000 effects.
 ^ffffff_^000000
 Weight : ^7777777^000000
 #
@@ -10189,6 +10189,9 @@ Jobs: ^777777Acolyte Class^000000
 1599#
 ''^339999The Real Holy Cross^000000''
 #
+1600#
+''^339999The Real Holy Cross^000000''
+#
 2109#
 A magic book filled
 with long, impractical spells that is so large, it can actually be used
@@ -10572,6 +10575,9 @@ Class : ^777777Cute Pet Armor^000000
 Applicable Pet: ^777777Bongun^000000
 #
 2199#
+''^339999The Shield of all Shields^000000"
+#
+2200#
 ''^339999The Shield of all Shields^000000"
 #
 5027#
@@ -38996,7 +39002,6 @@ Defense: ^7777773^000000
 #
 5413#
 Popcorn for when you just want to sit back and enjoy the Show!
-From ^CC0000May 19 - June 2nd^000000 Grandma Boxter in the 2nd floor Eden Group will give 400 Brownie points OR a free safe upgrade to +5 in exchange for this hat.
 Class : ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -39132,6 +39137,8 @@ Defense: ^7777773^000000
 5531#
 A baby dragon who has been trained to help its master.
 ^ff0000This item can be traded, stored, and put into a cart^000000
+^0000FFWhen refined to +7, it has the ability to grant its wearer 150% more Base experience for each dragon type monster killed.^000000
+^0000FFIncreases damage and resistance to Dragon type monsters by 10%.^000000
 Slot : ^7777771^000000
 Class : ^777777Headgear^000000
 Defense : ^7777773^000000
@@ -40295,10 +40302,6 @@ Weight : ^7777771^000000
 5738#
 A hat that is a constant reminder of the Winter season.
 Str +1, Int +1, Mdef +3,
-Increases resistance to Water property by 7%.
-When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
-When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to  8, activates Lv 5 Frost Joker. 
 Class : ^777777Headgear^000000
 Defense : ^7777774^000000
 Location: ^777777Upper ^000000
@@ -46374,8 +46377,16 @@ Required level: ^7777771^000000
 Class: ^777777All^000000
 #
 5431#
-placeholder
-Defense: ^7777770^000000
+This plucky bird can assist your strength and intelligence when it feels like it.
+Adds a low chance of adding +3 Str for 10 seconds while dealing physical damage.
+Adds a low chance of adding +3 Int for 10 seconds while dealing physical damage.
+Refining this hat increases the Str and Int by 1 for each level above +5.
+Class : ^777777Headgear^000000
+Defense : ^7777771^000000
+Location : ^777777Upper^000000
+Weight : ^77777720^000000
+Required Level : ^77777730^000000
+Jobs : ^777777All^000000
 #
 5434#
 placeholder
@@ -46441,16 +46452,28 @@ placeholder
 Defense: ^7777773^000000
 #
 5487#
-placeholder
-Defense: ^7777771^000000
+Celebrate the 11th Anniversary of Ragnarok with this festive Poring Cake
+Luk +2
+Class : ^777777Headgear^000000
+Defense : ^7777771^000000
+Location : ^777777Upper^000000
+Weight : ^77777750^000000
+Required Level : ^7777771^000000 
+Jobs : ^777777All Jobs^000000
 #
 5488#
 placeholder
 Defense: ^7777771^000000
 #
 5497#
-placeholder
-Defense: ^7777773^000000
+A hat that imitates the king of Tigers Eddga.
+Str+2
+Class : ^777777Headgear^000000
+Defense : ^7777773^000000
+Location : ^777777Upper^000000
+Weight : ^77777740^000000
+Required Level : ^7777771^000000 
+Jobs : ^777777All Jobs^000000
 #
 5498#
 Made out of a Wolf King's fur and feels like you're surrounded by a dignified force when worn but basically worn for its looks.
@@ -46494,8 +46517,13 @@ placeholder
 Defense: ^7777770^000000
 #
 5597#
-placeholder
+Chewing gum and casting spells at the same time can be hazardous to your health.
+It can however add 10% drop rate to all monsters killed
+Class : ^777777Headgear^000000
+Location : ^777777Lower^000000
 Defense: ^7777770^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
 #
 5602#
 placeholder
@@ -68419,11 +68447,704 @@ Evil Marcher Hat
 Snake Head
 #
 18521#
-The luck of the a potato loving people is infused into this item.
+Found by the Raccoon HURRAY! Squad on the side of the road, you have acquired this item some how. You feel the power of the Raccoons have leaked into this item. 
+
+Attached to the bottom is a small tag that reads 'Something Wonderful is about to happy.'
++3 Luk
+Enables the Use of level 1 Discount
 Class : ^777777Headgear^000000
 Location: ^777777Lower^000000
 Defense: ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^77777750^000000
 Jobs: ^777777All^000000
+#
+
+19497#
+^ff0000This box is account bound, the items inside can be traded, stored and vended.^000000
+Description:
+Contains one of the following:
+Mini Glasses [1]
+Takius Blindfold
+Defolty Doll Hat
+Donut in Mouth
+Mega Resist Potion x 80
+Party Inc Agi Scroll x 100
+Party Assumptio Scroll x 100
+Party Blessing Scroll x 100
+Mental Potion x 80
+^FFFFFF ^000000
+Weight : ^7777771^000000
+#
+
+5213#
+A fluffy black bunny headband
+Agi+2, Mdef+3
+
+Class : ^777777HeadGear^000000
+Defense : ^7777772^000000
+Location : ^777777Upper^000000
+Weight : ^77777720^000000
+Required Level : ^7777770^000000
+Job : ^777777All^000000
+#
+
+19498#
+A box containing 1 Baby Dragon Hat.
+^FF0000Once opened, the hat can be traded and stored.^000000
+Description:
+A baby dragon who has been trained to help its master.
+^0000FFWhen refined to +7, it has the ability to grant its wearer 20% more Base experience for each dragon type monster killed.^000000
+^0000FFIncreases damage and resistance to Dragon type monsters by 10%.^000000
+Slot : ^7777771^000000
+Class : ^777777Headgear^000000
+Defense : ^7777773^000000
+Location : ^777777Upper ^000000
+Weight : ^77777710^000000
+Required Level  : ^7777771^000000
+Jobs : ^777777All^000000
+^FFFFFF_^000000
+Box Weight : ^7777771^000000
+#
+
+
+19499#
+Gary presents a groovy pack for your pleasure!
+When opened the opener always receives 1 3x Battle Manual and one Gary's May Random Pack which contains one of the following:
+Ridword Hat
+Pirate Dagger
+Fish in Mouth
+Pencil in Mouth
+Lv 10 Sword Mercenary x 10
+He Bubble Gum x 3
+Party Increase Agi Scroll x 25
+Party Assumptio Scroll x 25
+Party Blessing Scroll x 25
+#
+19600#
+Gary's May Random Pack contains one of the following:
+Ridword Hat
+Pirate Dagger
+Fish in Mouth
+Pencil in Mouth
+Lv 10 Sword Mercenary x 10
+He Bubble Gum x 3
+Party Increase Agi Scroll x 25
+Party Assumptio Scroll x 25
+Party Blessing Scroll x 25
+#
+
+6892#
+This dropped from an ant.
+You're not sure what is written on this paper but it looks like some sort of invasion plan.
+Weight : ^7777771^000000
+#
+6893#
+It's a cook book!
+Weight : ^7777771^000000
+#
+6894#
+A badge of office worn by an insectoid champion.
+Weight : ^7777771^000000
+#
+
+18030#
+When upgraded to +9 or higher enables the use of the Graffiti Skills and gives 20% Blind Resistance.
+Class : ^777777Defense : ^7777777^000000
+Location : ^777777Upper^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+19801#
+This item cannot be traded, but can be saved and opened at your leisure!
+Each 11th Anniversary Lucky Box contains one of the following at random: 
+Bubble Gum In Mouth
+Eddga Doll [1]
+11th Anniversary Cake Hat
+Filir Hat
+Filir Wing
+Chicken Hat
+HE Bubble Gum x10
+Fencer Scroll x50
+Enriched Elunium x50
+Mystical Amplification Scroll x 100
+Mental Potion x 80
+^FFFFFF ^000000
+Weight : ^7777771^000000
+#
+
+19802#
+Gary presents a groovy pack for your pleasure!
+When opened the opener always receives 1 3x Battle Manual and one Gary's July Random Pack which contains one of the following:
+'Merica Flag Hat
+Amistr Cap
+Eplosive Chewing Gum
+Lv 10 Sword Mercenary x 10
+He Bubble Gum x 3
+Party Increase Agi Scroll x 25
+Party Assumptio Scroll x 25
+Party Blessing Scroll x 25
+#
+19803#
+Gary's July Random Pack contains one of the following:
+'Merica Flag Hat
+Amistr Cap
+Eplosive Chewing Gum
+Lv 10 Sword Mercenary x 10
+He Bubble Gum x 3
+Party Increase Agi Scroll x 25
+Party Assumptio Scroll x 25
+Party Blessing Scroll x 25
+#
+
+5278#
+This yellow ribbon shines so bright that it distracts archers from being able to aim properly.
+Reduces Incoming Ranged Damage by 10%
+Luk + 2
+Vit + 2
+Defense : ^7777771^000000
+Location : ^777777Upper^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+27338#
+A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
+Pew! Pew!
+Class : ^777777Headgear^000000
+Defense : ^7777771^000000
+Location : ^777777Middle^000000
+Weight : ^77777720^000000
+Required Level : ^77777710^000000
+Jobs : ^777777All^000000
+#
+19804#
+This item cannot be traded, but can be saved and opened at your leisure!
+Each Classic August Lucky Cooler contains one of the following at random: 
+Laser Eyes[1]
+Yellow Ribbon
+Observer
+Skull Cap
+Marvelous Wig
+HE Bubble Gum x8
+Fencer Scroll x50
+Mystical Amplification Scroll x 100
+Mental Potion x 80
+^FFFFFF ^000000
+Weight : ^7777771^000000
+#
+
+27336#
+Awarded to those who have won first place a Classic Server Friday Night Fight!
+Pew! Pew!
+
++1 Str
++1 Int
++2 Luk
+
+Atk +3%
+MAtk +3%
+Increases healing effectiveness by 6%
+
+Class : ^777777Headgear^000000
+Defense : ^7777779^000000
+Location : ^777777Upper^000000
+Weight : ^77777720^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All^000000
+#
+
+27337#
+Awarded to those who have won second place a Classic Server Friday Night Fight!
+Pea-ew! Pea-ew!
+
++1 Str
++1 Int
+
+Atk +2%
+MAtk +2%
+Increases healing effectiveness by 5%
+
+Class : ^777777Headgear^000000
+Defense : ^7777775^000000
+Location : ^777777Upper^000000
+Weight : ^77777720^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All^000000
+#
+
+22687#
+Awarded to those who have won first place a Classic Server Friday Night Fight!
+Contains a 3 month rental hat with the following effects
+Pew! Pew!
+
++1 Str
++1 Int
++2 Luk
+
+Atk +3%
+MAtk +3%
+Increases healing effectiveness by 6%
+
+Class : ^777777Headgear^000000
+Defense : ^7777779^000000
+Location : ^777777Upper^000000
+Weight : ^77777720^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All^000000
+#
+
+
+22688#
+Awarded to those who have won second place a Classic Server Friday Night Fight!
+Pea-ew! Pea-ew!
+
++1 Str
++1 Int
+
+Atk +2%
+MAtk +2%
+Increases healing effectiveness by 5%
+
+Class : ^777777Headgear^000000
+Defense : ^7777775^000000
+Location : ^777777Upper^000000
+Weight : ^77777720^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All^000000
+#
+
+19805#
+Ringmaster Gary presents a groovy pack for your pleasure!
+When opened the opener always receives 1 HE Bubble Gun  and one Ringding Brother Classic Random Pack which contains one of the following:
+1x Sigrun's Wings
+1x Moonlight Flower Hat
+1x Marvelous Wing
+1x Classic Cooking Crate
+80x Mega Resist Potions
+25x Party Increase Agi Scrolls
+25x Party Blessing Scrolls
+25x Party Assumptio Scrolls
+4x Job Battle Manuals
+#
+
+19806#
+Ringmaster Gary presents a groovy pack for your pleasure!
+Ringding Brother Classic Random Pack contains one of the following:
+1x Sigrun's Wings
+1x Moonlight Flower Hat
+1x Marvelous Wing
+1x Classic Cooking Crate
+80x Mega Resist Potions
+25x Party Increase Agi Scrolls
+25x Party Blessing Scrolls
+25x Party Assumptio Scrolls
+4x Job Battle Manuals
+#
+19807#
+Classic Cooking Crate contains one of the following:
+10x Fantastic Cooking Kit
+10x Professional Cooking Kit
+10x Royal Cooking Kit
+#
+6767#
+Coin only used in Summer Festival. It isn't actually worth real money, and disappears when Summer passes away.
+
+^ff0000Not transactable to other accounts.^000000
+Weight : ^7777770^000000
+#
+6770#
+A shark, predator of the sea and symbol of fear.
+It is praised as one of the best food ever because of its rareness and toughness to catch.
+Weight : ^7777771^000000
+#
+6771#
+The best fish specy used in many dishes.
+People can't have it often because of its high cost.
+Weight : ^7777771^000000
+#
+6772#
+Mollusks with 8 legs.
+Be careful of his ink that he sprays in danger.
+Weight : ^7777771^000000
+#
+6773#
+Colorful and tasty Sea Bream.
+It is a high leveled specy and cooked into many dishes.
+Weight : ^7777771^000000
+#
+6774#
+A fish with such a hideous teeth.
+Some maniacs raise them for house decoration.
+Weight : ^7777771^000000
+#
+6775#
+A Salmon which has an instinct to want to go back to its born-place.
+It is so colorful and tasty that mostly women likes it.
+Weight : ^7777771^000000
+#
+6776#
+An eel famous for its strength.
+Nothing is better for your stamina than this.
+Weight : ^7777771^000000
+#
+6777#
+A carp which has been loved as food, medicine and ornament.
+In some places, it is considered a lucky totem.
+Weight : ^7777771^000000
+#
+6778#
+A squid that can be cooked to many dishes.
+It sometimes can be used as a fishing bait.
+Weight : ^7777771^000000
+#
+6779#
+A mackerel with blue back and a lot of DHA
+It sometimes can be used as a fishing bait.
+Weight : ^7777771^000000
+#
+6780#
+A small and common carp found in anywhere.
+It sometimes can be used as a fishing bait.
+Weight : ^7777771^000000
+#
+6781#
+A fleshy earthworm.
+It works perfectly as a fhshing bait.
+Weight : ^7777771^000000
+#
+6782#
+Very fresh-looking prawn.
+It works perfectly as a fhshing bait.
+Weight : ^7777771^000000
+#
+6882#
+Splendid feather shaped bait. Fishes who see this would rush into it knowing it as a food.
+Weight : ^7777770^000000
+#
+6897#
+The top Sea-living mammal.
+It proudly has the largest body among all of them, and
+known to be the biggest animal existing on the earth
+Weight : ^7777771^000000
+#
+6898#
+The top Sea-living mammal.
+It is smart and mild but no carnivore sea animal can mess with him.
+Weight : ^7777771^000000
+#
+6899#
+A legendary king Octopus living in the deep sea.
+Despite of gentle and mild behavior comparing to its largeness, you will get overwhelmed by its size when you see it.
+Weight : ^7777771^000000
+#
+6900#
+A legendary king Squid living in the deep sea.
+You must never think about going back home when you meet this guy at the Sea.
+Weight : ^7777771^000000
+#
+6901#
+Predator of the Sea. The Symbol of fear, Shark.
+Sturgeon, among them, is famous for its viciousness.
+Weight : ^7777771^000000
+#
+6902#
+Big and fleshy king Prawn. It is so-called 'Jumbo Shrimp'
+It perfectly suits for bait
+Weight : ^7777771^000000
+#
+6903#
+A big and beautiful Earthworm.
+It perfectly suits for bait
+Weight : ^7777771^000000
+#
+5855#
+A real master never blames his tools. 
+Though it is a normal fishing rod, it feels like I can chatch every fish in the sea.
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^7777770^000000
+Req LvL : ^7777770^000000
+Job : ^777777All^000000
+#
+
+20041#
+A real master never blames his tools. 
+After many battles against sea creatures of all types Wesley discovered this helmet.
+Increases EXp from Race Fish monsters by 2% per refine level.
+Class : ^777777Upper Headgear^000000 Defense : ^7777771^000000
+Weight : ^77777780^000000
+Req LvL : ^7777720^000000
+Job : ^777777All^000000
+#
+
+20042#
+A real master never blames his tools. 
+After many battles against sea creatures of all types Wesley discovered this armor.
+Increases defense against Race Fish monsters by 1% per refine level
+Class : ^777777Armor^000000 Defense : ^7777774^000000
+Weight : ^777777160^000000
+Req LvL : ^7777720^000000
+Job : ^777777All^000000
+#
+
+20043#
+A real master never blames his tools. 
+After many battles against sea creatures of all types Wesley discovered this manteau.
+Increases damage against Race Fish monsters by 1% per refine level
+Class : ^777777Garment^000000 Defense : ^7777772^000000
+Weight : ^77777730^000000
+Req LvL : ^7777720^000000
+Job : ^777777All^000000
+#
+
+19808#
+This item cannot be traded, but can be saved and opened at your leisure!
+Each Pumpkin Space Lucky Box Type C contains one of the following at random: 
+100x Party Increase Agi, Assumptio or Blessing Scroll
+80x Mega Resist Potion
+80x Mental Potion
+Moonlight Flower Hat
+Hockey Mask
+Red Wing Hat
+Popcorn Hat
+Mental Potion x 80
+^FFFFFF ^000000
+Weight : ^7777771^000000
+#
+
+19809#
+This token entitles the bearer to 200x White Potions, Medicine Bowls, and Empty Test Tubes 
+Can be redeemed at Alchemist Traders location in Payon and the Mail Annex
+Weight : ^7777770^000000
+#
+
+19811#
+It's a portable Autumn festival in each Groove Pack this month as we celebrate Thanksgiving and the changing of the season.
+Each Groovember Pack will always give you one Battle Manual X3 and contains one of the following at random: 
+1x Guildsman Recruiter Hat
+1x Party Recruiter Hat
+1x Bf Recruiter Hat
+1x Friend Recruiter Hat
+1x Gf Recruiter Hat
+1x AFK Hat
+25x Party Increase Agi 10 Scroll
+25x Party Assumptio 5 Scroll
+25x Party Blessing 10 Scroll
+10x Fencer Scroll 10
+Weight : ^7777771^000000
+^ff0000Box Account Bound^000000
+#
+
+19812#
+Gary's November Random Pack contains one of the following:
+1x Guildsman Recruiter Hat
+1x Party Recruiter Hat
+1x Bf Recruiter Hat
+1x Friend Recruiter Hat
+1x Gf Recruiter Hat
+1x AFK Hat
+25x Party Increase Agi 10 Scroll
+25x Party Assumptio 5 Scroll
+25x Party Blessing 10 Scroll
+10x Fencer Scroll 10
+#
+
+19814#
+An old periwinkle box
+holding contents
+that are a mystery
+until it is opened.
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+19813#
+Kafra Co is proud to bring you this Black Friday Lucky Box!
+When opened the openee will receive one of the following,
+Battle Manual x 3 (5cnt)
+HE Bubble Gum (7cnt)
+Spring Rabbit Hat
+Well Chewed Pencil
+Elven Ears [1]
+Evil Marching Hat
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+19815#
+Kafra Co is proud to bring you this December Lucky Box!
+When opened the openee will receive one of the following,
+100x Party Blessing Scroll
+100x Party Increase Agi Scroll
+100x Party Assumption Scroll
+80x Mega Resist Potion
+80x Mental Potion
+Yellow Ribbon [0]
+Little Feather Hat [1]
+Bubblegum in Mouth
+Holy Marching Hat [1]
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+19818#
+Each New Years Groove Pack will always give you one Battle Manual X3 and contains one of the following at random: 
+1x Pirate Dagger
+1x Pencil In Mouth
+1x Musketerr Hat
+1x Skull Cap
+25x Party Increase Agi 10 Scroll
+25x Party Assumptio 5 Scroll
+25x Party Blessing 10 Scroll
+10x Fencer Scroll 10
+Weight : ^7777771^000000
+^ff0000Box Account Bound^000000
+#
+
+19819#
+Gary's New Year Random Pack contains one of the following:
+1x Pirate Dagger
+1x Pencil In Mouth
+1x Musketerr Hat
+1x Skull Cap
+25x Party Increase Agi 10 Scroll
+25x Party Assumptio 5 Scroll
+25x Party Blessing 10 Scroll
+10x Fencer Scroll 10
+25x Party Increase Agi 10 Scroll
+25x Party Assumptio 5 Scroll
+25x Party Blessing 10 Scroll
+10x Fencer Scroll 10
+#
+
+19820#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 85
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19821#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 100
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19822#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 93
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19823#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 100
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19824#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 96
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19825#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 33
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19826#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 120
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19827#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 105
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19828#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 115
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19829#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 93
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19830#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 85
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19831#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 68
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19832#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 100
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19833#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 148
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19834#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 185
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+19836#
+Janeway has produced these basic weapons for general issue to new adventurers
+Atk: 50
+Weight : ^7777770^000000
+^ff0000Character Bound^000000
+#
+
+19837#
+Kafra Co is proud to bring you this Lover's Lucky Box!
+When opened the openee will receive one of the following,
+Lv 10 Sword Mercenary Scrol x 40
+Battle Manual X3 x 8
+HE Bubble Gum x 10
+Scared Torch Coronet x 1
+Tayelin Doll Hat
+Celestial Hat
+Pencil In Mouth
+Oberserver
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
 #
