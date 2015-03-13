@@ -1,6 +1,6 @@
 //file start 20090317
 
-501#
+501#test
 ^000088HP Recovery Item^000000
 A potion made from
 ground Red Herbs that
