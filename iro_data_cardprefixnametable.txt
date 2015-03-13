@@ -514,3 +514,53 @@
 4998#of Valor#
 4999#of Aegis#
 4545#Novice#
+4560#of Bragi#
+4561#of Magic Protection#
+4562#of penetrating#
+4563#of acid#
+4564#of gentleman#
+4565#of grand cross#
+4566#of lucky#
+4567#of Bard#
+4568#of Gnosis#
+4569#of Origin#
+4570#of fast recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
+4575#Short Cut#
+4576#Educe#
+4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4580#of Devilish#
+4581#Toilet#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4589#of Richness#
+4590#of Helpless#
+4591#of Bloody#
+4592#of Stone Curse#
+4593#of Shooter#
+4594#of Death Blow#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
+4556#Power Ward#
+4557#of Spell Power#
