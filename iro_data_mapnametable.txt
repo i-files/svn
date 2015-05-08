@@ -859,3 +859,35 @@ morocc_mem.rsw#Memory of Morroc#
 payon_mem.rsw#Memory of Payon#
 moc_paraup.rsw#Inside of Paradise Group Building in Morroc 2nd floor#
 
+//공성전 TE 복사맵 
+te_prt_gld.rsw#Gloria#
+te_prtcas01.rsw#Gaebolg#
+te_prtcas02.rsw#Richard#
+te_prtcas03.rsw#Wigner#
+te_prtcas04.rsw#Heine#
+te_prtcas05.rsw#Nerious#
+teg_dun01.rsw#Subterranean Guild Dungeon#
+te_alde_gld.rsw#Kafragarten#
+te_aldecas1.rsw#Leilah#
+te_aldecas2.rsw#Pavianne#
+te_aldecas3.rsw#Jasmine#
+te_aldecas4.rsw#Roxie#
+te_aldecas5.rsw#Curly Sue#
+teg_dun02.rsw#Subterranean Guild Dungeon#
+
+//고성메모리얼던전
+gl_cas02_.rsw#2nd Hall#
+gl_chyard_.rsw#Churchyard#
+2@gl_k.rsw#1st floor of Old Glast Heim Chivalry#
+1@gl_k.rsw#2nd floor of Old Glast Heim Chivalry#
+
+//Hero's trail
+1@face.rsw#Faceworm's Nest#
+1@sara.rsw#Sara's Memory#
+dali.rsw#Dimensional Gap#
+
+1@def01.rsw#Wave Mode-Forest#
+
+//시계탑나이트메어던전
+c_tower2_.rsw#Clock Town of twisted time 2nd floor#
+c_tower3_.rsw#Clock Town of twisted time 3rd floor#
