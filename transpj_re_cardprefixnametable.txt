@@ -528,8 +528,8 @@
 4546#Fucked up#
 
 / / --- October 2012 _ Hero's Trail
-4556#Power Word#
-4557#Spell of power#
+4556#Power Ward#
+4557#of Spell Power#
 
 / / --- 2013 / 02/15 sealed Dark Lord added
 4488#of Half Doom#
@@ -546,57 +546,56 @@
 4486#of the Half Big Mouse#
 
 / / --- June 2013 _ new cards
-4560#of buragi#
-4561#Magic Protection#
-4562#Of Penetration#
-4563#Of hydrochloric acid#
+4560#of Bragi#
+4561#of Magic Protection#
+4562#Of penetrating#
+4563#Of Hydrochloride#
 4564#Of Gentleman#
 4565#of Grand Cross#
-4566#Of good luck#
-4567#Bard#
+4566#Of lucky#
+4567#of Bard#
 4568#of Gnosis#
-4569#of sources#
-4570#Rapid recovery#
-4571#of bondage#
-4572#Robust#
-4573#Dancer#
-4574#Master Sword#
+4569#of Origin#
+4570#of Fast Recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
 4575#Shortcut#
-4576#Reduce#
+4576#Educe#
 4577#Psychic#
-4578#peer#
+4578#Fear#
 4579#Morning Star#
-4480#Devi of Irish#
+4480#of Devilish#
 4581#Toilet#
 
 //malaya
-4582#Endurance#
-4583#Of poisonous weeds#
-4584#Vampire#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
 4585#Cursed#
-4586#Wind#
+4586#of Wind#
 4587#Slasher#
-4588#Of Powerful#
-4589#Of Reach#
-4590#Of lethargy#
-4591#Of Blood#
-4592#Petrochemical#
-
+4588#of Power#
+4589#of Richness#
+4590#of Helpless#
+4591#of Bloody#
+4592#of Stone Curse#
 4593#of Shooter#
 4594#of Death Blow#
-4595#of acid#
-4596#of Intelligence#
-4597#Water#
-4598#Salt#
-4599#Fire#
-4600#of land#
-4601#Of runaway#
-4602#Berserk#
-4603#Evil spirits#
-4604#of evil spirit#
-4605#Of hunger#
-4606#Of Rancor#
-4607#Librarian#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
 
 4485#Half Abyss#
 4608#Knights#
@@ -622,7 +621,7 @@
 4491#Half of Squeezing#
 
 4503#Half of Vision#
-4539#Hafl Arrogant#
+4539#Half Arrogant#
 
 //--- Agustus 2014 Nightmare Clock Tower
 4625#Sage#
@@ -644,4 +643,26 @@
 4638#Plaid#
 4639#Martial#
 4640#Noetic#
-4641#Of Soul Gathering#
+4641#of Soul Gathering#
+
+// 20150616 jRO Nightmare Pyramid
+4652#Punishment#
+4653#Undead Animal#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flame#
+4658#of Sorcery#
+
+// 2015 06 Infinite Dungeon
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#
+
