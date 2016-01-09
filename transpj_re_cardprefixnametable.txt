@@ -29,7 +29,7 @@
 4028#Double-forced#
 4029#Wolverine#
 4030#Windy#
-4031#of Ares#
+4031#of Mars#
 4032#of Athena#
 4033#Detoxication#
 4034#Clever#
@@ -666,3 +666,54 @@
 4650#Magic Stun#
 4651#Monarch#
 
+// 2015 Doram race
+4659#Adventurer#
+4660#Of Will#
+4661#Of Strength#
+4662#Trinity#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+
+// 2015 Nightmare Toy Factory Cards
+31016#Sorrow#
+31017#Hatred#
+31018#Frustration#
+31019#Chill#
+31020#Wrath#
+31021#Madness#
+31022#Despair#
+31023#Maniac#
+
+// 201512 Tomb of The Fallen Cards
+4671#of Sorcery#
+4672#of Sura#
+4673#of Minstrel#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Genetic#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Aeration Shot#
+4694#Decoy#
+4695#Rain Storm#
+4696#Sound Shock#
