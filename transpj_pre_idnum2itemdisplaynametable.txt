@@ -33,8 +33,8 @@
 535#Pumpkin#
 536#Ice Cream#
 537#Pet Food#
-538#Well Baked Cookie#
-539#Piece Of Cake#
+538#Well-baked Cookie#
+539#Piece of Cake#
 540#Falcon Food#
 541#PecoPeco Food#
 542#Festive Cookie#
@@ -45,7 +45,7 @@
 547#Condensed White Potion#
 548#Cheese#
 549#Yam#
-550#Rice Snack#
+550#Rice Cake#
 551#Sushi#
 552#Ketupat#
 553#Bao#
@@ -55,7 +55,7 @@
 557#Neatly Sliced Rice Cake#
 558#Chocolate#
 559#Hand-made Chocolate#
-560#Handmade Chocolate#
+560#Handmade White Chocolate#
 561#White Chocolate#
 562#Doublecrust Swiss Fondue#
 563#Doublecrust Swiss Fondue#
@@ -129,14 +129,14 @@
 632#Fatty Chubby Earthworm#
 633#Baked Yam#
 634#Tropical Banana#
-635#Horror of Tribe#
+635#Orc Trophy#
 636#No Recipient#
 637#Old Broom#
 638#Silver Knife of Chastity#
 639#Armlet of Obedience#
 640#Shining Stone#
-641#Contracts in Shadow#
-642#Book of Devil#
+641#Contract in Shadow#
+642#Book of the Devil#
 643#Pet Incubator#
 644#Gift Box#
 645#Concentration Potion#
@@ -358,7 +358,7 @@
 1018#Mole Claw#
 1019#Trunk#
 1020#Black Hair#
-1021#Dokkaebi Horn#
+1021#Dokebi Horn#
 1022#Nine Tails#
 1023#Fish Tail#
 1024#Squid Ink#
@@ -398,7 +398,7 @@
 1058#Moth Wings#
 1059#Fabric#
 1060#Golden Hair#
-1061#Witched Starsand#
+1061#Witch Starsand#
 1062#Jack o' Pumpkin#
 1063#Fang#
 1064#Reins#
@@ -437,492 +437,492 @@
 1097#Worn Out Page#
 1098#Manacles#
 1099#Worn-out Prison Uniform#
-1101#One-Handed Sword#
-1102#One-Handed Sword#
-1103#One-Handed Sword#
-1104#One-Handed Sword#
-1105#One-Handed Sword#
-1106#One-Handed Sword#
-1107#One-Handed Sword#
-1108#One-Handed Sword#
-1109#One-Handed Sword#
-1110#One-Handed Sword#
-1111#One-Handed Sword#
-1112#One-Handed Sword#
-1113#One-Handed Sword#
-1114#One-Handed Sword#
-1115#One-Handed Sword#
-1116#Two-Handed Sword#
-1117#Two-Handed Sword#
-1118#Two-Handed Sword#
-1119#One-Handed Sword#
-1120#One-Handed Sword#
-1121#One-Handed Sword#
-1122#One-Handed Sword#
-1123#One-Handed Sword#
-1124#One-Handed Sword#
-1125#One-Handed Sword#
-1126#One-Handed Sword#
-1127#One-Handed Sword#
-1128#One-Handed Sword#
-1129#One-Handed Sword#
-1130#One-Handed Sword#
-1131#One-Handed Sword#
-1132#One-Handed Sword#
-1133#One-Handed Sword#
-1134#One-Handed Sword#
-1135#One-Handed Sword#
-1136#One-Handed Sword#
-1137#One-Handed Sword#
-1138#One-Handed Sword#
-1139#One-Handed Sword#
-1140#One-Handed Sword#
-1141#One-Handed Sword#
-1142#One-Handed Sword#
-1143#One-Handed Sword#
-1144#One-Handed Sword#
-1145#One-Handed Sword#
-1146#One-handed Sword#
-1147#One-handed Sword#
-1148#One-handed Sword#
-1149#One-handed Sword#
-1151#Two-Handed Sword#
-1152#Two-Handed Sword#
-1153#Two-Handed Sword#
-1154#Two-Handed Sword#
-1155#Two-Handed Sword#
-1156#Two-Handed Sword#
-1157#Two-Handed Sword#
-1158#Two-Handed Sword#
-1159#Two-Handed Sword#
-1160#Two-Handed Sword#
-1161#Two-Handed Sword#
-1162#Two-Handed Sword#
-1163#Two-Handed Sword#
-1164#Two-Handed Sword#
-1165#Two-Handed Sword#
-1166#Two-Handed Sword#
-1167#Two-Handed Sword#
-1168#Two-Handed Sword#
-1169#Two-Handed Sword#
-1170#Two-Handed Sword#
-1171#Two-Handed Sword#
-1172#Two-Handed Sword#
-1173#Two-Handed Sword#
-1174#Two-Handed Sword#
-1175#Two-Handed Sword#
-1176#Two-Handed Sword#
-1177#One-Handed Sword#
-1178#Two-Handed Sword#
-1179#Two-Handed Sword#
-1180#Two-Handed Sword#
-1181#Two-Handed Sword#
-1182#Two-Handed Sword#
-1183#Two-Handed Sword#
-1184#Two-Handed Sword#
-1185#Two-Handed Sword#
-1186#Two-Handed Sword#
-1187#Two-Handed Sword#
-1188#Two-Handed Sword#
-1189#Two-Handed Sword#
-1190#Two-Handed Sword#
-1201#Dagger#
-1202#Dagger#
-1203#Dagger#
-1204#Dagger#
-1205#Dagger#
-1206#Dagger#
-1207#Dagger#
-1208#Dagger#
-1209#Dagger#
-1210#Dagger#
-1211#Dagger#
-1212#Dagger#
+1101#Sword#
+1102#Sword#
+1103#Sword#
+1104#Falchion#
+1105#Falchion#
+1106#Falchion#
+1107#Blade#
+1108#Blade#
+1109#Blade#
+1110#Rapier#
+1111#Rapier#
+1112#Rapier#
+1113#Scimiter#
+1114#Scimiter#
+1115#Scimiter#
+1116#Katana#
+1117#Katana#
+1118#Katana#
+1119#Tsurugi#
+1120#Tsurugi#
+1121#Tsurugi#
+1122#Ring Pommel Saber#
+1123#Haedonggum#
+1124#Orcish Sword#
+1125#Ring Pommel Saber#
+1126#Saber#
+1127#Saber#
+1128#Haedonggum#
+1129#Flamberge#
+1130#Nagan#
+1131#Ice Falchion#
+1132#Edge#
+1133#Fireblend#
+1134#Caesar's Sword#
+1135#Cutlus#
+1136#Solar Sword#
+1137#Excalibur#
+1138#Mysteltainn#
+1139#Tirfing#
+1140#Byeollungum#
+1141#Immaterial Sword#
+1142#Jeweled Sword#
+1143#Gaia Sword#
+1144#Sashimi#
+1145#Holy Avenger#
+1146#Town Sword#
+1147#Town Sword#
+1148#Star Dust Blade#
+1149#Flamberge#
+1151#Slayer#
+1152#Slayer#
+1153#Slayer#
+1154#Bastard Sword#
+1155#Bastard Sword#
+1156#Bastard Sword#
+1157#Two-handed Sword#
+1158#Two-handed Sword#
+1159#Two-handed Sword#
+1160#Broad Sword#
+1161#Balmung#
+1162#Broad Sword#
+1163#Claymore#
+1164#Muramasa#
+1165#Masamune#
+1166#Dragon Slayer#
+1167#Schweizersabel#
+1168#Zweihander#
+1169#Executioner#
+1170#Katzbalger#
+1171#Zweihander#
+1172#Claymore#
+1173#Muramasa#
+1174#Executioner#
+1175#Atlas Weapon#
+1176#Muscle Cutter#
+1177#Muramash#
+1178#Schweizersabel#
+1179#Executioner#
+1180#Dragon Slayer#
+1181#Tae Goo Lyeon#
+1182#Bloody Eater#
+1183#Brave Assaulter's Katzbalger#
+1184#Valorous Assaulter's Katzbalger#
+1185#Violet Fear#
+1186#Death Guidance#
+1187#Glorious Claymore#
+1188#Veteran Sword#
+1189#Krasnaya#
+1190#Claymore#
+1201#Knife#
+1202#Knife#
+1203#Knife#
+1204#Cutter#
+1205#Cutter#
+1206#Cutter#
+1207#Main Gauche#
+1208#Main Gauche#
+1209#Main Gauche#
+1210#Dirk#
+1211#Dirk#
+1212#Dirk#
 1213#Dagger#
 1214#Dagger#
 1215#Dagger#
-1216#Dagger#
-1217#Dagger#
-1218#Dagger#
-1219#Dagger#
-1220#Dagger#
-1221#Dagger#
-1222#Dagger#
-1223#Dagger#
-1224#Dagger#
-1225#Dagger#
-1226#Dagger#
-1227#Dagger#
-1228#Dagger#
-1229#Dagger#
-1230#Dagger#
-1231#Dagger#
-1232#Dagger#
-1233#Dagger#
-1234#Dagger#
-1235#Dagger#
-1236#Dagger#
-1237#Dagger#
-1238#Knife#
-1239#Knife#
-1240#Knife#
-1241#Dagger#
-1242#Dagger#
-1243#Dagger#
-1244#Knife#
-1245#Dagger#
-1246#Dagger#
-1247#Dagger#
-1248#Dagger#
-1249#Dagger#
-1250#Katar#
-1251#Katar#
+1216#Stiletto#
+1217#Stiletto#
+1218#Stiletto#
+1219#Gladius#
+1220#Gladius#
+1221#Gladius#
+1222#Damascus#
+1223#Fortune Sword#
+1224#Swordbreaker#
+1225#Mailbreaker#
+1226#Damascus#
+1227#Weeder Knife#
+1228#Combat Knife#
+1229#Kitchen Knife#
+1230#Ice pick#
+1231#Bazerald#
+1232#Assassin Dagger#
+1233#Exorciser#
+1234#Moonlight Dagger#
+1235#Azoth#
+1236#Sucsamad#
+1237#Grimtooth#
+1238#Zeny Knife#
+1239#Poison Knife#
+1240#Princess Knife#
+1241#Cursed Dagger#
+1242#Dagger of Counter#
+1243#Novice Main-Gauche#
+1244#Holy Dagger#
+1245#Cinquedea#
+1246#Cinquedea#
+1247#Kindle Dagger#
+1248#Obsidian Dagger#
+1249#Fisherman's Dagger#
+1250#Jur#
+1251#Jur#
 1252#Katar#
 1253#Katar#
-1254#Katar#
-1255#Katar#
-1256#Katar#
-1257#Katar#
-1258#Katar#
-1259#Katar#
-1260#Katar#
-1261#Katar#
-1262#Katar#
-1263#Katar#
-1264#Katar#
-1265#Katar#
-1266#Katar#
-1267#Katar#
-1268#Katar#
-1269#Katar#
-1270#Katar#
-1271#Katar#
-1272#Katar#
-1273#Katar#
-1274#Katar#
-1275#Katar#
-1276#Katar#
-1277#Katar#
-1278#Katar#
-1279#Katar#
-1280#Katar#
-1281#Katar#
-1282#Katar#
-1283#Katar#
-1284#Katar#
-1285#Katar#
-1286#Katar#
+1254#Jamadhar#
+1255#Jamadhar#
+1256#Katar of Frozen Icicle#
+1257#Katar of Quaking#
+1258#Katar of Raging Blaze#
+1259#Katar of Piercing Wind#
+1260#Sharpened Legbone of Ghoul#
+1261#Infiltrator#
+1262#Loki's Nail#
+1263#Unholy Touch#
+1264#Specialty Jur#
+1265#Bloody Roar#
+1266#Infiltrator#
+1267#Infiltrator#
+1268#Wild Beast Claw#
+1269#Inverse Scale#
+1270#Drill Katar#
+1271#Blood Tears#
+1272#Scratcher#
+1273#Bloody Roar#
+1274#Unholy Touch#
+1275#Katar of Frozen Icicle#
+1276#Katar of Quaking#
+1277#Katar of Raging Blaze#
+1278#Katar of Piercing Wind#
+1279#Brave Carnage Katar#
+1280#Valorous Carnage Katar#
+1281#Glorious Bloody Roar#
+1282#Glorious Jamadhar#
+1283#Katar Of Speed#
+1284#Krishna#
+1285#Chakram#
+1286#Jamadhar#
 1301#Axe#
 1302#Axe#
 1303#Axe#
-1304#Axe#
-1305#Axe#
-1306#Axe#
-1307#Axe#
-1308#Axe#
-1309#Axe#
-1310#Axe#
-1311#Axe#
-1312#One-Handed Axe#
-1313#One-Handed Axe#
-1314#Axe#
-1315#Axe#
-1351#Two-Handed Axe#
-1352#Two-Handed Axe#
-1353#Two-Handed Axe#
-1354#Two-Handed Axe#
-1355#Two-Handed Axe#
-1356#Two-Handed Axe#
-1357#Two-Handed Axe#
-1358#Two-Handed Axe#
-1359#Two-Handed Axe#
-1360#Two-Handed Axe#
-1361#Two-Handed Axe#
-1362#Two-Handed Axe#
-1363#Two-Handed Axe#
-1364#Two-Handed Axe#
-1365#Two-Handed Axe#
-1366#Two-Handed Axe#
-1367#Two-Handed Axe#
-1368#One-Handed Axe#
-1369#Two-Handed Axe#
-1370#Two-Handed Axe#
-1371#Two-Handed Axe#
-1372#Two-Handed Axe#
-1373#Two-Handed Axe#
-1374#One-Handed Axe#
-1375#Two-Handed Axe#
-1376#Two-Handed Axe#
-1377#Two-Handed Axe#
-1378#Two-Handed Axe#
-1379#Two-Handed Axe#
-1380#Two-Handed Axe#
-1381#Two-Handed Axe#
-1382#Two-Handed Axe#
-1383#Two-Handed Axe#
-1384#Two-Handed Axe#
-1385#Two-Handed Axe#
-1386#Two-Handed Axe#
-1387#Two-Handed Axe#
+1304#Orcish Axe#
+1305#Cleaver#
+1306#War Axe#
+1307#Windhawk#
+1308#Golden Axe#
+1309#Orcish Axe#
+1310#Glorious Cleaver#
+1311#Vecer Axe#
+1312#Orcish Axe#
+1313#Traveler's Axe#
+1314#Rental Tomahawk#
+1315#Right Epsilon#
+1351#Battle Axe#
+1352#Battle Axe#
+1353#Battle Axe#
+1354#Hammer#
+1355#Hammer#
+1356#Hammer#
+1357#Buster#
+1358#Buster#
+1359#Buster#
+1360#Two-handed Axe#
+1361#Two-handed Axe#
+1362#Two-handed Axe#
+1363#Bloody Axe#
+1364#Great Axe#
+1365#Sabbath#
+1366#Light Epsilon#
+1367#Slaughter#
+1368#Tomahawk#
+1369#Guillotine#
+1370#Doom Slayer#
+1371#Doom Slayer#
+1372#Rental Light Epsilon#
+1373#Refined Bloody Axe#
+1374#Tomahawk#
+1375#Berdysz#
+1376#Heart Breaker#
+1377#Hurricane Fury#
+1378#Refined Great Axe#
+1379#Valorous Insane Battle Axe#
+1380#Brave Insane Battle Axe#
+1381#Novice Battle Axe#
+1382#Glorious Twohanded Axe#
+1383#Holy Celestial Axe#
+1384#Veteran Axe#
+1385#Bradium Stonehammer#
+1386#Doom Slayer#
+1387#Giant Axe#
 1388#Two-Handed Axe#
-1389#One-Handed Axe#
-1390#Two-Handed Axe#
-1401#One-Handed Spear#
-1402#One-Handed Spear#
-1403#One-Handed Spear#
-1404#One-Handed Spear#
-1405#One-Handed Spear#
-1406#One-Handed Spear#
-1407#One-Handed Spear#
-1408#One-Handed Spear#
-1409#One-Handed Spear#
-1410#Two-Handed Spear#
-1411#Two-Handed Spear#
-1412#Two-Handed Spear#
-1413#One-Handed Spear#
-1414#One-Handed Spear#
-1415#One-Handed Spear#
-1416#One-Handed Spear#
-1417#One-Handed Spear#
-1418#One-Handed Spear#
-1419#One-Handed Spear#
-1420#One-Handed Spear#
-1421#One-Handed Spear#
-1422#One-Handed Spear#
-1423#One-Handed Spear#
-1424#One-Handed Spear#
-1425#One-Handed Spear#
-1426#One-Handed Spear#
-1427#One-Handed Spear#
-1428#One-Handed Spear#
-1429#One-Handed Spear#
-1430#One-Handed Spear#
-1431#One-Handed Spear#
-1432#One-Handed Spear#
-1451#Two-Handed Spear#
-1452#Two-Handed Spear#
-1453#Two-Handed Spear#
-1454#Two-Handed Spear#
-1455#Two-Handed Spear#
-1456#Two-Handed Spear#
-1457#Two-Handed Spear#
-1458#Two-Handed Spear#
-1459#Two-Handed Spear#
-1460#Two-Handed Spear#
-1461#Two-Handed Spear#
-1462#Two-Handed Spear#
-1463#Two-Handed Spear#
-1464#Two-Handed Spear#
-1465#Two-Handed Spear#
-1466#Two-Handed Spear#
-1467#Two-Handed Spear#
-1468#Two-Handed Spear#
-1469#Two-Handed Spear#
-1470#Two-Handed Spear#
-1471#Two-Handed Spear#
-1472#Two-Handed Staff#
-1473#Two-Handed Staff#
-1474#Two-Handed Spear#
-1475#Two-Handed Spear#
-1476#Two-Handed Spear#
-1477#Two-Handed Spear#
-1478#Two-Handed Spear#
-1479#Two-Handed Spear#
-1480#Two-Handed Spear#
-1481#Two-Handed Spear#
-1482#Two-Handed Spear#
-1483#Two-Handed Spear#
-1484#Two-Handed Spear#
-1485#Two-Handed Spear#
-1486#Two-Handed Spear#
-1487#Two-Handed Spear#
-1488#Two-Handed Spear#
-1501#Mace#
-1502#Mace#
-1503#Mace#
+1389#Tomahawk#
+1390#Light Epsilon#
+1401#Javelin#
+1402#Javelin#
+1403#Javelin#
+1404#Spear#
+1405#Spear#
+1406#Spear#
+1407#Pike#
+1408#Pike#
+1409#Pike#
+1410#Lance#
+1411#Lance#
+1412#Lance#
+1413#Gungnir#
+1414#Gelerdria#
+1415#Brocca#
+1416#Tjungkuletti#
+1417#Poll Axe#
+1418#Gungnir#
+1419#Poll Axe#
+1420#Long Horn#
+1421#Battle Hook#
+1422#Hunting Spear#
+1423#Pole XO#
+1424#Refined Brocca#
+1425#Assaulter Spear#
+1426#Glorious Spear#
+1427#Spear Of Excellent#
+1428#Long Horn#
+1429#Hunting Spear#
+1430#Pike#
+1431#Rental Pole Axe#
+1432#Pole Axe#
+1451#Guisarme#
+1452#Guisarme#
+1453#Guisarme#
+1454#Glaive#
+1455#Glaive#
+1456#Glaive#
+1457#Partizan#
+1458#Partizan#
+1459#Partizan#
+1460#Trident#
+1461#Trident#
+1462#Trident#
+1463#Hallberd#
+1464#Hallberd#
+1465#Hallberd#
+1466#Crescent Scythe#
+1467#Bill Guisarme#
+1468#Zephyrus#
+1469#Longinus's Spear#
+1470#Brionac#
+1471#Hellfire#
+1472#Soul Staff#
+1473#Wizardry Staff#
+1474#Gae Bolg#
+1475#Equestrian's Spear#
+1476#Crescent Scythe#
+1477#Spectral Spear#
+1478#Ahlspiess#
+1479#Spectral Spear#
+1480#Gae Bolg#
+1481#Zephyrus#
+1482#Assaulter Lance#
+1483#Ivory Lance#
+1484#Cardo#
+1485#Battle Fork#
+1486#Glorious Lance#
+1487#Lance#
+1488#Ahlspiess#
+1501#Club#
+1502#Club#
+1503#Club#
 1504#Mace#
 1505#Mace#
 1506#Mace#
-1507#Mace#
-1508#Mace#
-1509#Mace#
-1510#Mace#
-1511#Mace#
-1512#Mace#
-1513#Mace#
-1514#Mace#
-1515#Mace#
-1516#Mace#
-1517#Mace#
-1518#Mace#
-1519#Mace#
-1520#Mace#
-1521#Mace#
-1522#Mace#
-1523#Mace#
-1524#Mace#
-1525#Mace#
-1526#Mace#
-1527#Mace#
-1528#Mace#
-1529#Mace#
-1530#Mace#
-1531#Mace#
-1532#Mace#
-1533#One-Handed Sword#
-1534#Mace#
-1535#Mace#
-1536#Mace#
-1537#Mace#
-1538#Mace#
-1539#Mace#
-1540#Mace#
-1541#Mace#
-1542#Mace#
-1543#Mace#
-1544#Mace#
-1545#Mace#
-1546#Mace#
-1547#Mace#
-1548#Mace#
+1507#Smasher#
+1508#Smasher#
+1509#Smasher#
+1510#Flail#
+1511#Flail#
+1512#Flail#
+1513#Morning Star#
+1514#Morning Star#
+1515#Morning Star#
+1516#Sword Mace#
+1517#Sword Mace#
+1518#Sword Mace#
+1519#Chain#
+1520#Chain#
+1521#Chain#
+1522#Stunner#
+1523#Spike#
+1524#Golden Mace#
+1525#Long Mace#
+1526#Slash#
+1527#Quadrille#
+1528#Grand Cross#
+1529#Iron Driver#
+1530#Mjolnir#
+1531#Wrench#
+1532#Stunner#
+1533#Warrior's Balmung#
+1534#Wrench#
+1535#Hollgrehenn's Hammer#
+1536#Good Morning Star#
+1537#Refined Quadrille#
+1538#Spike#
+1539#Golden Mace#
+1540#Grand Cross#
+1541#Nemesis#
+1542#Valorous Battlefield Morning Star#
+1543#Brave Battlefield Morning Star#
+1544#Lunakaligo#
+1545#Novice Mace#
+1546#Glorious Morning Star#
+1547#Mace Of Madness#
+1548#Veteran Hammer#
 1550#Book#
-1551#Book#
-1552#Book#
-1553#Book#
-1554#Book#
-1555#Book#
-1556#Book#
-1557#Book#
-1558#Book#
-1559#Book#
-1560#Book#
-1561#Book#
-1562#Book#
-1563#Book#
-1564#Book#
-1565#Book#
-1566#Book#
-1567#Book#
-1568#Book#
-1569#Book#
-1570#Book#
-1571#Book#
-1572#Book#
-1573#Book#
-1574#Book#
-1575#Book#
-1576#Book#
-1577#Book#
-1578#Book#
-1579#Book#
-1580#Book#
-1581#Book#
-1582#Book#
-1599#Mace#
-1601#One-Handed Staff#
-1602#One-Handed Staff#
-1603#One-Handed Staff#
-1604#One-Handed Staff#
-1605#One-Handed Staff#
-1606#One-Handed Staff#
-1607#One-Handed Staff#
-1608#One-Handed Staff#
-1609#One-Handed Staff#
-1610#One-Handed Staff#
-1611#One-Handed Staff#
-1612#One-Handed Staff#
-1613#One-Handed Staff#
-1614#One-Handed Staff#
-1615#One-Handed Staff#
-1616#One-Handed Staff#
-1617#One-Handed Staff#
-1618#One-Handed Staff#
-1619#One-Handed Staff#
-1620#One-Handed Staff#
-1621#One-Handed Staff#
-1622#One-Handed Staff#
-1623#One-Handed Staff#
-1624#One-Handed Staff#
-1625#One-Handed Staff#
-1626#One-Handed Staff#
-1627#One-Handed Staff#
-1628#One-Handed Staff#
-1629#One-Handed Staff#
-1630#One-Handed Staff#
-1631#One-Handed Staff#
-1632#One-Handed Staff#
-1633#One-Handed Staff#
-1634#One-Handed Staff#
-1635#One-Handed Staff#
-1636#One-Handed Staff#
-1637#One-Handed Staff#
-1638#One-Handed Staff#
-1639#One-Handed Staff#
-1640#One-Handed Staff#
-1641#One-Handed Staff#
-1642#One-Handed Staff#
-1643#One-Handed Staff#
-1644#One-Handed Staff#
-1645#One-Handed Staff#
-1646#One-Handed Staff#
-1647#One-Handed Staff#
-1648#One-Handed Staff#
+1551#Bible#
+1552#Tablet#
+1553#Book of Billows#
+1554#Book of Mother Earth#
+1555#Book of the Blazing Sun#
+1556#Book of Gust of Wind#
+1557#Book of the Apocalypse#
+1558#Girl's Diary#
+1559#Legacy of Dragon#
+1560#Sage's Diary#
+1561#Hardcover Book#
+1562#Battlefield Textbook#
+1563#Rental Sage's Diary#
+1564#Encyclopedia#
+1565#Ledger of Death#
+1566#Diary Of Great Basil#
+1567#Refined Hardcover Book#
+1568#Book of Billows#
+1569#Book of Mother Earth#
+1570#Book of Blazing Sun#
+1571#Book of Gust of Wind#
+1572#Principles of Magic#
+1573#Ancient Magic#
+1574#Brave Battle Strategy Book#
+1575#Valorous Battle Strategy Book#
+1576#Glorious Tablet#
+1577#Glorious Apocalypse#
+1578#Book Of Prayer#
+1579#Book of the Dead#
+1580#Giant Encyclopedia#
+1581#Diary Of Great Sage#
+1582#Diary Of Great Sage#
+1599#Angra manyu#
+1601#Rod#
+1602#Rod#
+1603#Rod#
+1604#Wand#
+1605#Wand#
+1606#Wand#
+1607#Staff#
+1608#Staff#
+1609#Staff#
+1610#Arc Wand#
+1611#Arc Wand#
+1612#Arc Wand#
+1613#Mighty Staff#
+1614#Wand of Occult#
+1615#Evil Bone Wand#
+1616#Wing Staff#
+1617#Survivor's Rod#
+1618#Survivor's Rod#
+1619#Survivor's Rod#
+1620#Survivor's Rod#
+1621#Hypnotist's Staff#
+1622#Hypnotist's Staff#
+1623#Mighty Staff#
+1624#Lich's Bone Wand#
+1625#Healing Staff#
+1626#Piercing Staff#
+1627#Staffy#
+1628#Refined Survivor's Rod#
+1629#Gentleman Staff#
+1630#Release of Wish#
+1631#Holy Stick#
+1632#Warlock's Magic Wand#
+1633#Warlock's Battle Wand#
+1634#Strong Recovery Wand#
+1635#Speedy Recovery Wand#
+1636#Thorn Staff of Darkness#
+1637#Eraser#
+1638#Staff Of Healing#
+1639#Novice Rod#
+1640#Glorious Arc Wand#
+1641#Glorious Cure Wand#
+1642#Staff Of Darkness#
+1643#Dead Tree CaneStaff#
+1644#Staff of Piercing#
+1645#Lich's Bone Wand#
+1646#La'cryma Stick#
+1647#Croce Staff#
+1648#Staff Of Bordeaux#
 1701#Bow#
 1702#Bow#
 1703#Bow#
-1704#Bow#
-1705#Bow#
-1706#Bow#
-1707#Bow#
-1708#Bow#
-1709#Bow#
-1710#Bow#
-1711#Bow#
-1712#Bow#
-1713#Bow#
-1714#Bow#
-1715#Bow#
-1716#Bow#
-1718#Bow#
-1719#Bow#
-1720#Bow#
-1721#Bow#
-1722#Bow#
-1723#Bow#
-1724#Bow#
-1725#Bow#
-1726#Bow#
-1727#Bow#
-1728#Bow#
-1729#Bow#
-1730#Bow#
-1731#Bow#
-1732#Bow#
-1733#Bow#
-1734#Bow#
-1735#Bow#
-1736#Bow#
-1737#Bow#
-1738#Bow#
-1739#Bow#
-1740#Bow#
-1741#Bow#
-1742#Bow#
-1743#Bow#
-1744#Bow#
-1745#Bow#
+1704#Composite Bow#
+1705#Composite Bow#
+1706#Composite Bow#
+1707#Great Bow#
+1708#Great Bow#
+1709#Great Bow#
+1710#Cross Bow#
+1711#Cross Bow#
+1712#Cross Bow#
+1713#Arbalest Bow#
+1714#Gakkung Bow#
+1715#Arbalest Bow#
+1716#Gakkung Bow#
+1718#Hunter Bow#
+1719#Roguemaster's Bow#
+1720#Rudra Bow#
+1721#Repeating Crossbow#
+1722#Ballista#
+1723#Luna Bow#
+1724#Dragon Wing#
+1725#Minstrel Bow#
+1726#Hunter Bow#
+1727#Ballista#
+1728#Ballista#
+1729#Rudra Bow#
+1730#Burning Bow#
+1731#Frozen Bow#
+1732#Earth Bow#
+1733#Gust Bow#
+1734#Orc Archer Bow#
+1735#Kkakkung#
+1736#Double Bound#
+1737#Ixion Wings#
+1738#Valorous Battle CrossBow#
+1739#Brave Battle CrossBow#
+1740#Nepenthes Bow#
+1741#Cursed Lyre#
+1742#Novice Composite Bow#
+1743#Glorious Hunter Bow#
+1744#Bow Of Evil#
+1745#Falken Blitz#
 1750#Arrow#
-1751#Arrow#
-1752#Arrow#
+1751#Silver Arrow#
+1752#Fire Arrow#
 1753#Steel Arrow#
 1754#Crystal Arrow#
 1755#Arrow of Wind#
 1756#Stone Arrow#
 1757#Immaterial Arrow#
 1758#Stun Arrow#
-1759#Freezing Arrow#
+1759#Frozen Arrow#
 1760#Flash Arrow#
-1761#Curse Arrow#
+1761#Cursed Arrow#
 1762#Rusty Arrow#
 1763#Poison Arrow#
 1764#Sharp Arrow#
@@ -934,620 +934,620 @@
 1770#Iron Arrow#
 1771#Venom Knife#
 1772#Holy Arrow#
-1801#Claw#
-1802#Claw#
-1803#Claw#
-1804#Claw#
-1805#Claw#
-1806#Claw#
-1807#Claw#
-1808#Claw#
+1801#Waghnak#
+1802#Waghnak#
+1803#Knuckle Dusters#
+1804#Knuckle Dusters#
+1805#Studded Knuckles#
+1806#Studded Knuckles#
+1807#Fist#
+1808#Fist#
 1809#Claw#
 1810#Claw#
-1811#Claw#
-1812#Claw#
-1813#Claw#
-1814#Claw#
-1815#Claw#
-1816#Claw#
-1817#Claw#
-1818#Claw#
-1819#Claw#
-1820#Claw#
-1821#Claw#
-1822#Claw#
-1823#Claw#
-1824#Claw#
-1825#Claw#
-1826#Claw#
-1827#Claw#
-1828#Knuckle#
+1811#Finger#
+1812#Finger#
+1813#Kaiser Knuckle#
+1814#Berserk#
+1815#Hatii Claw#
+1816#Berserk#
+1817#Kaiser Knuckle#
+1818#Magma Fist#
+1819#Icicle Fist#
+1820#Electric Fist#
+1821#Seismic Fist#
+1822#Combo Battle Glove#
+1823#Valorous Battle Fist#
+1824#Brave Battle Fist#
+1825#Horn of Hillslion#
+1826#Glorious Claw#
+1827#Glorious Fist#
+1828#Monk Knuckle#
 1829#Fist#
-1901#Musical Instrument#
-1902#Musical Instrument#
-1903#Musical Instrument#
-1904#Musical Instrument#
-1905#Musical Instrument#
-1906#Musical Instrument#
-1907#Musical Instrument#
-1908#Musical Instrument#
-1909#Musical Instrument#
-1910#Musical Instrument#
-1911#Musical Instrument#
-1912#Musical Instrument#
-1913#Musical Instrument#
-1914#Musical Instrument#
-1915#Musical Instrument#
-1916#Musical Instrument#
-1917#Musical Instrument#
-1918#Musical Instrument#
-1919#Musical Instrument#
-1920#Musical Instrument#
-1921#Musical Instrument#
-1922#Musical Instrument#
-1923#Musical Instrument#
-1924#Musical Instrument#
-1925#Musical Instrument#
-1926#Musical Instrument#
-1927#Musical Instrument#
-1928#Musical Instrument#
-1929#Musical Instrument#
-1950#Whip#
-1951#Whip#
+1901#Violin#
+1902#Violin#
+1903#Mandolin#
+1904#Mandolin#
+1905#Lute#
+1906#Lute#
+1907#Guitar#
+1908#Guitar#
+1909#Harp#
+1910#Harp#
+1911#Gumoongoh#
+1912#Gumoongoh#
+1913#Electric Guitar#
+1914#Burning Passion Guitar#
+1915#Loner's Guitar#
+1916#Green Acre Guitar#
+1917#Gentle Breeze Guitar#
+1918#Oriental Lute#
+1919#Base Guitar#
+1920#Berserk Guitar#
+1921#Gun Moon Gom#
+1922#Oriental Lute#
+1923#Valorous Battlefield Guitar#
+1924#Brave Battlefield Guitar#
+1925#Cello#
+1926#Harp of Nepenthes#
+1927#Glorious Guitar#
+1928#Berserk Guitar#
+1929#Guitar#
+1950#Rope#
+1951#Rope#
 1952#Whip#
 1953#Whip#
-1954#Whip#
-1955#Whip#
-1956#Whip#
-1957#Whip#
-1958#Whip#
-1959#Whip#
+1954#Wire Whip#
+1955#Wire Whip#
+1956#Rante Whip#
+1957#Rante Whip#
+1958#Tail Whip#
+1959#Tail Whip#
 1960#Whip#
 1961#Whip#
-1962#Whip#
-1963#Whip#
-1964#Whip#
-1965#Whip#
-1966#Whip#
-1967#Whip#
-1968#Whip#
-1969#Whip#
-1970#Whip#
-1971#Whip#
-1972#Whip#
-1973#Whip#
-1974#Whip#
-1975#Whip#
-1976#Whip#
-1977#Whip#
-1978#Whip#
-1979#Whip#
-1980#Whip#
-1981#Whip#
-1982#Whip#
-1983#Whip#
-2000#Two-Handed Staff#
-2001#Two-Handed Staff#
-2002#Two-Handed Staff#
-2003#Two-Handed Staff#
-2004#Two-Handed Staff#
-2005#Two-Handed Staff#
-2006#Two-Handed Staff#
-2101#Shield#
-2102#Shield#
-2103#Shield#
-2104#Shield#
+1962#Lariat Whip#
+1963#Rapture Rose#
+1964#Chemeti Whip#
+1965#Red Flame Whip#
+1966#Icicle Whip#
+1967#Gaia Whip#
+1968#Skipping Rope#
+1969#Blade Whip#
+1970#Queen's Whip#
+1971#Electric Wire#
+1972#Electric Eel#
+1973#Sea Witch's Foot#
+1974#Carrot Whip#
+1975#Whip of The Queen#
+1976#Queen's Whip#
+1977#Valorous Battle Lariat#
+1978#Brave Battle Lariat#
+1979#Stem of Nepenthes#
+1980#Whip of Balance#
+1981#Glorious Lariat#
+1982#Phenomena Whip#
+1983#Rante Whip#
+2000#Staff of Destruction#
+2001#Divine Cross#
+2002#Glorious Destruction Staff#
+2003#Staff of Destruction#
+2004#Kronos#
+2005#Dea Staff#
+2006#Guardian Of Light Wand#
+2101#Guard#
+2102#Guard#
+2103#Buckler#
+2104#Buckler#
 2105#Shield#
 2106#Shield#
-2107#Shield#
-2108#Shield#
-2109#Shield#
-2110#Shield#
-2111#Shield#
-2112#Shield#
-2113#Shield#
-2114#Shield#
-2115#Shield#
-2116#Shield#
-2117#Shield#
-2118#Shield#
-2119#Shield#
-2120#Shield#
-2121#Shield#
-2122#Shield#
-2123#Shield#
-2124#Shield#
-2125#Shield#
-2126#Shield#
-2127#Shield#
-2128#Shield#
-2129#Shield#
-2130#Shield#
-2131#Shield#
-2132#Shield#
-2133#Shield#
-2134#Shield#
-2135#Shield#
+2107#Mirror Shield#
+2108#Mirror Shield#
+2109#Memory Book#
+2110#Holy Guard#
+2111#Sacred Mission#
+2112#Novice Guard#
+2113#Novice Shield#
+2114#Stone Buckler#
+2115#Valkyrja's Shield#
+2116#Angelic Guard#
+2117#Arm Guard#
+2118#Arm Guard#
+2119#Advanced Arm Guard#
+2120#Advanced Arm Guard#
+2121#Memory Book#
+2122#Platinum Shield#
+2123#Orleans's Server#
+2124#Thorny Buckler#
+2125#Strong Shield#
+2126#Old Shield#
+2127#Lion's Slipper#
+2128#Sacred Mission#
+2129#Exorcism Bible#
+2130#Cross Shield#
+2131#Magic Bible Vol1#
+2132#Shelter Resistance#
+2133#Tournament Shield#
+2134#Shield of Naga#
+2135#Shadow Guard#
 2136#Cracked Buckler#
-2137#Shield#
-2138#Shield#
-2199#Shield#
-2201#Headgear#
-2202#Headgear#
-2203#Headgear#
-2204#Headgear#
-2205#Headgear#
-2206#Headgear#
-2207#Headgear#
-2208#Headgear#
-2209#Headgear#
-2210#Headgear#
-2211#Headgear#
-2212#Headgear#
-2213#Headgear#
-2214#Headgear#
-2215#Headgear#
-2216#Headgear#
-2217#Headgear#
-2218#Headgear#
-2219#Headgear#
-2220#Headgear#
-2221#Headgear#
-2222#Headgear#
-2223#Headgear#
-2224#Headgear#
-2225#Headgear#
-2226#Headgear#
-2227#Headgear#
-2228#Headgear#
-2229#Headgear#
-2230#Headgear#
-2231#Headgear#
-2232#Headgear#
-2233#Headgear#
-2234#Headgear#
-2235#Headgear#
-2236#Headgear#
-2237#Headgear#
-2238#Headgear#
-2239#Headgear#
-2240#Headgear#
-2241#Headgear#
-2242#Headgear#
-2243#Headgear#
-2244#Headgear#
-2245#Headgear#
-2246#Headgear#
-2247#Headgear#
-2248#Headgear#
-2249#Headgear#
-2250#Headgear#
-2251#Headgear#
-2252#Headgear#
-2253#Headgear#
-2254#Headgear#
-2255#Headgear#
-2256#Headgear#
-2257#Headgear#
-2258#Headgear#
-2259#Headgear#
-2260#Headgear#
-2261#Headgear#
-2262#Headgear#
-2263#Headgear#
-2264#Headgear#
-2265#Headgear#
-2266#Headgear#
-2267#Headgear#
-2268#Headgear#
-2269#Headgear#
-2270#Headgear#
-2271#Headgear#
-2272#Headgear#
-2273#Headgear#
-2274#Headgear#
-2275#Headgear#
-2276#Headgear#
-2277#Headgear#
-2278#Headgear#
-2279#Headgear#
-2280#Headgear#
-2281#Headgear#
-2282#Headgear#
-2283#Headgear#
-2284#Headgear#
-2285#Headgear#
-2286#Headgear#
-2287#Headgear#
-2288#Headgear#
-2289#Headgear#
-2290#Headgear#
-2291#Headgear#
-2292#Headgear#
-2293#Headgear#
-2294#Headgear#
-2295#Headgear#
-2296#Headgear#
-2297#Headgear#
-2298#Headgear#
-2299#Headgear#
-2301#Clothing#
-2302#Clothing#
-2303#Clothing#
-2304#Clothing#
-2305#Clothing#
-2306#Clothing#
-2307#Clothing#
-2308#Clothing#
-2309#Clothing#
-2310#Clothing#
-2311#Clothing#
-2312#Armor#
-2313#Armor#
-2314#Armor#
-2315#Armor#
-2316#Armor#
-2317#Armor#
-2318#Clothing#
-2319#Clothing#
-2320#Clothing#
-2321#Clothing#
-2322#Clothing#
-2323#Clothing#
-2324#Clothing#
-2325#Clothing#
-2326#Clothing#
-2327#Clothing#
-2328#Armor#
-2329#Armor#
-2330#Clothing#
-2331#Clothing#
-2332#Clothing#
-2333#Clothing#
-2334#Clothing#
-2335#Clothing#
-2336#Clothing#
-2337#Clothing#
-2338#Clothing#
-2339#Clothing#
-2340#Armor#
-2341#Armor#
-2342#Armor#
-2343#Clothing#
-2344#Armor#
-2345#Armor#
-2346#Armor#
-2347#Armor#
-2348#Armor#
-2349#Armor#
-2350#Armor#
-2351#Armor#
-2352#Clothing#
-2353#Armor#
-2354#Armor#
-2355#Clothing#
-2356#Clothing#
-2357#Armor#
-2358#Clothing#
-2359#Clothing#
-2360#Clothing#
-2361#Clothing#
-2362#Clothing#
-2363#Clothing#
-2364#Armor#
-2365#Clothing#
-2366#Clothing#
-2367#Clothing#
-2368#Armor#
-2369#Clothing#
-2370#Clothing#
-2371#Clothing#
-2372#Clothing#
-2373#Clothing#
-2374#Clothing#
-2375#Armor#
-2376#Armor#
-2377#Armor#
-2378#Clothing#
-2379#Clothing#
-2380#Clothing#
-2381#Clothing#
-2382#Clothing#
-2383#Armor#
-2384#Armor#
-2385#Armor#
-2386#Armor#
-2387#Armor#
-2388#Clothing#
-2389#Armor#
-2390#Clothing#
-2391#Armor#
-2392#Clothing#
-2393#Clothing#
-2394#Clothing#
-2395#Clothing#
-2396#Clothing#
-2397#Clothing#
-2398#Clothing#
-2399#Armor#
-2401#Shoes#
-2402#Shoes#
+2137#Neo Valkyrja's Shield#
+2138#Bradium Shield#
+2199#Ahura Mazdah#
+2201#Sunglasses#
+2202#Sunglasses#
+2203#Glasses#
+2204#Glasses#
+2205#Diver Goggles#
+2206#Wedding Veil#
+2207#Fancy Flower#
+2208#Ribbon#
+2209#Ribbon#
+2210#Hairband#
+2211#Bandana#
+2212#Eye Patch#
+2213#Kitty Band#
+2214#Bunny Band#
+2215#Flower Band#
+2216#Biretta#
+2217#Biretta#
+2218#Flu Mask#
+2219#Flu Mask#
+2220#Hat#
+2221#Hat#
+2222#Turban#
+2223#Turban#
+2224#Goggles#
+2225#Goggles#
+2226#Cap#
+2227#Cap#
+2228#Helm#
+2229#Helm#
+2230#Gemmed Sallet#
+2231#Gemmed Sallet#
+2232#Circlet#
+2233#Circlet#
+2234#Tiara#
+2235#Crown#
+2236#Santa Hat#
+2237#Bandit Beard#
+2238#Moustache#
+2239#Monocle#
+2240#Beard#
+2241#Grampa Beard#
+2242#Purple Glasses#
+2243#Geek Glasses#
+2244#Big Ribbon#
+2245#Sweet Gent#
+2246#Golden Gear#
+2247#Romantic Gent#
+2248#Western Grace#
+2249#Coronet#
+2250#Cute Ribbon#
+2251#Monk Hat#
+2252#Wizard Hat#
+2253#Sunflower#
+2254#Angel Wing#
+2255#Evil Wing#
+2256#Magestic Goat#
+2257#Unicorn Horn#
+2258#Spiky Band#
+2259#Mini Propeller#
+2260#Mini Glasses#
+2261#Army Cap#
+2262#Clown Nose#
+2263#Zorro Masque#
+2264#Munak Hat#
+2265#Gangster Mask#
+2266#Iron Cain#
+2267#Cigarette#
+2268#Pipe#
+2269#Romantic Flower#
+2270#Romantic Leaf#
+2271#Jack be Dandy#
+2272#Stop Post#
+2273#Doctor Band#
+2274#Ghost Bandana#
+2275#Red Bandana#
+2276#Eagle Eyes#
+2277#Nurse Cap#
+2278#Mr. Smile#
+2279#Bomb Wick#
+2280#Sakkat#
+2281#Opera Masque#
+2282#Halo#
+2283#Ear Muffs#
+2284#Antlers#
+2285#Apple of Archer#
+2286#Elven Ears#
+2287#Pirate Bandana#
+2288#Mr. Scream#
+2289#Poo Poo Hat#
+2290#Funeral Hat#
+2291#Masquerade#
+2292#Welding Mask#
+2293#Pretend Murdered#
+2294#Stellar#
+2295#Blinker#
+2296#Binoculars#
+2297#Goblin Mask#
+2298#Green Feeler#
+2299#Orc Helm#
+2301#Cotton Shirt#
+2302#Cotton Shirt#
+2303#Jacket#
+2304#Jacket#
+2305#Adventurer's Suit#
+2306#Adventurer's Suit#
+2307#Mantle#
+2308#Mantle#
+2309#Coat#
+2310#Coat#
+2311#Mink Coat#
+2312#Padded Armor#
+2313#Padded Armor#
+2314#Chain Mail#
+2315#Chain Mail#
+2316#Full Plate#
+2317#Full Plate#
+2318#Lord's Clothes#
+2319#Glittering Jacket#
+2320#Formal Suit#
+2321#Silk Robe#
+2322#Silk Robe#
+2323#Scapulare#
+2324#Scapulare#
+2325#Saint's Robe#
+2326#Saint's Robe#
+2327#Holy Robe#
+2328#Wooden Mail#
+2329#Wooden Mail#
+2330#Tights#
+2331#Tights#
+2332#Silver Robe#
+2333#Silver Robe#
+2334#Mage Coat#
+2335#Thief Clothes#
+2336#Thief Clothes#
+2337#Ninja Suit#
+2338#Wedding Dress#
+2339#Pantie#
+2340#Novice Breastplate#
+2341#Legion Plate Armor#
+2342#Legion Plate Armor#
+2343#Robe of Cast#
+2344#Flame Spirit Armor#
+2345#Flame Spirit Armor#
+2346#Water Spirit Armor#
+2347#Water Spirit Armor#
+2348#Wind Spirit Armor#
+2349#Wind Spirit Armor#
+2350#Earth Spirit Armor#
+2351#Earth Spirit Armor#
+2352#Tattered Novice Ninja Suit#
+2353#Odin's Blessing#
+2354#Goibne's Armor#
+2355#Angelic Protection#
+2356#Blessed Holy Robe#
+2357#Valkyrian Armor#
+2358#Angel's Dress#
+2359#Ninja Suit#
+2360#Robe of Cast#
+2361#Blue Robe#
+2362#Red Robe#
+2363#White Robe#
+2364#Meteo Plate Armor#
+2365#Orleans's Gown#
+2366#Divine Cloth#
+2367#Sniping Suit#
+2368#Golden Armor#
+2369#Freyja Overcoat#
+2370#Used Mage Coat#
+2371#Pantie#
+2372#Mage Coat#
+2373#Holy Robe#
+2374#Diabolus Robe#
+2375#Diabolus Armor#
+2376#Assaulter Plate#
+2377#Elite Engineer Armor#
+2378#Assassin Robe#
+2379#Warlock's Battle Robe#
+2380#Medic's Robe#
+2381#Elite Archer Suit#
+2382#Elite Shooter Suit#
+2383#Brynhild#
+2384#Spritual Tunic#
+2385#Recuperative Armor#
+2386#Chameleon Armor#
+2387#Sprint Mail#
+2388#Kandura#
+2389#Armor of Naga#
+2390#Improved Tights#
+2391#Life Link#
+2392#Old Green Pantie#
+2393#Novice Adventurer's Suit#
+2394#Glorious Suit#
+2395#Glorious Popularized Suit#
+2396#Glorious Mass-Production Suit#
+2397#Jacket of Incredible Showman#
+2398#Sniping Suit#
+2399#Dragon Vest#
+2401#Sandals#
+2402#Sandals#
 2403#Shoes#
 2404#Shoes#
-2405#Shoes#
-2406#Shoes#
-2407#Shoes#
-2408#Shoes#
-2409#Shoes#
-2410#Shoes#
-2411#Shoes#
-2412#Shoes#
-2413#Shoes#
-2414#Shoes#
-2415#Shoes#
-2416#Shoes#
-2417#Shoes#
-2418#Shoes#
-2419#Shoes#
-2420#Shoes#
-2421#Shoes#
-2422#Shoes#
-2423#Shoes#
-2424#Shoes#
-2425#Shoes#
-2426#Shoes#
-2427#Shoes#
-2428#Shoes#
-2429#Shoes#
-2430#Shoes#
-2431#Shoes#
-2432#Shoes#
-2433#Shoes#
-2434#Shoes#
-2435#Shoes#
-2436#Shoes#
-2437#Shoes#
-2438#Shoes#
-2439#Shoes#
-2440#Shoes#
-2441#Shoes#
-2442#Shoes#
-2443#Shoes#
-2444#Shoes#
-2445#Shoes#
-2446#Shoes#
-2447#Shoes#
-2448#Shoes#
-2449#Shoes#
-2450#Shoes#
-2501#Garment#
-2502#Garment#
-2503#Garment#
-2504#Garment#
-2505#Garment#
-2506#Garment#
-2507#Garment#
-2508#Garment#
-2509#Garment#
-2510#Garment#
-2511#Garment#
-2512#Garment#
-2513#Garment#
-2514#Garment#
-2515#Garment#
-2516#Garment#
-2517#Garment#
-2518#Garment#
-2519#Garment#
-2520#Garment#
-2521#Garment#
-2522#Garment#
-2523#Garment#
-2524#Garment#
-2525#Garment#
-2527#Garment#
-2528#Garment#
-2529#Garment#
-2530#Garment#
-2531#Garment#
-2532#Garment#
-2533#Garment#
-2534#Garment#
-2535#Garment#
-2536#Garment#
-2537#Garment#
-2538#Garment#
-2539#Garment#
-2540#Garment#
-2541#Garment#
-2542#Garment#
-2543#Garment#
-2544#Garment#
-2545#Garment#
-2549#Garment#
-2550#Garment#
-2553#Garment#
-2554#Garment#
-2560#Paradise Team Manteau#
-2573#Garment#
-2589#Garment#
-2601#Accessory#
-2602#Accessory#
-2603#Accessory#
-2604#Accessory#
-2605#Accessory#
-2607#Accessory#
-2608#Accessory#
-2609#Accessory#
-2610#Accessory#
-2611#Accessory#
-2612#Accessory#
-2613#Accessory#
-2614#Accessory#
-2615#Accessory#
-2616#Accessory#
-2617#Accessory#
-2618#Accessory#
-2619#Accessory#
-2620#Accessory#
-2621#Accessory#
-2622#Accessory#
-2623#Accessory#
-2624#Accessory#
-2625#Accessory#
-2626#Accessory#
-2627#Accessory#
-2628#Accessory#
-2629#Accessory#
-2630#Accessory#
-2631#Accessory#
-2634#Accessory#
-2635#Accessory#
-2636#Accessory#
-2637#Accessory#
-2638#Accessory#
-2639#Accessory#
-2640#Accessory#
-2641#Accessory#
-2642#Accessory#
-2643#Accessory#
-2644#Accessory#
-2645#Accessory#
-2646#Accessory#
-2647#Accessory#
-2648#Accessory#
-2649#Accessory#
-2650#Accessory#
-2651#Accessory#
-2652#Accessory#
-2653#Accessory#
-2654#Accessory#
-2655#Accessory#
-2656#Accessory#
-2657#Accessory#
-2658#Accessory#
-2659#Accessory#
-2660#Accessory#
-2661#Accessory#
-2662#Accessory#
-2665#Accessory#
-2666#Accessory#
-2667#Accessory#
-2671#Accessory#
-2677#Accessory#
-2678#Accessory#
-2679#Accessory#
-2680#Accessory#
-2686#Headgear#
-2687#Headgear#
-2688#Accessory#
-2689#Accessory#
-2690#Accessory#
-2691#Accessory#
-2692#Accessory#
-2693#Accessory#
-2694#Accessory#
-2695#Accessory#
-2696#Accessory#
-2697#Accessory#
-2698#Accessory#
-2699#Accessory#
-2700#Accessory#
-2701#Accessory#
-2702#Accessory#
-2703#Accessory#
-2707#Accessory#
-2708#Accessory#
-2709#Accessory#
-2710#Accessory#
-2711#Accessory#
-2712#Accessory#
-2713#Accessory#
-2714#Accessory#
-2715#Accessory#
-2716#Accessory#
-2717#Accessory#
-2718#Accessory#
-2719#Accessory#
-2720#Accessory#
-2721#Accessory#
-2722#Accessory#
-2723#Accessory#
-2724#Accessory#
-2725#Accessory#
-2726#Accessory#
-2727#Accessory#
-2728#Accessory#
-2729#Accessory#
-2730#Accessory#
-2731#Accessory#
-2732#Accessory#
-2733#Accessory#
-2734#Accessory#
-2735#Accessory#
-2736#Accessory#
-2737#Accessory#
-2738#Accessory#
-2739#Accessory#
-2740#Accessory#
-2741#Accessory#
-2742#Accessory#
-2743#Accessory#
-2744#Accessory#
-2745#Accessory#
-2746#Accessory#
-2747#Accessory#
-2748#Accessory#
-2749#Accessory#
-2755#Accessory#
-2758#Accessory#
-2759#Accessory#
-2760#Accessory#
-2761#Accessory#
-2762#Accessory#
-2763#Accessory#
-2764#Accessory#
-2765#Accessory#
-2766#Accessory#
-2767#Accessory#
-2768#Accessory#
-2769#Accessory#
-2770#Accessory#
-2771#Accessory#
-2772#Accessory#
-2773#Accessory#
-2774#Accessory#
-2775#Accessory#
-2776#Accessory#
-2777#Accessory#
-2778#Accessory#
-2779#Accessory#
-2780#Accessory#
-2781#Accessory#
-2782#Accessory#
-2783#Accessory#
-2784#Accessory#
-2785#Accessory#
-2786#Accessory#
-2787#Accessory#
-2788#Accessory#
-2789#Accessory#
-2790#Accessory#
-2791#Accessory#
-2792#Accessory#
-2793#Accessory#
-2794#Accessory#
-2795#Accessory#
-2796#Magic Stone Ring#
+2405#Boots#
+2406#Boots#
+2407#Crystal Pumps#
+2408#Shackles#
+2409#High Heels#
+2410#Sleipnir#
+2411#Greaves#
+2412#Greaves#
+2413#Safety Boots#
+2414#Novice Slippers#
+2415#Bunny Slipper#
+2416#Novice Shoes#
+2417#Fricco's Shoes#
+2418#Vidar's Boots#
+2419#Goibne's Greaves#
+2420#Angel's Reincarnation#
+2421#Valkyrian Shoes#
+2422#High Fashion Sandals#
+2423#Variant Shoes#
+2424#Tidal Shoes#
+2425#Black Leather Boots#
+2426#Shadow Walk#
+2427#Golden Shoes#
+2428#Freyja Boots#
+2429#Iron Boots#
+2430#Iron Boots#
+2431#Valley Shoes#
+2432#Highheels#
+2433#Diabolus Boots#
+2434#Black Leather Boots#
+2435#Battle Greave#
+2436#Combat Boots#
+2437#Battle Boots#
+2438#Paw Of Cat#
+2439#Refresh Shoes#
+2440#Sprint Shoes#
+2441#Beach Sandals#
+2442#Red Stocking Boots#
+2443#Fisher's Boots#
+2444#Glorious Shoes#
+2445#Glorious Popularized Shoes#
+2446#Glorious Mass-Production Shoes#
+2447#Army Boots#
+2448#Fast shoes#
+2449#Variant Shoes#
+2450#Vital Tree Shoes#
+2501#Hood#
+2502#Hood#
+2503#Muffler#
+2504#Muffler#
+2505#Manteau#
+2506#Manteau#
+2507#Ancient Cape#
+2508#Ragamuffin Manteau#
+2509#Survivor's Manteau#
+2510#Somber Novice Hood#
+2511#Skeleton Manteau#
+2512#Novice Manteau#
+2513#Heavenly Maiden Robe#
+2514#Pauldron#
+2515#Eagle Wing#
+2516#Falcon Muffler#
+2517#Vali's Manteau#
+2518#Morpheus's Shawl#
+2519#Morrigane's Manteau#
+2520#Goibne's Spaulders#
+2521#Angelic Cardigan#
+2522#Undershirt#
+2523#Undershirt#
+2524#Valkyrian Manteau#
+2525#Ancient Cape#
+2527#Dragon Breath#
+2528#Wool Scarf#
+2529#Rider Insignia#
+2530#Rider Insignia#
+2531#Ulfhedinn#
+2532#Mithril Magic Cape#
+2533#Freyja Cape#
+2534#Ruffler#
+2535#Cloak Of Survival#
+2536#Skin of Ventus#
+2537#Diabolus Manteau#
+2538#Captain's Manteau#
+2539#Commander's Manteau#
+2540#Sheriff's Manteau#
+2541#Asprika#
+2542#Flame Manteau of Naght Sieger#
+2543#Sylphid Manteau#
+2544#Leather of Tendrilion#
+2545#Musika#
+2549#Glorious Muffler#
+2550#Fisher's Muffler#
+2553#Dragon Manteau#
+2554#Nidhoggur's Shadow Garb#
+2560#Eden Group Manteau#
+2573#Archangel Wing#
+2589#Fallen Angel Wing#
+2601#Ring#
+2602#Earring#
+2603#Necklace#
+2604#Glove#
+2605#Brooch#
+2607#Clip#
+2608#Rosary#
+2609#Skull Ring#
+2610#Gold Ring#
+2611#Silver Ring#
+2612#Flower Ring#
+2613#Diamond Ring#
+2614#Eye of Dullahan#
+2615#Safety Ring#
+2616#Critical Ring#
+2617#Celebrant's Mitten#
+2618#Matyr's Leash#
+2619#Bow Thimble#
+2620#Rogue's Treasure#
+2621#Ring#
+2622#Earring#
+2623#Necklace#
+2624#Glove#
+2625#Brooch#
+2626#Rosary#
+2627#Belt#
+2628#Novice Armlet#
+2629#Megingjard#
+2630#Brisingamen#
+2631#Celebration Ring#
+2634#Wedding Ring#
+2635#Wedding Ring#
+2636#Gold Christmas Ring#
+2637#Silver Christmas Ring#
+2638#Sacred Incense#
+2639#Occult Incense#
+2640#Kafra Ring#
+2641#Fashion Hip Sack#
+2642#Serin's Gold Ring#
+2643#Serin's Gold Ring #
+2644#The Sign#
+2645#Moonlight Ring#
+2646#Bunch of Carnation#
+2647#Nile Rose#
+2648#Morpheus's Ring#
+2649#Morpheus's Bracelet#
+2650#Morrigane's Belt#
+2651#Morrigane's Pendant#
+2652#Goddess of Fortune's Cursed Brooch#
+2653#Sacrifice Ring#
+2654#Shinobi Sash#
+2655#Bloodied Shackle Ball#
+2656#Armor Charm#
+2657#Laboratory Permit#
+2658#Nile Rose#
+2659#Vesper Core 01#
+2660#Vesper Core 02#
+2661#Vesper Core 03#
+2662#Vesper Core 04#
+2665#Exorcising Ring#
+2666#Lantern of Hope#
+2667#Renown Archer's Gloves#
+2671#Bow Thimble#
+2677#Spiritual Ring#
+2678#Ring Of Flame Lord#
+2679#Ring Of Resonance#
+2680#Lesser Elemental Ring#
+2686#Rental Elven Ears#
+2687#Rental Steel Flower#
+2688#Rental Critical Ring#
+2689#Rental Earring#
+2690#Rental Ring#
+2691#Rental Necklace#
+2692#Glove#
+2693#Rental Brooch#
+2694#Rental Rosary#
+2695#Rental Safety Ring#
+2696#Vesper Core 01#
+2697#Vesper Core 02#
+2698#Vesper Core 03#
+2699#Vesper Core 04#
+2700#Red Silk Seal#
+2701#Orleans's Glove#
+2702#Bison Horn#
+2703#Expert Ring#
+2707#GUSLI#
+2708#Chinese Handicraft#
+2709#5th Anniversary Coin#
+2710#Bloody Iron Ball#
+2711#Spiritual Ring#
+2712#Ragnarok Limited Edition#
+2713#Certificate#
+2714#Marvelous Pendant#
+2715#Skull Ring#
+2716#Librarian Glove#
+2717#Pocket Watch#
+2718#Lunatic Brooch#
+2719#Iron Wrist#
+2720#Medal of Honor#
+2721#Medal of Honor#
+2722#Medal of Honor#
+2723#Medal of Honor#
+2724#Medal of Honor#
+2725#Medal of Honor#
+2726#Icarus Wings#
+2727#Bowman Scarf#
+2728#Cursed Hand#
+2729#Diabolus Ring#
+2730#Seal of Continental Guard#
+2731#Rune Spellstone#
+2732#Death Loop#
+2733#Sheriff Badge#
+2734#Directive#
+2735#Directive#
+2736#Navel Ring#
+2737#Foot Ring#
+2738#Shiny Coin#
+2739#Ordinary Coin#
+2740#Rusty Coin#
+2741#All In One Ring#
+2742#Lucky Clip#
+2743#Angelic Ring#
+2744#Sprint Ring#
+2745#Pinguicula Corsage#
+2746#Cold Heart#
+2747#Black Cat#
+2748#Cursed Star#
+2749#Linen Glove#
+2755#Clamorous Ring#
+2758#Fisher Ring#
+2759#Decussate Ring#
+2760#Bloody Ring#
+2761#Satanic Ring#
+2762#Dragon Ring#
+2763#Neo Skull Ring#
+2764#Small Fishing Rod#
+2765#Novice Figure#
+2766#Swordman Figure#
+2767#Acolyte Figure#
+2768#Mage Figure#
+2769#Archer Figure#
+2770#Thief Figure#
+2771#Merchant Figure#
+2772#Glorious Ring#
+2773#Glorious Popularized Ring#
+2774#Glorious Mass-Production Ring#
+2775#Lure#
+2776#Adventurer's Trusty Towel#
+2777#Shaman Ring#
+2778#Shaman Earrings#
+2779#Dark Knight Belt#
+2780#Dark Knight Glove#
+2781#Aumdura's Benefit#
+2782#Ring of the Ancient Wise King#
+2783#Eye Stone Ring#
+2784#Christmas Musicbox#
+2785#Orlean's Gloves#
+2786#Spiritual Ring#
+2787#Waterdrop Brooch#
+2788#Bradium Earring#
+2789#Bradium Ring#
+2790#Bradium Brooch#
+2791#Fresh Fish#
+2792#Ring of Flame Lord#
+2793#Ring of Resonance#
+2794#Magic Stone Ring#
+2795#Green Apple Ring#
+2796#Magical Stone#
 2797#Magical Stone#
-2798#Will Of Exhausted Worrior#
-2799#Accessory#
-2819#Book#
-2820#Book#
-2821#Book#
-2822#Book#
-2823#Book#
-2824#Book#
+2798#Will Of Exhausted Warrior#
+2799#Ring of Protection#
+2819#Swordman Manual#
+2820#Thief Manual#
+2821#Acolyte Manual#
+2822#Archer Manual#
+2823#Merchant Manual#
+2824#Mage Manual#
 3737#Brownie Point#
 4001#Poring Card#
 4002#Fabre Card#
@@ -1771,7 +1771,7 @@
 4220#Solider Card#
 4221#Skeleton General Card#
 4222#Skel Prisoner Card#
-4223#Stalactic Card#
+4223#Stalactic Golem Card#
 4224#Stem Worm Card#
 4225#Stone Shooter Card#
 4226#Sting Card#
@@ -1932,7 +1932,7 @@
 4381#Green Ferus Card#
 4382#Yellow Novus Card#
 4383#Red Novus Card#
-4384#Hydrolancer Card#
+4384#Hydro Card#
 4385#Dragon Egg Card#
 4386#Detardeurus Card#
 4387#Ancient Mimic Card#
@@ -2090,604 +2090,604 @@
 4991#Kafra Blossom Card#
 4998#GM Aegis Card#
 4999#GM Valor Card#
-5001#Headgear#
-5002#Headgear#
-5003#Headgear#
-5004#Headgear#
-5005#Headgear#
-5006#Headgear#
-5007#Headgear#
-5008#Headgear#
-5009#Headgear#
-5010#Headgear#
-5011#Headgear#
-5012#Headgear#
-5013#Headgear#
-5014#Headgear#
-5015#Headgear#
-5016#Headgear#
-5017#Headgear#
-5018#Headgear#
-5019#Headgear#
-5020#Headgear#
-5021#Headgear#
-5022#Headgear#
-5023#Headgear#
-5024#Headgear#
-5025#Headgear#
-5026#Headgear#
-5027#Headgear#
-5028#Headgear#
-5029#Headgear#
-5030#Headgear#
-5031#Headgear#
-5032#Headgear#
-5033#Headgear#
-5034#Headgear#
-5035#Headgear#
-5036#Headgear#
-5037#Headgear#
-5038#Headgear#
-5039#Headgear#
-5040#Headgear#
-5041#Headgear#
-5042#Headgear#
-5043#Headgear#
-5044#Headgear#
-5045#Headgear#
-5046#Headgear#
-5047#Headgear#
-5048#Headgear#
-5049#Headgear#
-5050#Headgear#
-5051#Headgear#
-5052#Headgear#
-5053#Headgear#
-5054#Headgear#
-5055#Headgear#
-5056#Headgear#
-5057#Headgear#
-5058#Headgear#
-5059#Headgear#
-5060#Headgear#
-5061#Headgear#
-5062#Headgear#
-5063#Headgear#
-5064#Headgear#
-5065#Headgear#
-5066#Headgear#
-5067#Headgear#
-5068#Headgear#
-5069#Headgear#
-5070#Headgear#
-5071#Headgear#
-5072#Headgear#
-5073#Headgear#
-5074#Headgear#
-5075#Headgear#
-5076#Headgear#
-5077#Headgear#
-5078#Headgear#
-5079#Headgear#
-5080#Headgear#
-5081#Headgear#
-5082#Headgear#
-5083#Headgear#
-5084#Headgear#
-5085#Headgear#
-5086#Headgear#
-5087#Headgear#
-5088#Headgear#
-5089#Headgear#
-5090#Headgear#
-5091#Headgear#
-5092#Headgear#
-5093#Headgear#
-5094#Headgear#
-5096#Headgear#
-5097#Headgear#
-5098#Headgear#
-5099#Headgear#
-5100#Headgear#
-5101#Headgear#
-5102#Headgear#
-5103#Headgear#
-5104#Headgear#
-5105#Headgear#
-5106#Headgear#
-5107#Headgear#
-5108#Headgear#
-5109#Headgear#
-5110#Headgear#
-5111#Headgear#
-5112#Headgear#
-5113#Headgear#
-5114#Headgear#
-5115#Headgear#
-5116#Headgear#
-5117#Headgear#
-5118#Headgear#
-5119#Headgear#
-5120#Headgear#
-5121#Headgear#
-5122#Headgear#
-5123#Headgear#
-5124#Headgear#
-5125#Headgear#
-5126#Headgear#
-5127#Headgear#
-5128#Headgear#
-5129#Headgear#
-5131#Headgear#
+5001#Headset#
+5002#Jewel Crown#
+5003#Joker Jester#
+5004#Oxygen Mask#
+5005#Gas Mask#
+5006#Machoman's Glasses#
+5007#Grand Circlet#
+5008#Puppy Love#
+5009#Safety Helmet#
+5010#Indian Fillet#
+5011#Aerial#
+5012#Ph.D Hat#
+5013#Lord Kaho's Horn#
+5014#Fin Helm#
+5015#Egg Shell#
+5016#Boy's Cap#
+5017#Bone Helm#
+5018#Feather Bonnet#
+5019#Corsair#
+5020#Kafra Band#
+5021#Grief for Greed#
+5022#Hat of the Sun God#
+5023#Parcel Hat#
+5024#Cake Hat#
+5025#Helm of Angel#
+5026#Chef Hat#
+5027#Mage Hat#
+5028#Candle#
+5029#Spore Hat#
+5030#Panda Hat#
+5031#Mine Hat#
+5032#Sunday Hat#
+5033#Raccoon Hat#
+5034#Bulb Band#
+5035#Poring Hat#
+5036#Cross Hat#
+5037#Nut Shell#
+5038#Deviruchi Hat#
+5039#Rainbow Eggshell#
+5040#Blush#
+5041#Heart Hairpin#
+5042#Bao Bao#
+5043#Opera Phantom Mask#
+5044#Evil Wing Ears#
+5045#Magician Hat#
+5046#Bongun Hat#
+5047#Fashionable Glasses#
+5048#Cresent Hairpin#
+5049#Striped Hairband#
+5050#Wonder Nutshell#
+5051#Pussy Cat Bell#
+5052#Blue Hairband#
+5053#Sphinx Hat#
+5054#Assassin Mask#
+5055#Novice False Eggshell#
+5056#Fruit of Love#
+5057#Black Cat Ears#
+5058#Drooping Cat#
+5059#Teddybear Hat#
+5060#Party Hat#
+5061#Flower Hairpin#
+5062#Straw Hat#
+5063#Giant Band Aid#
+5064#Smokie Leaf#
+5065#Blue Fish#
+5066#Succubus Horn#
+5067#Sombrero#
+5068#Evil Wing Ears#
+5069#Kitsune Mask#
+5070#Hot-blooded Headband#
+5071#Indian Headband#
+5072#Incubus Horn#
+5073#Model Training Hat#
+5074#Angel Wing Ears#
+5075#Cowboy Hat#
+5076#Beanie#
+5077#Tulip Hairpin#
+5078#Sea-Otter Hat#
+5079#X Hairpin#
+5080#Crown of Ancient Queen#
+5081#Crown of Mistress#
+5082#Decorative Mushroom#
+5083#Red Ribbon#
+5084#Lazy Smokie#
+5085#Small Ribbons#
+5086#Alarm Mask#
+5087#Poker Face#
+5088#Surprised Mask#
+5089#Annoyed Mask#
+5090#Goblin Leader Mask#
+5091#Decorative Golden Bell#
+5092#Coif#
+5093#Coif#
+5094#Helmet of Orc Hero#
+5096#Assassin Mask#
+5097#Holiday Hat#
+5098#Tiger Mask#
+5099#Neko Mimi#
+5100#Sales Banner#
+5101#Takius Blindfold#
+5102#Blank Eyes#
+5103#Sunflower Hairpin#
+5104#Dark Blinder#
+5105#Costume Cake Hat#
+5106#2nd Anniversary Hat#
+5107#Crunch Toast#
+5108#Renown Detective's Cap#
+5109#Red Bonnet#
+5110#Baby Pacifier#
+5111#Galapago Cap#
+5112#Super Novice Hat#
+5113#Angry Snarl#
+5114#Bucket Hat#
+5115#Winter Hat#
+5116#Banana Hat#
+5117#Mystic Rose#
+5118#Puppy Headband#
+5119#Super Novice Hat#
+5120#Bucket Hat#
+5121#Zealotus Mask#
+5122#Magni's Cap#
+5123#Ulle's Cap#
+5124#Fricca's Circlet#
+5125#Angel's Kiss#
+5126#Morpheus's Hood#
+5127#Morrigane's Helm#
+5128#Goibne's Helm#
+5129#Bird Nest#
+5131#Close Helmet#
 5133#Sheep Hat#
-5134#Headgear#
-5135#Headgear#
-5136#Headgear#
-5137#Headgear#
-5138#Headgear#
-5139#Headgear#
-5140#Headgear#
-5141#Headgear#
-5142#Headgear#
-5143#Headgear#
+5134#Pumpkin-Head#
+5135#Cyclop's Eye#
+5136#Antonio's Santa Hat#
+5137#Alice Doll#
+5138#Magic Eyes#
+5139#Hibiscus#
+5140#Charming Ribbon#
+5141#Marionette Doll#
+5142#Crescent Helm#
+5143#Kabuki Mask#
 5146#Elephant Hat#
-5147#Headgear#
-5151#Headgear#
-5152#Headgear#
-5157#Headgear#
-5158#Headgear#
-5159#Headgear#
-5160#Headgear#
-5161#Headgear#
-5162#Headgear#
-5163#Headgear#
-5164#Headgear#
-5165#Headgear#
-5166#Headgear#
-5167#Headgear#
-5168#Headgear#
-5169#Headgear#
-5170#Headgear#
-5171#Headgear#
-5172#Headgear#
-5173#Headgear#
-5174#Headgear#
-5175#Headgear#
-5176#Headgear#
-5177#Headgear#
-5182#Headgear#
-5183#Headgear#
-5184#Headgear#
-5185#Headgear#
-5186#Headgear#
-5187#Headgear#
-5188#Headgear#
-5191#Headgear#
-5192#Headgear#
-5193#Headgear#
-5194#Headgear#
-5195#Headgear#
-5196#Headgear#
-5197#Headgear#
-5198#Headgear#
-5202#Headgear#
-5203#Headgear#
-5204#Headgear#
-5206#Headgear#
-5208#Headgear#
-5210#Headgear#
-5211#Headgear#
-5212#Headgear#
-5213#Headgear#
-5214#Headgear#
-5215#Headgear#
-5216#Headgear#
-5217#Headgear#
-5218#Headgear#
-5219#Headgear#
-5220#Headgear#
-5221#Headgear#
-5222#Headgear#
-5223#Headgear#
-5224#Headgear#
-5225#Headgear#
-5226#Headgear#
-5227#Headgear#
-5228#Headgear#
-5229#Headgear#
-5230#Headgear#
-5231#Headgear#
-5232#Headgear#
-5233#Headgear#
-5234#Headgear#
-5235#Headgear#
-5236#Headgear#
-5237#Headgear#
-5238#Headgear#
-5239#Headgear#
-5240#Headgear#
-5241#Headgear#
-5242#Headgear#
-5243#Headgear#
-5244#Headgear#
-5245#Headgear#
-5246#Headgear#
-5247#Headgear#
+5147#Baseball Cap#
+5151#Note Headphone#
+5152#Chinese Crown#
+5157#Orc Helm#
+5158#Monk Hat#
+5159#Golden Gear#
+5160#Magestic Goat#
+5161#Spiky Band#
+5162#Bone Helm#
+5163#Corsair#
+5164#Tiara#
+5165#Crown#
+5166#Sphinx Hat#
+5167#Munak Hat#
+5168#Bongun Hat#
+5169#Bride Mask#
+5170#Feather Beret#
+5171#Valkyrie Helm#
+5172#Beret#
+5173#Magistrate Hat#
+5174#Ayam#
+5175#Censor Bar#
+5176#Hahoe Mask#
+5177#Mythical Lion Mask#
+5182#Puppy Hat#
+5183#Bird Nest Hat#
+5184#Captain's Hat#
+5185#Laurel Wreath#
+5186#Geographer Band#
+5187#Twin Red Ribbon#
+5188#Creative Convention Hat#
+5191#Black Ribbon#
+5192#Yellow Ribbon#
+5193#Green Ribbon#
+5194#Pink Ribbon#
+5195#Red Ribbon#
+5196#Orange Ribbon#
+5197#White Ribbon#
+5198#Evolved Drooping Bunny#
+5202#Fantastic Pumpkin-Head#
+5203#Smiling Mask#
+5204#Rudolph's Nose#
+5206#Romantic White Flower#
+5208#Rideword Hat#
+5210#Flapping Angel Wing#
+5211#Dress Hat#
+5212#Satellite Hairband#
+5213#Sheila Hairnet#
+5214#Moonlight Flower Hat#
+5215#Evolved Angel Wing#
+5216#Evolved Evil Wing#
+5217#Evolved Magestic Goat#
+5218#Evolved Bunny Band#
+5219#Evolved Drooping Cat#
+5220#Evolved Pipe#
+5221#Evolved Pair of Red Ribbon#
+5222#Evolved Blue Fish#
+5223#Evolved Big Golden Bell#
+5224#Evolved Orc Hero Helm#
+5225#Parade Hat#
+5226#Mini Propeller#
+5227#Red Deviruchi Hat#
+5228#Gray Deviruchi Hat#
+5229#Brown Deviruchi Hat#
+5230#Gray Drooping Cat#
+5231#Brown Drooping Cat#
+5232#Pink Drooping Cat#
+5233#Blue Drooping Cat#
+5234#Yellow Drooping Cat#
+5235#Brown Beanie#
+5236#Blue Beanie#
+5237#Pink Beanie#
+5238#Red Mage Hat#
+5239#Gray Mage Hat#
+5240#Brown Mage Hat#
+5241#Blue Mage Hat#
+5242#Yellow Mage Hat#
+5243#Shafka#
+5244#Elven Blindfold#
+5245#Elven Sunglasses#
+5246#Angelic Helm#
+5247#Satanic Helm#
 5248#Robotic Blindfold#
-5249#Headgear#
-5250#Headgear#
-5251#Headgear#
-5253#Headgear#
-5254#Headgear#
-5255#Headgear#
-5256#Headgear#
-5258#Headgear#
-5265#Headgear#
-5266#Headgear#
-5267#Headgear#
-5268#Headgear#
-5269#Headgear#
-5270#Headgear#
-5271#Headgear#
-5272#Headgear#
-5273#Headgear#
-5274#Headgear#
-5275#Headgear#
-5276#Headgear#
-5277#Headgear#
-5278#Accessory#
-5279#Headgear#
-5280#Headgear#
-5283#Headgear#
-5284#Headgear#
-5285#Headgear#
-5286#Headgear#
-5287#Headgear#
-5288#Headgear#
-5289#Headgear#
-5290#Headgear#
-5291#Headgear#
-5292#Headgear#
-5293#Headgear#
-5294#Headgear#
-5297#Headgear#
+5249#Human Blindfold#
+5250#Robotic Ears#
+5251#Round Ears#
+5253#Lif Doll Hat#
+5254#Deviling Hat#
+5255#Triple Poring Hat#
+5256#Valkyrie Feather Band#
+5258#Afro Wig#
+5265#Rental Apple of Archer#
+5266#Rental Bunny Band#
+5267#Costume Sakkat#
+5268#Grand Circlet#
+5269#Flapping Angel Wing#
+5270#Autumn Leaves#
+5271#Phoenix Crown#
+5272#Tongue Mask#
+5273#Happy Wig#
+5274#Shiny Wig#
+5275#Marvelous Wig#
+5276#Fantastic Wig#
+5277#Air Pirate's Bandana#
+5278#Yellow Ribbon#
+5279#Refined Drooping Cat#
+5280#Baphomet Horns#
+5283#Chick Hat#
+5284#Water Lily Crown#
+5285#Vane Hairpin#
+5286#Pecopeco Hairband#
+5287#Vacation Hat#
+5288#Red Glasses#
+5289#Vanilmirth Hat#
+5290#Drooping Bunny#
+5291#Kettle Hat#
+5292#Dragon Skull#
+5293#Ramen Hat#
+5294#Whisper Mask#
+5297#Soul Wing#
 5302#Water Lily Hat#
-5304#Headgear#
-5305#Headgear#
-5306#Headgear#
-5307#Headgear#
-5308#Headgear#
-5310#Headgear#
-5311#Headgear#
-5312#Headgear#
-5313#Headgear#
-5314#Headgear#
-5315#Headgear#
-5316#Headgear#
-5317#Headgear#
-5318#Headgear#
-5319#Headgear#
-5320#Headgear#
-5321#Headgear#
-5322#Headgear#
-5323#Headgear#
-5324#Headgear#
-5325#Headgear#
-5326#Headgear#
-5328#Headgear#
-5329#Headgear#
-5330#Headgear#
-5331#Headgear#
-5333#Headgear#
-5334#Headgear#
-5335#Headgear#
-5336#Headgear#
-5337#Headgear#
-5338#Headgear#
-5339#Headgear#
-5340#Headgear#
-5341#Headgear#
-5342#Headgear#
-5343#Headgear#
-5344#Headgear#
-5345#Headgear#
-5346#Headgear#
-5347#Headgear#
-5348#Headgear#
-5349#Headgear#
-5350#Headgear#
-5351#Headgear#
-5352#Headgear#
-5353#Headgear#
-5354#Headgear#
-5355#Headgear#
-5356#Headgear#
-5357#Headgear#
-5358#Headgear#
-5359#Headgear#
-5360#Headgear#
-5361#Headgear#
-5362#Headgear#
-5363#Headgear#
-5364#Headgear#
-5365#Headgear#
-5366#Headgear#
-5367#Headgear#
-5368#Headgear#
-5369#Headgear#
-5370#Headgear#
-5371#Headgear#
-5372#Headgear#
-5373#Headgear#
-5374#Headgear#
-5375#Headgear#
-5376#Headgear#
-5377#Headgear#
-5378#Headgear#
-5379#Headgear#
-5380#Headgear#
-5381#Headgear#
-5382#Headgear#
-5383#Headgear#
-5384#Headgear#
-5385#Headgear#
-5386#Headgear#
-5387#Headgear#
-5388#Headgear#
-5389#Headgear#
-5390#Headgear#
-5391#Headgear#
-5392#Headgear#
-5393#Headgear#
-5394#Headgear#
-5395#Headgear#
-5396#Headgear#
-5397#Headgear#
-5398#Headgear#
-5399#Headgear#
-5401#Headgear#
-5402#Headgear#
-5403#Headgear#
-5404#Headgear#
-5405#Headgear#
-5406#Headgear#
-5407#Headgear#
-5409#Headgear#
-5410#Headgear#
-5412#Headgear#
-5413#Headgear#
-5414#Headgear#
-5415#Headgear#
-5416#Headgear#
-5418#Headgear#
-5420#Headgear#
-5421#Headgear#
-5430#Headgear#
-5431#Headgear#
-5433#Headgear#
-5434#Headgear#
-5435#Headgear#
-5436#Headgear#
-5437#Headgear#
-5438#Headgear#
-5439#Headgear#
-5440#Headgear#
-5441#Headgear#
-5442#Headgear#
-5443#Headgear#
-5444#Headgear#
-5445#Headgear#
-5446#Headgear#
-5447#Headgear#
-5448#Headgear#
-5449#Headgear#
+5304#Cap Of Blindness#
+5305#Pirate Dagger#
+5306#Freyja Crown#
+5307#Carmen Miranda's Hat#
+5308#Brazilian Flag Hat#
+5310#Shining Electric Bulb Hairband#
+5311#Large Hisbiscus#
+5312#Ayothaya King's Hat#
+5313#Diadem#
+5314#Hockey Mask#
+5315#Observer#
+5316#Umbrella Hat#
+5317#Fisherman Hat#
+5318#Poring Party Hat#
+5319#Arc Angeling Hat#
+5320#Champion Wreath#
+5321#Indonesian Bandana#
+5322#Scarf#
+5323#Misstrance Crown#
+5324#Little Angel Doll#
+5325#Robo Eye#
+5326#Masquerade C#
+5328#Evil Wing Ears C#
+5329#Costume Dark Blindfold#
+5330#kRO Drooping Kitty C#
+5331#Corsair C#
+5333#Radio Antenna#
+5334#Flapping Angeling#
+5335#Jumping Poring#
+5336#Guildsman Recruiter Hat#
+5337#Party Recruiter Hat#
+5338#Bf Recruiter Hat#
+5339#Friend Recruiter Hat#
+5340#Defolty Doll Hat#
+5341#Glaris Doll Hat#
+5342#Sorin Doll Hat#
+5343#Telling Doll Hat#
+5344#Bennit Doll Hat#
+5345#W Doll Hat#
+5346#Gf Recruiter Hat#
+5347#Ph.D Hat#
+5348#Big Ribbon#
+5349#Boy's Cap#
+5350#Pirate Bandana#
+5351#Sunflower#
+5352#Poporing Cap#
+5353#Hat of the Sun God#
+5354#Sons Of Kolbald Cap#
+5355#Sons Of Kobold Hood#
+5356#Festival Pumpkin Hat#
+5357#Wings Of Victory#
+5358#Peco Ears#
+5359#Ship Captain Hat#
+5360#Wickebine's Black Cat Ears#
+5361#Gangster Scarf#
+5362#Ninja Scroll#
+5363#Abysmal Knight Helm#
+5364#Evil Snake Lord Hat#
+5365#Magnolia Hat#
+5366#Love Dad Bandana#
+5367#Yao Jun Hat#
+5368#White Wing#
+5369#Dark Wing#
+5370#Orchid Hairband#
+5371#Judge Hat#
+5372#Koneko Hat#
+5373#Dark Randgris Helm#
+5374#Gigantic Magestic Goat#
+5375#Orc Hero Headdress#
+5376#Flying Evil Wings#
+5377#Gentleman's Pipe#
+5378#Bunny Top Hat#
+5379#Balloon Hat#
+5380#Fish Head Hat#
+5381#Santa Poring Hat#
+5382#Bell Ribbon#
+5383#Hunting Cap#
+5384#Twin Pom Santa#
+5385#Yoyo Hat#
+5386#New Year's Hat#
+5387#Neko Mimi Kafra#
+5388#Snake Head#
+5389#Angel Spirit#
+5390#Costume Blue Christmas Cheer#
+5391#Toast#
+5392#Louyang NewYear Hat#
+5393#Cupid's Target#
+5394#Explosive Chewing Gum#
+5395#Striped Hat#
+5396#Jasper Crest#
+5397#Scuba Mask#
+5398#Dragonic Bone Head#
+5399#Mandragora Cap#
+5401#Black Frame Glasses#
+5402#Mischievous Fairy#
+5403#Fish In Mouth#
+5404#Blue Ribbon#
+5405#Filir Hat#
+5406#Academy Freshman Hat#
+5407#Academy Completion Hat#
+5409#Purple Cowboy Hat#
+5410#Brown Paperbag Hat#
+5412#Lollipop#
+5413#Popcorn Hat#
+5414#Campfire Hat#
+5415#Poring Cake Hat#
+5416#Beer Hat#
+5418#Soldier Hat#
+5420#Ifrit Mask#
+5421#Ifrit's Ears#
+5430#Promethean Crown#
+5431#Chicken Hat#
+5433#Champion's Wreath#
+5434#Coca-Cola Bottle#
+5435#Classic Creative Cap#
+5436#Bride's Corolla#
+5437#Fairy Flower#
+5438#Cute Green Ribbon#
+5439#Cute Red Ribbon#
+5440#Cute Blue Ribbon#
+5441#Cute White Ribbon#
+5442#Necktie#
+5443#Statue Of Baby Angel#
+5444#Hair Brush#
+5445#Candy Cane In Mouth#
+5446#Catfoot Hairpin#
+5447#Frog Hat#
+5448#Indifferent Solo Hat#
+5449#Angry Solo Hat#
 5451#Costume Gold Dragonhelm#
 5452#Silver Dragonhelm#
 5453#Copper Dragonhelm#
-5457#Headgear#
-5458#Headgear#
-5465#Headgear#
-5466#Headgear#
-5467#Headgear#
-5468#Headgear#
-5469#Headgear#
-5470#Headgear#
-5471#Headgear#
-5472#Headgear#
-5473#Headgear#
-5474#Headgear#
-5475#Headgear#
-5476#Headgear#
-5479#Headgear#
-5480#Headgear#
-5481#Headgear#
-5482#Headgear#
-5483#Headgear#
-5485#Headgear#
-5486#Headgear#
-5487#Headgear#
-5488#Headgear#
-5495#Headgear#
-5497#Headgear#
-5498#Headgear#
-5499#Headgear#
-5500#Headgear#
-5501#Headgear#
-5502#Headgear#
-5503#Headgear#
-5508#Headgear#
-5509#Headgear#
-5510#Headgear#
-5511#Headgear#
-5512#Headgear#
-5513#Headgear#
-5514#Headgear#
-5515#Headgear#
-5516#Glass#
-5517#Glass#
-5520#Headgear#
-5521#Headgear#
-5524#Headgear#
-5525#Headgear#
+5457#Moon Rabbit Hat#
+5458#Pinwheel Hat#
+5465#Hat Of Fortune#
+5466#Wind's Guide#
+5467#Dragon Helm#
+5468#Parade Hat#
+5469#Musketeer Hat#
+5470#Darkness Eyes#
+5471#Reginrev's Wings#
+5472#Red White Cap#
+5473#Crab Nipper Hat#
+5474#AFK Hat#
+5475#Gozarian Mask#
+5476#Grand Peco Headdress#
+5479#Shaman's Hair Decoration#
+5480#Bijofnil Wings#
+5481#Hermode Cap#
+5482#Dark Knight Mask#
+5483#Odin Mask#
+5485#Tiger Face#
+5486#Anniversary Hat#
+5487#11th Anniversary Cake Hat#
+5488#Twin Pom Santa Hat#
+5495#Power Of Thor#
+5497#Edgga Doll#
+5498#Vagabond Wolf Hat#
+5499#Pizza Pie of Plenty#
+5500#Ice Cream Hat#
+5501#Pirate's Pride#
+5502#Necromancer's Hood#
+5503#Rabbit Magic Hat#
+5508#Shark Hat#
+5509#Sting Hat#
+5510#Shower Cap#
+5511#Samambaia#
+5512#Aquarius Diadem#
+5513#Aquarius Crown#
+5514#Pisces Diadem#
+5515#Pisces Crown#
+5516#Hawk Eyes#
+5517#Hawk Eyes#
+5520#Rabbit Earmuffs#
+5521#Costume Angry Snarl#
+5524#Sakura Milk Tea Hat#
+5525#First Leaf Tea Hat#
 5526#Lady Tanee Doll#
-5527#Headgear#
-5528#Headgear#
-5530#Headgear#
-5531#Headgear#
-5532#Headgear#
-5533#Headgear#
-5534#Headgear#
-5535#Headgear#
-5536#Headgear#
-5537#Headgear#
-5538#Headgear#
-5539#Headgear#
-5545#Headgear#
-5546#Headgear#
-5547#Headgear#
-5548#Headgear#
-5549#Headgear#
-5550#Headgear#
-5555#Headgear#
-5560#Headgear#
-5561#Headgear#
-5562#Headgear#
-5564#Headgear#
-5568#Headgear#
-5569#Headgear#
-5570#Headgear#
-5574#Headgear#
-5577#Headgear#
-5579#Headgear#
-5580#Headgear#
-5581#Headgear#
-5582#Headgear#
-5583#Paradise Team Hat#
-5584#Headgear#
+5527#Lunatic Hat#
+5528#Frog King Hat#
+5530#Raven Cap#
+5531#Baby Dragon Hat#
+5532#Pirate Dagger#
+5533#Emperor Wreath#
+5534#Fox Hat#
+5535#Side Cap#
+5536#Spare Card#
+5537#Coati Hat#
+5538#Tucan Hat#
+5539#Jaguar Hat#
+5545#Aries Diadem#
+5546#Aries Crown#
+5547#Red Flower Hairband#
+5548#Scarlet Rose#
+5549#Taurus Diadem#
+5550#Taurus Crown#
+5555#Leaf Cat Hat#
+5560#Horned Helm#
+5561#Rabbit Magic Hat#
+5562#Love of Truth#
+5564#Crown of Deceit#
+5568#Rabbit Bonnet#
+5569#Gemini Diadem#
+5570#Gemini Crown#
+5574#Well-Chewed Pencil#
+5577#Dark Knight Mask#
+5579#Wanderer's Sakkat#
+5580#Red Beret#
+5581#Cancer Diadem#
+5582#Cancer Crown#
+5583#Eden Group Hat#
+5584#Majestic Devil Horns#
 5585#Rune Hairband#
-5588#Headgear#
-5589#Headgear#
-5592#Headgear#
-5593#Headgear#
-5594#Headgear#
+5588#Leo Crown#
+5589#Leo Diadem#
+5592#Sigrun's Wings#
+5593#Rabbit Bonnet#
+5594#Donut In Mouth#
 5596#Four Leaf Clover#
-5597#Headgear#
-5598#Headgear#
-5599#Headgear#
-5601#Headgear#
-5602#Headgear#
-5611#Headgear#
-5612#Headgear#
-5613#Headgear#
-5614#Headgear#
-5615#Headgear#
-5616#Headgear#
-5617#Headgear#
-5618#Headgear#
-5619#Headgear#
-5620#Headgear#
-5621#Headgear#
-5622#Headgear#
-5623#Headgear#
-5624#Headgear#
-5625#Headgear#
-5626#Headgear#
-5627#Headgear#
-5628#Headgear#
-5629#Headgear#
-5630#Headgear#
-5631#Headgear#
-5632#Headgear#
-5633#Headgear#
-5634#Headgear#
-5635#Headgear#
-5636#Headgear#
-5637#Headgear#
-5638#Headgear#
-5639#Headgear#
-5640#Headgear#
-5641#Headgear#
-5642#Headgear#
-5643#Headgear#
-5644#Headgear#
-5645#Headgear#
-5646#Headgear#
-5647#Headgear#
-5648#Headgear#
-5649#Headgear#
-5650#Headgear#
-5651#Accessory#
-5652#Headgear#
-5653#Headgear#
-5654#Headgear#
-5655#Headgear#
-5656#Headgear#
-5657#Headgear#
-5658#Headgear#
-5659#Headgear#
-5660#Headgear#
+5597#Chewing Gum#
+5598#Virgo Crown#
+5599#Virgo Diadem#
+5601#Banana Beret#
+5602#Jaguar Face#
+5611#Turtle Hat#
+5612#Blue Drooping Cat#
+5613#Flapping Angel Wing#
+5614#Evolved Pipe#
+5615#Evolved Pair of Red Ribbon#
+5616#Evolved Blue Fish#
+5617#Hibiscus#
+5618#Neko Mimi#
+5619#Evolved Bunny Band#
+5620#Evolved Magestic Goat#
+5621#Sheep Hat#
+5622#Mini Propeller#
+5623#Alice Doll#
+5624#Red Glasses#
+5625#Chick Hat#
+5626#Gray Deviruchi Hat#
+5627#Vane Hairpin#
+5628#Pecopeco Hairband#
+5629#Vacation Hat#
+5630#Charming Ribbon#
+5631#Water Lily Crown#
+5632#Vanilmirth Hat#
+5633#Drooping Bunny#
+5634#Kettle Hat#
+5635#Dragon Skull#
+5636#Ramen Hat#
+5637#Pink Beanie#
+5638#Puppy Hat#
+5639#Magic Eyes#
+5640#Jumping Poring#
+5641#Robo Eye#
+5642#Yellow Mage Hat#
+5643#Crescent Helm#
+5644#Tiger Mask#
+5645#Fantastic Wig#
+5646#Whisper Mask#
+5647#Bunny Band#
+5648#Centimental Flower#
+5649#Apple Of Archer#
+5650#Elven Ears#
+5651#Brooch#
+5652#Magestic Goat#
+5653#Darkness Helm#
+5654#Holy Marching Hat#
+5655#Dark Snake Lord Hat#
+5656#Scooter Hat#
+5657#Captain's Pipe#
+5658#Imp Hat#
+5659#Sleeper Hat#
+5660#Gryphon Hat#
 5661#Red Pirate Bandana#
-5662#Headgear#
-5663#Headgear#
-5664#Headgear#
-5665#Headgear#
-5667#Headgear#
-5668#Headgear#
-5669#Headgear#
-5670#Headgear#
-5671#Headgear#
-5672#Headgear#
-5673#Headgear#
-5674#Headgear#
-5675#Headgear#
-5676#Headgear#
-5677#Headgear#
-5680#Headgear#
-5681#Headgear#
+5662#Libra Crown#
+5663#Libra Diadem#
+5664#Filir's Pinions#
+5665#Norn Feather Hat#
+5667#Skull Hood#
+5668#Weird Pumpkin Hat#
+5669#Poring Party Hat#
+5670#Anniversary Thief Hat#
+5671#Incarnation Of Morocc Doll#
+5672#Southern Cross#
+5673#Nostalgic Sakura#
+5674#Piggie Bank#
+5675#Poring Letter#
+5676#Scorpio Crown#
+5677#Scorpio Diadem#
+5680#Hawk Eye#
+5681#Green Ribbon#
 5683#Horn Of Arch Evil Model#
 5684#Luxurious Crown#
 5685#A Military Cap Of A Knight#
 5686#A Hat With Nice Feather#
 5687#Light Hornhelm#
-5690#Headgear#
-5737#Muka Hat#
-5738#Headgear#
-5739#Headgear#
-5740#Headgear#
-5742#Headgear#
-5744#Headgear#
-5745#Headgear#
-5759#Headgear#
-5764#Headgear#
-5765#Headgear#
-5766#Headgear#
-5767#Headgear#
-5768#Headgear#
+5690#Red Wing Hat#
+5737#Potted Muka Hat#
+5738#Snowman Hat#
+5739#Sagittarius Crown#
+5740#Sagittarius Diadem#
+5742#Rudolf Santa Hat#
+5744#Capricorn Crown#
+5745#Capricorn Diadem#
+5759#Noa's Hat#
+5764#Love Rabbit Hood#
+5765#Pitch Black Ribbon#
+5766#Amistr Hat#
+5767#Samurai Mask#
+5768#Sakura Crown#
 5774#Scallywag's Hat#
-5775#Headgear#
-5777#Headgear#
-5782#Headgear#
-5788#Headgear#
-5789#Headgear#
-5790#Headgear#
-5792#Headgear#
-5795#Headgear#
-5804#Headgear#
-5805#Headgear#
-5806#Headgear#
-5807#Headgear#
-5808#Headgear#
-5809#Headgear#
-5810#Headgear#
-5811#Headgear#
-5812#Headgear#
-5815#Headgear#
-5816#Headgear#
-5817#Accessory#
-5827#Headgear#
-5848#Headgear#
-5849#Headgear#
-5852#Headgear#
+5775#Chocolate Donut#
+5777#Remover Hat#
+5782#Legionaire Helm#
+5788#3D Glasses#
+5789#Thanatos Odium Mask#
+5790#Mother's Kindness#
+5792#Fish Pin#
+5795#Bright Red Dress Hat#
+5804#Pirate Eye Bandage#
+5805#Victorious Coronet#
+5806#Poem Natalia Hat#
+5807#October Fest Cap#
+5808#Dark Bacilium#
+5809#Boom Boom Hat#
+5810#Ph.D Hat V#
+5811#Santa's Beard#
+5812#Hat Of Expert#
+5815#Classic Hat#
+5816#New Cowboy Hat#
+5817#Valentine's Emblem#
+5827#Book Hat#
+5848#Bandit Disguise#
+5849#Doctor Hairband#
+5852#Easter Egg Shell#
 6000#Ashes of Darkness#
 6001#Essence of Fire#
 6002#Token of Apostle#
@@ -2714,12 +2714,12 @@
 6024#17Carat Diamond#
 6025#Towel of Memory#
 6026#Written Oath Of Marriage#
-6027#Crystal Of Feardoom#
+6027#Crystal Of Feardom#
 6028#Sealed Scroll#
 6029#Morocc Tracing Log#
 6030#Glittering Paper#
 6031#Glittering Paper#
-6032#Horn of Hilsrion#
+6032#Horn of Hillslion#
 6033#Horn of Tendrilion#
 6034#Weird Part#
 6035#Decaying Stem#
@@ -2735,7 +2735,7 @@
 6045#Supply Box#
 6046#New Clothing Dye Coupon#
 6047#Original Clothing Dye Coupon#
-6048#Unidentifeid Mineral#
+6048#Unidentified Mineral#
 6049#Marlin#
 6050#Mercenary Contract#
 6051#Gray Hollow#
@@ -2769,7 +2769,7 @@
 6080#Manuk Coin#
 6081#Splendide Coin#
 6082#Spirit Of Alfheim#
-6083#Dolly Capsule#
+6083#Capsule Dolls#
 6084#Bradium Fragments#
 6085#Shaggy Muffler#
 6086#Withered Flower#
@@ -2783,7 +2783,7 @@
 6094#Traditional Cookie#
 6095#Flavored Alcohol#
 6096#Fish With Blue Back#
-6097#Pumpkin Pie #
+6097#Pumpkin Pie#
 6098#Small Snow Flower#
 6099#Grilled Rice Cake#
 6100#Damp Darkness#
@@ -2796,27 +2796,27 @@
 6107#Sunset On The Rock#
 6108#Apple Pudding#
 6109#Plant Neutrient#
-6110#Vital Flower#
+6110#Yellow Vital Flower#
 6111#Mystic Stone#
 6112#Fresh Plant#
-6113#Vital Flower#
+6113#Blue Vital Flower#
 6114#Flame Gemstone#
 6115#Bun#
-6116#Succubus Pet Coupon#
-6117#Imp Pet Coupon#
-6118#Chung E Pet Coupon#
+6116#Succubus Pet Exchange Coupon#
+6117#Imp Pet Exchange Coupon#
+6118#Chung E Exchange Coupon#
 6119#Cow Leather#
 6120#Face Paint#
 6121#Makeover Brush#
 6122#Paint Brush#
 6123#Surface Paint#
 6124#Wolf Flute#
-6125#Lucky Box#
-6126#Happy Box#
+6125#Bunny Box#
+6126#Summer Happy Box#
 6127#Purification Stone#
 6128#Antidote#
 6129#Nightmare Terror Exchange Coupon#
-6130#Card#
+6130#Ticket Loli Ruri#
 6131#Goblin Leader Exchange Coupon#
 6132#Incubus Exchange Coupon#
 6133#Miyabi Ningyo Exchange Coupon#
@@ -2836,14 +2836,14 @@
 6147#Liquid Condensed Bullet#
 6148#Eternity Of Chocolate#
 6149#Simple Chocolate#
-6150#Key of The Mansion#
+6150#Mansion Key#
 6151#Giant Bradium Fragment#
 6152#Glittering Crystal#
 6153#Special Exchange Coupon#
 6154#Broken Horn Pipe#
 6155#Member Card#
 6156#A Report To Be Approved#
-6157#Carnival Ticket#
+6157#Festa Gold Medal#
 6158#Vote 2#
 6159#Poporing Exchange Ticket#
 6160#Lunatic Exchange Ticket#
@@ -2881,8 +2881,8 @@
 6192#Spell Book(Storm Gust)#
 6193#Spell Book(Lord Of Vermilion)#
 6194#Spell Book(Meteor Storm)#
-6195#Spell Book(Curmit)#
-6196#Spell Book(Tetra Voltex)#
+6195#Spell Book(Comet)#
+6196#Spell Book(Tetra Vortex)#
 6197#Spell Book(Thunder Storm)#
 6198#Spell Book(Jupitel Thunder)#
 6199#Spell Book(Water Ball)#
@@ -2890,14 +2890,14 @@
 6201#Spell Book(Earth Spike)#
 6202#Spell Book(Earth Strain)#
 6203#Spell Book(Chain Lightning)#
-6204#Spell Book(Crimson Lock)#
+6204#Spell Book(Crimson Rock)#
 6205#Spell Book(Drain Life)#
 6206#I Love You#
 6207#Thanks#
 6208#Respect#
 6209#Knight Of Honor#
-6210#Seed Of Horny Plant#
-6211#Bloodsuck Plant Seed#
+6210#Thorn Plant Seed#
+6211#Blood Sucker Plant Seed#
 6212#Bomb Mushroom Spore#
 6213#Explosive Powder#
 6214#Smoke Powder#
@@ -2905,8 +2905,8 @@
 6216#Oil Bottle#
 6217#Mandragora Flowerpot#
 6218#Dieshin's Delivery Box#
-6219#Mark Of Paradise Team#
-6220#Mysterious Dyestuff#
+6219#Eden Group Mark#
+6220#Mysterious Dyestuffs#
 6221#Mystic Hydra Ball#
 6222#Shining Beads#
 6223#Carnium#
@@ -2924,8 +2924,8 @@
 6235#Safe to 7 Headgear Certificate#
 6236#Blue 7 Card#
 6237#Guarana Fruit#
-6238#+11 Weapon refine deed#
-6239#+11 Armor Refine Ticket#
+6238#Safe to 11 Weapon Certificate#
+6239#Safe to 11 Armor Certificate#
 6240#HD Oridecon#
 6241#HD Elunium#
 6242#Midgard Coin#
@@ -2945,8 +2945,8 @@
 6256#Ice Piece#
 6257#Ice Crystal#
 6258#Comodo Tropical Fruit#
-6259#Drocera Tentacle#
-6260#Petti's Tail#
+6259#Drosera Tentacle#
+6260#Petite's Tail#
 6261#Fine Noodle#
 6262#Cool Gravy#
 6263#Coconut Fruit#
@@ -2954,43 +2954,43 @@
 6265#Pineapple#
 6266#Key Of Deception#
 6267#Key Of Illusion#
-6268#Key Of Gaiety#
+6268#Key Of Pleasure#
 6269#A Master's Brush#
-6270#A Picture Of Song, A Minstrel#
+6270#A Picture Of Maestro Song#
 6271#Receipt#
 6272#Seed For Experiemnt#
 6273#Seed For Experiemnt#
-6274#A Piece Of Clothe Of A Saint#
-6275#Shild Of King#
+6274#Saint's Clothing Piece#
+6275#King's Shield#
 6276#Clear Reagent#
 6277#Red Reagent#
 6278#Black Reagent#
-6279#A Book On How To Make An Apple Bomb#
-6280#A Book On How To Make A Pineapple Bomb#
-6281#A Book On How To Make A Coconut Fruit Bomb#
-6282#A Book On How To Make A Melon Bomb#
-6283#A Book On How To Make A Banana Bomb#
+6279#How To Make An Apple Bomb#
+6280#How To Make A Pineapple Bomb#
+6281#How To Make A Coconut Fruit Bomb#
+6282#How To Make A Melon Bomb#
+6283#How To Make A Banana Bomb#
 6284#How To Grow Plant Genes#
-6285#Manual: How To Make High Quality Potion#
-6286#Max Weight Up Scroll#
+6285#How To Make High Quality Potion#
+6286#Gym Pass#
 6287#Omni Clothing Dye#
-6288#Happy Box#
-6289#Mysterious Dyestuff#
-6290#New Style Coupon#
+6288#Summer Happy Box#
+6289#Mysterious Dyestuffs#
+6290#Hairstyle Coupon#
 6291#Enriched Elunium#
 6292#Enriched Oridecon#
 6293#Token Of Siegfried#
 6294#Marriage Covenant#
-6295#Clothing Dye Coupon2#
-6298#Crushed Pumpkin Hat#
-6299#Worn Cloth Piece#
-6304#Exploit Certification of Sapha#
-6305#Piece of Frozen Skin#
-6306#Cotted Bloodstain#
+6295#Original Clothing Dye Coupon#
+6298#Crushed Pumpkin#
+6299#Worn Fabric#
+6304#Sapha Certification#
+6305#Frozen Piece of Skin#
+6306#Clotted Bloodstain#
 6307#Strange Magic Stone#
 6308#Unknown Relic#
 6319#Small Bradium#
-6320#Reset Stone#
+6320#Magical Stone#
 6321#Rake Horn Helm#
 6322#Antler Helm#
 6323#Twin Horn Helm#
@@ -3001,7 +3001,7 @@
 6341#Faded Music(Red)#
 6342#Faded Music(Purple)#
 6343#Faded Music(Blue)#
-6345#Love Much#
+6345#Love Lump#
 6360#Scarlet Point#
 6361#Indigo Point#
 6362#Yellow Wish Point#
@@ -3026,11 +3026,11 @@
 6395#Angel Magic Power#
 6396#Spiritual Auger#
 6401#Palm Oils#
-6402#Oil Palm Fruit#
-6403#Leather of Comodo#
-6404#Caress Hilt #
-6405#Feather of Cendrawasih#
-6406#Shining Feather of Cendrawasih#
+6402#Palm Oil Fruit#
+6403#Comodo Leather#
+6404#Keris Hilt#
+6405#Cendrawasih Feather#
+6406#Shining Cendrawasih Feather#
 6415#Strange Embryo#
 6424#Spirit Piece#
 6425#Halloween Certificate#
@@ -3038,8 +3038,8 @@
 6446#Green Paper#
 6447#Red Paper#
 6448#White Paper#
-6449#Casual Diary#
-6450#Honest Diary#
+6449#Ordinary Kid's Diary#
+6450#Honest Kid's Diary#
 6452#Etoille's Ring#
 6453#Undelivered Gift#
 6454#Santa Bag#
@@ -3095,7 +3095,7 @@
 7028#Invite for Duel#
 7029#Admission for Duel#
 7030#Claw of Desert Wolf#
-7031#Old Frying Fan#
+7031#Old Frying Pan#
 7032#Piece of Egg Shell#
 7033#Poison Spore#
 7034#Red Stocking#
@@ -3116,7 +3116,7 @@
 7049#Stone#
 7050#Cotton Mat#
 7051#Silk Mat#
-7052#Wasted Magazine#
+7052#Old Papers#
 7053#Cyfar#
 7054#Brigan#
 7055#Animal Poop#
@@ -3138,13 +3138,13 @@
 7071#Tattered Clothes#
 7072#Old Shuriken#
 7073#Freya's Jewel#
-7074#Thor's Guntlet#
+7074#Thor's Gauntlets#
 7075#Iron Maiden#
 7076#Wheel of the Unknown#
 7077#Silver Ornament#
 7078#Wrath of Valkyrie#
 7079#Feather of Angel Wing#
-7080#Tread of Cat#
+7080#Cat Tread#
 7081#Woman's Moustache#
 7082#Root of Stone#
 7083#Spirit of Fish#
@@ -3186,12 +3186,12 @@
 7119#Bacillus#
 7120#Burning Horseshoe#
 7121#Honey Pot#
-7122#Burning Har#
+7122#Burning Hair#
 7123#Dragon Skin#
 7124#Sand Clump#
-7125#Scorpion Claws#
+7125#Scorpion Claw#
 7126#Large Jellopy#
-7127#Alcohol Creation Gude#
+7127#Alcohol Creation Guide#
 7128#Bottle Grenade Creation Guide#
 7129#Acid Bottle Creation Guide#
 7130#Plant Bottle Creation Guide#
@@ -3205,7 +3205,7 @@
 7138#Marine Sphere Bottle#
 7139#Glistening Coat#
 7140#Seed of Life#
-7141#Yggdrasil Dew#
+7141#Morning Dew of Yggdrasil#
 7142#Embryo#
 7143#Glass Tube#
 7144#Potion Creation Gude#
@@ -3237,7 +3237,7 @@
 7170#Tuxedo#
 7171#Leopard Skin#
 7172#Leopard Claw#
-7173#iROGM02's Backpack#
+7173#Bun Buster Bag#
 7174#Wrapping Lace#
 7175#Wrapping Paper#
 7176#Royal Certificate#
@@ -3291,7 +3291,7 @@
 7224#Stone of Sage#
 7225#Pumpkin Lantern#
 7226#Pellet#
-7227#TCG Card#
+7227#Bossnia Entrance Ticket#
 7228#Gold Bullion#
 7229#Silver Bullion#
 7230#Platinum Bullion#
@@ -3316,7 +3316,7 @@
 7249#Spirit of Service#
 7250#Spirit of Glory#
 7251#Spirit of Victory#
-7252#Herb Medicine#
+7252#Herbal Medicine#
 7253#Golden Korean Flag#
 7254#Digital Picture Printing Coupon#
 7255#Mystic Orb#
@@ -3528,7 +3528,7 @@
 7481#Level 10 Cookbook#
 7482#Pot#
 7483#Key of the Seal#
-7484#Warrior's Symbol#
+7484#GM Bond#
 7487#Culinary Wine#
 7488#Delivery Package#
 7489#Cottage Key#
@@ -3553,7 +3553,7 @@
 7508#Allysia's Ring#
 7509#Luxurious Keycard#
 7510#Valhala's Flower#
-7511#Rune of the Darkness#
+7511#Rune of Darkness#
 7512#Burnt Part#
 7513#Pocket Watch#
 7514#Monster Ticket#
@@ -3565,10 +3565,10 @@
 7523#Wind Stone#
 7524#Shadow Orb#
 7526#Manuscript Paper#
-7530#Travel Brochurer Amatsu#
-7531#Travel Brochurer Kunlun#
-7532#Travel Brochurer Louyang#
-7533#Travel Brochurer Ayothaya#
+7530#Travel Brochure [Amatsu]#
+7531#Travel Brochure [Kunlun]#
+7532#Travel Brochure [Louyang]#
+7533#Travel Brochure [Ayothaya]#
 7534#Amatsu Completed Photo Album#
 7535#Kunlun Completed Photo Album#
 7536#Louyang Completed Photo Album#
@@ -3606,14 +3606,14 @@
 7606#Token of the Ox#
 7609#Pumpkin Mojo#
 7613#Small Rice Cake Dough#
-7619#Enriched Elunium#
-7620#Enriched Oridecon#
+7619#Old Enriched Elunium#
+7620#Old Enriched Oridecon#
 7621#Token Of Siegfried#
 7622#Hairstyle Coupon#
 7632#Terrible Report Card#
 7633#Heavensent Report Card#
 7634#Father Rose#
-7635#Scent Bag#
+7635#Incense Bag#
 7704#Broken Thermometer#
 7705#Note of Geologist#
 7715#Hand-made Chocolate Recipe#
@@ -3651,7 +3651,7 @@
 7761#Magic Gourd Bottle#
 7762#Yaga's Pestle#
 7763#Sticky Herb#
-7764#High Strength Adhesives#
+7764#High Strength Adhesive#
 7765#Baba Yaga's Secret Medicine#
 7766#Bok Choy#
 7767#Chung E Cake#
@@ -3663,14 +3663,14 @@
 7773#War Badge#
 7774#Chung E Ticket#
 7775#Spring Rabbit Ticket#
-7776#Gym Pass Card#
+7776#Gym Pass#
 7777#Sealed Golden Box#
 7778#Sealed Silver Box#
 7779#Golden Key#
 7780#Silver Key#
 7781#Engrave Treasure Box#
-7782#Moscovia Poporing Key#
-7783#12.0 Poring Key#
+7782#Episode 13.1 Poporing Key#
+7783#Episode 13.2 Poring Key#
 7784#Free Coupon 1#
 7785#Free Coupon 2#
 7786#Free Coupon 3#
@@ -3690,7 +3690,7 @@
 7800#Golden Charm Apple#
 7801#Girl's Letter#
 7802#Signature Notebook#
-7803#Novice Battle Manual#
+7803#Beginner's Field Manual#
 7805#Brown Jenoss's Family Ring#
 7806#God Anvil#
 7807#God Mineral#
@@ -3705,7 +3705,7 @@
 7816#Symbol of Faith#
 7817#Symbol of Peace#
 7818#Jessur's Necklace#
-7819#Nokia5300#
+7819#Nokia 5300#
 7820#Piece of Morocc Skin#
 7821#Green Apple#
 7822#Whole Barbecue#
@@ -3766,7 +3766,7 @@
 7878#Lusalka's Hair#
 7879#Golden Thread#
 7880#Baba Yaga's Silver Spoon#
-7881#Mistery Magic Book#
+7881#Mystery Magic Book#
 7882#Sharp Branch#
 7883#Wooden Flute#
 7884#Jade Plate#
@@ -3791,7 +3791,7 @@
 7910#Stolen Candy#
 7911#Yulia's Hat#
 7912#Portable Snowman Machine#
-7915#Bronze Coin#
+7915#Shred Of Evidence#
 7916#Silver Coin#
 7919#Festival Ticket#
 7923#Krathong#
@@ -3803,7 +3803,7 @@
 7959#UP Coin#
 7974#Misty's Illusion Piece#
 7975#Cupid's Chocolate#
-7977#Mercenary Badge#
+7977#Hunting Medal Badge#
 9001#Poring Egg#
 9002#Drops Egg#
 9003#Poporing Egg#
@@ -3822,15 +3822,15 @@
 9016#Yoyo Egg#
 9017#Orc Warrior Egg#
 9018#Munak Egg#
-9019#Dokkaebi Egg#
+9019#Dokebi Egg#
 9020#Sohee Egg#
 9021#Isis Egg#
 9022#Green Petite Egg#
 9023#Deviruchi Egg#
 9024#Bapho Jr. Egg#
 9025#Bongun Egg#
-9026#Egg#
-9027#Egg#
+9026#Zealotus Egg#
+9027#Alice Egg#
 9028#Hard Rice Cake#
 9029#X-mas Goblin's Egg#
 9030#Green Maiden Egg#
@@ -3862,26 +3862,26 @@
 9056#Imp Egg#
 9058#Christmas Snow Rabbit Egg#
 9059#Tikbalang Egg#
-10001#Headgear#
-10002#Headgear#
-10003#Headgear#
-10004#Accessory#
-10005#Accessory#
-10006#Headgear#
-10007#Accessory#
-10008#Spear#
-10009#Flower#
-10010#Headgear#
-10011#Accessory#
-10012#Headgear#
+10001#Skull Helm#
+10002#Monster Oxygen Mask#
+10003#Transparent Head Protector#
+10004#Pacifier#
+10005#Wig#
+10006#Queen's Hair Ornament#
+10007#Silk Ribbon#
+10008#Punisher#
+10009#Wild Flower#
+10010#Battered Pot#
+10011#Stellar Hairpin#
+10012#Tiny Egg Shell#
 10013#Poring Pet Backpack#
-10014#Headgear#
-10015#Accessory#
-10016#Accessory#
-10017#Armor#
-10018#Headgear#
-10019#Garment#
-10020#One-Handed Sword#
+10014#Rocker Glasses#
+10015#Green Lace#
+10016#Golden Bell#
+10017#Bark Shorts#
+10018#Monkey Circlet#
+10019#Red Scarf#
+10020#Grave Keeper's Sword#
 10038#Horn Protector#
 11000#History book of Prontera#
 11001#Adventure Story Vol.1#
@@ -3900,14 +3900,14 @@
 11015#Expedition Report Vol3#
 11016#Expedition Report Vol4#
 11018#Splendide Selling Item#
-11019#Splendide Selling Item#
+11019#Manuk Selling Item#
 11022#Cooking Book: Mix Cooking#
-11023#Study On How To Explosively Increase Stamina#
-11024#How To Vital Drink#
+11023#How To Increase Stamina#
+11024#How To Increase Vitality#
 11056#Spiritualism Guide#
 11500#Light Yellow Potion#
 11501#Light White Potion#
-11502#Slim Blue Potion#
+11502#Light Blue Potion#
 11503#WoE White Potion#
 11504#WoE Blue Potion#
 11505#Iris#
@@ -3915,9 +3915,9 @@
 11515#Coconut#
 11516#Asai Fruit#
 11517#Purification Potion#
-11519#Beef Toast#
+11519#Bifrost#
 11520#Mora Mandarin#
-11521#Pingui Berry Juice#
+11521#Pinguicula Berry Juice#
 11522#Red Raffle Sap#
 11523#Yellow Raffle Sap#
 11524#White Raffle Sap#
@@ -4039,10 +4039,10 @@
 12111#Bundle of Food#
 12112#Tropical Sograt#
 12113#Vermilion on the Beach#
-12114#Elemental Converter#
-12115#Elemental Converter#
-12116#Elemental Converter#
-12117#Elemental Converter#
+12114#Elemental Converter: Fire#
+12115#Elemental Converter: Water#
+12116#Elemental Converter: Earth#
+12117#Elemental Converter: Wind#
 12118#Fireproof Potion#
 12119#Coldproof Potion#
 12120#Earthproof Potion#
@@ -4060,7 +4060,7 @@
 12132#Santa's Bag#
 12134#Red Envelope#
 12135#Green Ale#
-12144#Lighting Sphere Pack#
+12144#Lightning Sphere Pack#
 12145#Blind Sphere Pack#
 12146#Poison Sphere Pack#
 12147#Freezing Sphere Pack#
@@ -4189,14 +4189,14 @@
 12360#Very Red Juice#
 12361#Delicious Shaved Ice#
 12362#Kuloren#
-12363#Fit Pipe#
+12363#Ghost Coffin#
 12364#Staff Of Leader#
 12365#Charming Lotus#
-12366#Gril Doll#
+12366#Girl Doll#
 12367#Luxury Whisky Bottle#
 12368#Splendid Mirror#
 12369#Oilpalm Coconut#
-12370#Gril's Naivety#
+12370#Girl's Naivety#
 12371#Magical Lithography#
 12372#Hell Contract#
 12373#Boy's Pure Heart#
@@ -4224,15 +4224,15 @@
 12427#SP Increase Potion(Large)#
 12428#Enriched White PotionZ#
 12429#Savage BBQ#
-12430#Wug Blood Cocktail#
+12430#Warg Blood Cocktail#
 12431#Minor Brisket#
 12432#Siroma Icetea#
-12433#Drocera Herb Stew#
-12434#Petti Tail Noodle#
+12433#Drosera Herb Stew#
+12434#Petite Tail Noodles#
 12438#Giant Fly Wing#
-12439#Battle Manual#
+12439#Old Battle Manual#
 12440#Insurance#
-12441#Bubble Gum#
+12441#Old Bubble Gum#
 12442#Kafra Card#
 12443#Neuralizer#
 12444#WoE Teleport Scroll#
@@ -4246,7 +4246,7 @@
 12452#Green Butterfly Wing#
 12453#Red Butterfly Wing#
 12454#Blue Butterfly Wing#
-12455#Dungeon Teleport Scroll#
+12455#WoE Teleport Scroll#
 12456#Greed Scroll#
 12457#Glass Of Illusion#
 12458#Abrasive#
@@ -4286,10 +4286,10 @@
 12574#Mora Berry#
 12575#Elf's Arrow Quiver#
 12576#Hunting Arrow Quiver#
-12580#Window Shopper Catalog#
-12581#Bargain Hunter's Catalog#
+12580#Window Shopper Catalogue#
+12581#Bargain Hunter's Catalogue#
 12582#WoE Supply Box#
-12591#Black Market Catalog#
+12591#Black Market Catalogue#
 12595#Incarnation Of Morocc Doll Box#
 12596#Magic Candy#
 12608#Splendid Box2#
@@ -4297,7 +4297,7 @@
 12622#Boarding Halter#
 12623#High Weapon Box#
 12624#Delicious Jelly#
-12654#Fortune Eggジ#
+12654#Recruit's Mount Gift#
 12658#Transformation Scroll(Deviruchi)#
 12659#Transformation Scroll(Raydric)#
 12660#Transformation Scroll(Mavka)#
@@ -4325,7 +4325,7 @@
 12744#Chocolate Box#
 12745#Vivid Notation#
 12775#Greater Agimat of Ancient Spirit#
-12778#Bapho Jr Scroll#
+12778#Baphomet Jr Ally Scroll#
 12779#Galapago Scroll#
 12859#Spring Lucky Pack#
 12900#Battle Manual Box#
@@ -4348,20 +4348,20 @@
 12917#Wind Walk 10 Scroll Box#
 12918#Adrenaline 5 Scroll Box#
 12919#Megaphone Box#
-12920#Enriched Elunium Box#
-12921#Enriched Oridecon Box#
+12920#Enriched Elunium 5 Box#
+12921#Enriched Oridecon 5 Box#
 12922#Token of Siegfried Box#
 12923#December Lucky Box#
-12924#Pet Egg Box 2#
+12924#Anniversary Destiny Crate#
 12925#Kafra Item Mall Prize Package#
-12926#December Lucky Box#
+12926#Anniversary Destiny Box#
 12927#Aspersio Scroll Box#
 12929#Pet Egg Box 3#
 12930#Pet Egg Box 4#
-12931#Pet Egg Box 5#
+12931#Playspan 5x Easter Lucky Pack#
 12932#Episode 13.2 Key Package#
-12933#Pet Egg 4#
-12934#Pet Egg 5#
+12933#Summer Hat Pack#
+12934#Easter Lucky Pack#
 12935#Infiltrator Box#
 12936#Muramasa Box#
 12937#Excalibur Box#
@@ -4392,105 +4392,105 @@
 12962#Vesper Core 02 Box#
 12963#Vesper Core 03 Box#
 12964#Vesper Core 04 Box#
-12977#Warp Scroll#
+12977#Teleport Scroll 1#
 12983#Christmas Holiday Crate#
 12987#Pet Egg Scroll Box 10#
 12988#Pet Egg Scroll Box 11#
 12989#Christmas Holiday Box#
-12993#Pet Egg Scroll 10#
+12993#Party Buff Scroll Pack#
 12994#HD Elunium 10 Box#
 12995#White Herb Box#
 12996#Blue Herb Box#
 12997#Elunium Box#
 12998#Oridecon Box#
 12999#Dead Branch Box#
-13000#Dagger#
-13001#Dagger#
-13002#Dagger#
-13003#Dagger#
-13004#Dagger#
-13005#Dagger#
-13006#Dagger#
-13007#Dagger#
-13008#Dagger#
-13009#Dagger#
-13010#Dagger#
-13011#Dagger#
-13012#Dagger#
-13013#Dagger#
-13014#Dagger#
-13015#Dagger#
-13016#Dagger#
-13017#Dagger#
-13018#Dagger#
-13019#Dagger#
-13021#Dagger#
-13022#Dagger#
-13023#Dagger#
-13026#Dagger#
-13027#Dagger#
-13028#Dagger#
-13030#Dagger#
-13031#Dagger#
-13032#Dagger#
-13033#Dagger#
-13034#Dagger#
-13035#Dagger#
-13036#Dagger#
-13037#Dagger#
-13038#Dagger#
-13039#Dagger#
-13040#Dagger#
-13041#Dagger#
-13042#Dagger#
-13046#Dagger#
-13047#Dagger#
-13050#P.Daggerグ#
-13051#P.Daggerケ#
-13053#Dagger#
-13054#Dagger#
-13055#Dagger#
-13056#Dagger#
-13067#Dagger#
-13100#Pistol#
-13101#Pistol#
-13102#Pistol#
-13103#Pistol#
-13104#Pistol#
-13105#Pistol#
-13106#Pistol#
-13107#Pistol#
+13000#Jujube Dagger#
+13001#Dragon Killer#
+13002#Ginnungagap#
+13003#Cowardice Blade#
+13004#Cowardice Blade#
+13005#Angelic Wing Dagger#
+13006#Khukri#
+13007#Jitte#
+13008#Jitte#
+13009#Kamaitachi#
+13010#Asura#
+13011#Asura#
+13012#Murasame#
+13013#Murasame#
+13014#Hakujin#
+13015#Hakujin#
+13016#Poison Knife#
+13017#Ice Pick#
+13018#Sucsamad#
+13019#Ginnungagap#
+13021#Rental Combat Knife#
+13022#Rental Dagger of Counter#
+13023#Rental Asura#
+13026#Moonlight Dagger#
+13027#Scalpel#
+13028#Tooth Blade#
+13030#Dragon Killer#
+13031#Swordbreaker#
+13032#Mailbreaker#
+13033#Assassin Dagger#
+13034#Desert Twilight#
+13035#Sandstorm#
+13036#Brave Assassin's Damascus#
+13037#Valorous Assassin's Damascus#
+13038#Dagger of Hunter#
+13039#Ivory Knife#
+13040#Novice Cutter#
+13041#Novice Main Gauche#
+13042#Glorious Gladius#
+13046#Krieg#
+13047#Weihna#
+13050#Eden Dagger I#
+13051#Eden Dagger II#
+13053#Rental Moonlight Sword#
+13054#Combat Knife#
+13055#Asura#
+13056#Counter Dagger#
+13067#Keris#
+13100#Six Shooter#
+13101#Six Shooter#
+13102#Crimson Bolt#
+13103#Crimson Bolt#
+13104#Garrison#
+13105#Garrison#
+13106#Gold Lux#
+13107#Wasteland's Outlaw#
 13108#Soldier Revolver#
-13109#Pistol#
+13109#Wasteland Outlaw#
 13110#Glorious Pistol#
-13112#P.Revolverグ#
-13113#Pistol#
-13150#Rifle#
-13151#Rifle#
-13152#Rifle#
-13153#Rifle#
-13154#Shotgun#
-13155#Shotgun#
-13156#Shotgun#
-13157#Gatling Gun#
-13158#Gatling Gun#
-13159#Gatling Gun#
-13160#Grenade Launcher#
-13161#Grenade Launcher#
-13162#Grenade Launcher#
-13163#Rifle#
-13164#Rifle#
-13165#Rifle#
-13166#Rifle#
-13167#Shotgun#
-13168#Shotgun#
-13169#Shotgun#
-13170#Rifle#
+13112#Eden Revolver I#
+13113#Eden Revolver II#
+13150#Branch#
+13151#Cyclone#
+13152#Cyclone#
+13153#Dusk#
+13154#Rolling Stone#
+13155#Black Rose#
+13156#Gate Keeper#
+13157#Drifter#
+13158#Butcher#
+13159#Butcher#
+13160#Destroyer#
+13161#Destroyer#
+13162#Inferno#
+13163#Long Barrel#
+13164#Long Barrel#
+13165#Jungle Carbine#
+13166#Jungle Carbine#
+13167#Gate Keeper-DD#
+13168#Thunder P#
+13169#Thunder P#
+13170#Lever Action Rifle#
 13171#Soldier Rifle#
 13172#Soldier GatlingGun#
 13173#Soldier Shotgun#
 13174#Soldier Grenade Launcher#
-13175#Rifle#
+13175#Lever Action Rifle#
 13176#Glorious Rifle#
 13177#Glorious Gatling gun#
 13178#Glorious Shotgun#
@@ -4544,41 +4544,41 @@
 13288#Throwing Drocera Herb Stew#
 13289#Throwing Petit Tail Noodle#
 13290#Throwing Black Thing#
-13300#Huuma Shuriken#
-13301#Huuma Shuriken#
-13302#Huuma Shuriken#
-13303#Huuma Shuriken#
-13304#Humma#
+13300#Huuma Wing Shuriken#
+13301#Huuma Giant Wheel Shuriken#
+13302#Huuma Giant Wheel Shuriken#
+13303#Huuma Blaze Shuriken#
+13304#Huuma Calm Mind#
 13305#Brave Huuma Front Shuriken#
 13306#Valorous Huuma Front Shuriken#
 13307#Glorious Shuriken#
-13308#Huuma Shuriken#
-13309#Huuma Shuriken#
-13400#One-handed Sword#
+13308#Huuma Blaze Shuriken#
+13309#Huuma Giant Wheel Shuriken#
+13400#Cutlus#
 13401#Excalibur#
 13402#Cutlas#
 13403#Solar Sword#
-13404#One-Handed Sword#
-13405#One-Handed Sword#
-13406#One-Handed Sword#
-13407#One-Handed Sword#
-13408#One-Handed Sword#
-13409#One-Handed Sword#
-13410#One-Handed Sword#
-13411#One-Handed Sword#
-13412#One-Handed Sword#
-13413#One-Handed Sword#
-13414#One-Handed Sword#
-13415#One-Handed Sword#
-13416#One-Handed Sword#
-13417#One-Handed Sword#
-13418#One-Handed Sword#
-13419#One-Handed Sword#
-13420#One-Handed Sword#
-13421#One-Handed Sword#
-13422#One-Handed Sword#
-13426#One-Handed Sword#
-13427#One-Handed Sword#
+13404#Platinum Shotel#
+13405#Curved Sword#
+13406#Edger#
+13407#Refined Nagan#
+13408#Refined Fireblend#
+13409#Refined Immaterial Sword#
+13410#Valorous Gladiator Blade#
+13411#Brave Gladiator Blade#
+13412#Twin Edge of Naght Sieger#
+13413#Twin Edge of Naght Sieger#
+13414#Elemental Sword#
+13415#Novice Falchion#
+13416#Glorious Flamberge#
+13417#Glorious Rapier#
+13418#Glorious Holy Avenger#
+13419#Holy Saber#
+13420#Honglyun's Sword#
+13421#Ruber#
+13422#Flamberge#
+13426#Rental Cutlas#
+13427#Rental Solar Sword#
 13500#Life Insurrance Box#
 13503#Baphomet Horns Box#
 13505#Executioner Box#
@@ -4592,27 +4592,27 @@
 13532#Light Orange Potion Box#
 13533#Light Yellow Potion Box#
 13534#Light White Potion Box#
-13535#Light Concentration Potion Box#
+13535#Light Center Potion Box#
 13536#Light Awakening Potion Box#
 13537#Light Berserk Potion Box#
 13553#Dungeon Teleport Scroll 5 Box#
-13572#Hwergelmir's Tonic Box 30#
-13573#Hwergelmir's Tonic Box 50#
-13574#Nine Tail Dish Box 30#
-13575#Nine Tail Dish Box 50#
-13578#Stew of Immortality Box 30#
-13579#Stew of Immortality Box 50#
+13572#Hwergelmir's Tonic 30 Box#
+13573#Hwergelmir's Tonic 50 Box#
+13574#Nine Tail Dish 30 Box#
+13575#Nine Tail Dish 50 Box#
+13578#Stew of Immortality 30 Box#
+13579#Stew of Immortality 50 Box#
 13580#Life Insurance 30 Package#
 13584#Blessing Scroll 30 Box#
-13592#Steamed Scorpion Box 30#
-13593#Steamed Scorpion Box 50#
-13596#Dragon Breath Cocktail Box 30#
-13597#Dragon Breath Cocktail Box 50#
+13592#Steamed Scorpion 30 Box#
+13593#Steamed Scorpion 50 Box#
+13596#Dragon Breath Cocktail 30 Box#
+13597#Dragon Breath Cocktail 50 Box#
 13601#Token Of Siegfried 20 Box#
-13604#Steamed Tongue Box 30#
-13605#Steamed Tongue Box 50#
-13610#Enriched Elunium 5 Box#
-13611#Enriched Oridecon 5 Box#
+13604#Steamed Tongue 30 Box#
+13605#Steamed Tongue 50 Box#
+13610#Enriched Elunium 10 Box#
+13611#Enriched Oridecon 10 Box#
 13621#Greed Scroll 30 Box#
 13642#Start your Journey Pack#
 13701#HD Oridecon 10 Box#
@@ -4659,8 +4659,8 @@
 13807#Birthday Firecracker Box#
 13808#Xmas Firecracker Box#
 13809#Blue Gemstone Box#
-13810#Blue Potion Box#
-13811#Food Box Vol 1#
+13810#Light Blue Potion Box#
+13811#+20 Basic Food Pack#
 13812#Food Box Vol 2#
 13813#Food Box Vol 3#
 13850#Yellow Butterfly Wing Box#
@@ -4670,7 +4670,7 @@
 13859#Directive Envelope A#
 13860#Directive Envelope B#
 13862#Welcome to Midgard Pack#
-13864#Headgear Box#
+13864#Hockey Mask Box#
 13866#Flapping Angel Wing Box#
 13869#Chick Hat Box#
 13902#Fish Head Hat Box#
@@ -4678,16 +4678,16 @@
 13904#Bell Ribbon Box#
 13908#Class Set Card Album#
 13909#MVP Hunting Box#
-13912#Party Blessing Box#
-13913#Party Increase Agi 10 Box#
-13914#Party Assumptio 10 Box#
-13918#Old Purple Box#
-13919#Old Purple Box#
-13920#Old Purple Box#
-13921#Old Purple Box#
-13922#Old Purple Box#
-13923#Old Purple Box#
-13924#Old Purple Box#
+13912#Party Blessing 10 Scroll Box#
+13913#Party Increase Agi 10 Scroll Box#
+13914#Party Assumptio 5 Scroll Box#
+13918#Koneko Hat Box#
+13919#Baphomet Horns Box#
+13920#Flying Evil Wing Box#
+13921#Gentleman's Pipe Box#
+13922#Bunny Top Hat Box#
+13923#Dark Randgris Helm Box#
+13924#Orc Hero Headdress Box#
 13927#Alchemist Card Box#
 13933#Undine Box#
 13937#Robo Eye Box#
@@ -4701,19 +4701,19 @@
 13991#Tiger Mask Box#
 13992#Neko Mimi Box#
 13993#Alice Hat Box#
-13994#Old Blue Box#
-13995#Old Blue Box#
+13994#Speed Potion Box(5)#
+13995#Speed Potion Box(10)#
 13998#Giant Fly Wing Box 500#
 14000#Pill Box(500)#
 14002#Advanced WoE Supply Box#
 14017#All In One Ring Box#
 14024#Robo Eye Box#
-14037##
+14037#Safe to All Pack#
 14039#Hockey Mask Box#
-14042#Yellow Butterfly Wing 10 Box#
-14044#Green Butterfly Wing 10 Box#
-14046#Red Butterfly Wing 10 Box#
-14048#Blue Butterfly Wing 10 Box#
+14042#Yellow Butterfly Wing Box#
+14044#Green Butterfly Wing Box#
+14046#Red Butterfly Wing Box#
+14048#Blue Butterfly Wing Box#
 14053#Little Angel Doll Box#
 14075#Glass Of Illusion 10 Box#
 14082#Small Defense Potion 10 Box#
@@ -4735,10 +4735,10 @@
 14114#Dungeon Teleport Scroll 10 Box#
 14118#Combat Knife Box#
 14119#Counter Dagger Box#
-14122#Right Epsilon Box#
-14124#Diary Of Great Sage#
+14122#Light Epsilon Box#
+14124#Sage's Diary Box#
 14125#Asura Box#
-14126#Apple Of Archer Box#
+14126#Apple of Archer Box#
 14127#Bunny Band Box#
 14130#Elven Ears Box#
 14131#Steel Flower Box#
@@ -4758,33 +4758,33 @@
 14149#Vigorgra Box6#
 14150#Vigorgra Box7#
 14151#Vigorgra Box8#
-14152#Vigorgra Box9#
+14152#Start your Journey Pack#
 14153#Siege Mode Pack#
 14154#1 Hour Survival Pack#
 14155#Weekend Hunting Pack#
 14156#Battle Manual Box#
 14157#Insurance Package#
 14158#Bubble Gum Box#
-14159#Steamed Tongue 10 Box#
-14160#Steamed Scorpion 10 Box#
-14161#Dragon Breath Cocktail 10 Box#
-14162#Hwergelmir's Tonic 10 Box#
-14163#Nine Tail Dish 10 Box#
-14164#Stew Of Immortality 10 Box#
-14165#Kafra Card 10 Box#
+14159#Steamed Tongue Box#
+14160#Steamed Scorpion Box#
+14161#Dragon Breath Cocktail Box#
+14162#Hwergelmir's Tonic Box#
+14163#Nine Tail Dish Box#
+14164#Stew Of Immortality Box#
+14165#Kafra Card Box#
 14166#Giant Fly Wing Box#
 14167#Neuralizer Box#
 14168#Convex Mirror Box#
 14169#Blessing 10 Scroll Box#
 14170#Increase AGI 10 scroll Box#
-14171#Aspersio 10 Scroll Box#
-14172#Assumptio 10 Scroll Box#
+14171#Aspersio 5 Scroll Box#
+14172#Assumptio 5 Scroll Box#
 14173#Wind Walk 10 Scroll Box#
-14174#Adrenaline 10 Scroll Box#
+14174#Adrenaline 5 Scroll Box#
 14175#Megaphone 10 Box#
-14176#Enriched Elunium 10 Box#
-14177#Enriched Oridecon 10 Box#
-14178#Token of Siegfried 10 Box#
+14176#Enriched Elunium 5 Box#
+14177#Enriched Oridecon Box#
+14178#Token of Siegfried Box#
 14181#Hwergelmir's Tonic 30 Box#
 14182#Hwergelmir's Tonic 50 Box#
 14183#Nine Tail Dish 30 Box#
@@ -4860,30 +4860,30 @@
 14571#Hammer Goblin Ring#
 14572#Holy Marble#
 14573#Red Burning Stone#
-14574#Skull Of Vagabond#
+14574#Vagabond's Skull#
 14582#Yellow Butterfly Wing#
 14583#Green Butterfly Wing#
 14584#Red Butterfly Wing#
 14585#Blue Butterfly Wing#
-14588#Party Blessing Scroll#
-14589#Party Increase Agi Scroll#
-14590#Party Assumptio Scroll#
+14588#Party Blessing 10 Scroll#
+14589#Party Increase Agi 10 Scroll#
+14590#Party Assumptio 5 Scroll#
 14591#WoE Teleport Scroll#
 14592#Job Battle Manual#
 14593#Mystical Amplification Scroll#
 14595#Unsealed Magic Spell#
 14596#Pierre's Treasurebox#
 14600#Mental Potion#
-15000#Armor#
+15000#Bone Plate#
 15012#Puente Robe#
 15013#Claire Suits#
-15024#Armor#
-15032#Armor#
+15024#Army Padding#
+15032#Tidung#
 15033#Tutorial Mantle#
 15034#Tutorial Mantle#
-16000#Mace#
-16001#Mace#
-16008#Spanner#
+16000#Erde#
+16001#Red Square Bag#
+16008#Rental Wrench#
 16014#Eden Group Mace3#
 16186#Baby Dragon Hat Box#
 16192#Quati Hat Box#
@@ -4915,26 +4915,26 @@
 16346#Leo Diadem Box#
 16368#Virgo Crown Box#
 16372#Four Leaf Clover Box#
-16381#Siege Tele 10 Scroll Box#
-16397##
+16381#WoE Teleport Scroll 100 Box#
+16397#Virgo Diadem Box#
 16398#Virgo Crown Box#
 16399#Virgo Diadem Box#
 16414#Turtle Hat Box#
 16415#Turtle Hat Box#
 16418#Giant Fly Wing Box 500#
 16419#Greed Scroll 30 Box#
-16420#Pet Egg Scroll#
-16421#Marriage Covenant Box#
+16420#Adventurer Pack#
+16421#Written Oath Of Marriage Box#
 16422#Magestic Goat Box#
-16423#Pet Egg Scroll#
+16423#Episode 13.1 Key Package#
 16424#Executioner Box#
 16425#Cutlas Box#
-16426#Moonlight Sword Box#
-16427#Spanner Box#
+16426#Moonlight Dagger Box#
+16427#Wrench Box#
 16428#Solar Sword Box#
 16429#Tomahawk Box#
-16430#Bow Of Rudra Box#
-16431#Pole Axe Box#
+16430#Rudra Bow Box#
+16431#Poll Axe Box#
 16436#Libra Crown Box#
 16437#Libra Crown Box#
 16438#Libra Diadem Box#
@@ -4952,12 +4952,12 @@
 16550#Ephemeral Mjolnir Box#
 16551#Ephemeral Megingiorde Box#
 16554#Elven Sunglasses Box#
-16555#Reset Stone Box#
+16555#Playspan Reset Stone Box#
 16556#Reset Stone Box#
-16565#Capricon Crown Box#
-16566#Capricon Crown Box#
-16567#Capricon Diadem Box#
-16568#Capricon Diadem Box#
+16565#Capricorn Crown Box#
+16566#Capricorn Crown Box#
+16567#Capricorn Diadem Box#
+16568#Capricorn Diadem Box#
 16588#Thoughtful Hat Box#
 16589#Thoughtful Hat Box#
 16590#Thoughtful Hat Box#
@@ -4967,8 +4967,8 @@
 16676#Zodiac Crown Pack#
 16677#Bargain Hunter's Catalog 10 Box#
 16678#Bargain Hunter's Catalog 50 Box#
-16682#Boarding Halter Box#
-16683#Boarding Halter Box#
+16682#Halter Lead 7 Day Box#
+16683#Halter Lead 30 Day Box#
 16689#Garuda Hat Box#
 16692#Alice Hat Box#
 16693#Crescent Helm Box#
@@ -5045,18 +5045,18 @@
 17108#Gemini Crown Scroll 10 Box#
 17109#May You Groove On Pack#
 17110#Aquarius Scroll#
-17113#Pisces Scroll#
+17113#Marching Hat Box#
 17114#Ancient Horns Box#
 17115#Sprout Hat Box#
 17116#Mercury Riser Box#
 17117#Aries Scroll#
-17119#Premium Hat Box#
+17119#Summer Lucky Pack#
 17120#Taurus Scroll#
 17121#Starry Scroll#
-17122#Immuned Shield Box#
+17122#Immune Shield Box#
 17123#Black Devil's Mask Box#
-17124#Cat Ears Beret Box#
-17125#Red Bread Hat Box#
+17124#Cat Ear Beret Box#
+17125#Red Pom Band Box#
 17127#March Groove and Win Crate#
 17138#Cancer Scroll#
 17140#Leo Scroll#
@@ -5069,92 +5069,92 @@
 18002#Dark Cannon Ball#
 18003#Soul Cannon Ball#
 18004#Iron Cannon Ball#
-18101#Bow Of Rudra#
+18101#Rental Bow Of Rudra#
 18106#Eden Group Bow3#
-18500#Headgear#
+18500#Cheering scarf VI#
 18505#Umbala Spirit#
 18507#Elven Ears#
 18508#Garuda Hat#
 18514#Eden Group Hat II#
-18520#Headgear#
-18522#Headgear#
-18532#Headgear#
+18520#Jaty Crown#
+18522#Evil Marching Hat#
+18532#Heart Ribbon Hairband#
 18538#Spirit Whispers#
 18539#Skull Cap#
 18540#Demon Mask#
 18541#Little Feather Hat#
 18542#Benevolent Guardian#
-18543#Headgear#
-18553#Mini Tree#
-18556#Headgear#
-18557#Headgear#
+18543#Witch Hat#
+18553#Christmas Tree Hat#
+18556#Angel's Symbol#
+18557#Devil's Symbol#
 18565#St Patrick's Hat#
-18571#Headgear#
-18574#Headgear#
-18576#Headgear#
+18571#Lucky Hat#
+18574#Lord of the Dead Helm#
+18576#Yin Yang Earrings#
 18580#Yggdrasil Crown#
-18581#Headgear#
-18582#Headgear#
-18583#Headgear#
-18584#Headgear#
+18581#Red Tiger Mask#
+18582#Blue Tiger Mask#
+18583#Navy Drooping Kitty#
+18584#Brown Drooping Kitty#
 18591#Mini Glasses#
-18593#Headgear#
+18593#Fancy Mini Crown#
 18595#Ancient Horns#
 18596#Sprout Hat#
 18597#Mercury Riser#
 18599#Black Devil's Mask#
-18600#Cat Ears Beret#
-18601#Red Bread Hat#
+18600#Cat Ear Beret#
+18601#Red Pom Band#
 18603#Black Devil's Mask#
-18607#Accessory#
-18611#Headgear#
+18607#Blush#
+18611#Black Frame Glasses#
 18612#White Musang Hat#
 18613#Black Musang Hat#
 18614#Grim Reaper#
-18615#Inured Eyepatch#
+18615#Injured Eyepatch#
 18616#Long Tongue#
-18617#Headgear#
-18618#Elvis Hair#
+18617#Onigiri#
+18618#Rockabilly Hair#
 18619#Thief Bandana#
 18620#Heart Eyepatch#
 18621#Mobster's Disguise#
 18626#Gelato Hat#
 18630#Drooping Alicel#
-18638#Headgear#
-18639#Headgear#
-18640#Headgear#
-18641#Headgear#
-18642#Headgear#
-18643#Headgear#
-18644#Headgear#
-18645#Headgear#
+18638#Citron Hat#
+18639#Naval Officer Hat#
+18640#Starfish Headband#
+18641#Ribbon Magic Hat#
+18642#Scissorhand Model#
+18643#Rockhand Model#
+18644#Paperhand Model#
+18645#Sailor Hat#
 18656#Witch's Pumpkin Hat#
-18657#Accessory#
-18659#Headgear#
+18657#Pegasus Ear Wing#
+18659#Boitata Hat#
 18660#Indian Feather Headband#
 18661#Trident Helmet#
 18662#Antler Fedora#
 18663#Sunglasses Baseball Hat#
-18664#Blinded Glasses#
+18664#Stunner Shades#
 18665#Orange In Mouth#
 18666#CD In Mouth#
 18667#Cat Lace Hairband#
 18668#Droopy Turtle Hat#
-18669#Headgear#
-18670#Accessory#
-18671#Headgear#
-18673#Headgear#
-18674#Headgear#
-18675#Headgear#
-18676#Headgear#
-18677#Accessory#
-18678#Accessory#
-18679#Accessory#
-18680#Headgear#
-18681#Headgear#
-18682#Accessory#
-18683#Accessory#
-18684#Headgear#
+18669#Cowhide Hat#
+18670#Handkerchief In Mouth#
+18671#Rudolf Hairband#
+18673#Chibi Pope#
+18674#Planewing Hat#
+18675#Green Apple Hat#
+18676#Hexagon Spectacles#
+18677#Cherry Twig In Mouth#
+18678#Leek In Mouth#
+18679#Abacus In Mouth#
+18680#Frog Hat#
+18681#Puppy Ears Hat#
+18682#Teardrop#
+18683#Carrot In Mouth#
+18684#Showy High Cap#
 19502#Costume Goggles#
 19507#Costume Shining Sun#
 19509#Costume Butterfly Ears#
