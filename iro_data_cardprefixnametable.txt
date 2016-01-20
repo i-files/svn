@@ -514,6 +514,7 @@
 4998#of Valor#
 4999#of Aegis#
 4545#Novice#
+//-----영웅의 흔적2
 4560#of Bragi#
 4561#of Magic Protection#
 4562#of penetrating#
@@ -564,3 +565,5 @@
 4607#of Librarian#
 4556#Power Ward#
 4557#of Spell Power#
+// 2013년 2월_마신전메모리얼
+4559#Blitz#

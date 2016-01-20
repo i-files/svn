@@ -68157,11 +68157,11 @@ Party Recruiter Hat
 Deviling Hat
 Whikibain Ears - Animated
 Moon Rabbit Hat
-Party Increase Agi Scroll x 50
-Party Blessing Scroll x 50
-Party Assumptio Scroll x 50
+Party Increase Agi Scroll x 100
+Party Blessing Scroll x 100
+Party Assumptio Scroll x 100
 Battle ManualX3 x 5
-Lv 10 Sword Mercenary x 20
+Lv 10 Sword Mercenary x 50
 
 Weight : ^7777770^000000
 #
@@ -69147,4 +69147,441 @@ Oberserver
 This Box is Account Bound
 ^ffffff_^000000
 Weight : ^77777720^000000
+#
+
+
+19838#
+It's the wearing of the Green with this month's Groove Pack!
+When opened the openee will always receive 1x HE Bubble Gum
+and a box that gives one of the following at random: 
+
+Peace Pipe
+Slotting Advertisement
+Crescent Helm
+Triple Poring Hat
+Takius Blindfold[1]
+Benevolent Guardian
+HE Bubble Gum x3
+Party Assumptio Scroll x25
+Mega Resist Potion x80
+Yellow Ribbon
+
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+19839#
+Kafra Co is proud to bring you this Lover's Lucky Box!
+When opened, this box gives one of the following at random: 
+
+Peace Pipe
+Slotting Advertisement
+Crescent Helm
+Triple Poring Hat
+Takius Blindfold[1]
+Benevolent Guardian
+HE Bubble Gum x3
+Party Assumptio Scroll x25
+Mega Resist Potion x80
+Yellow Ribbon
+
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+19840#
+A mysterious armor once worn by an ancient warrior. Found in Morroc.
++200 HP
++100 SP
+Increases effectiveness of Novice Potion, Red Potion and Orange Potion by 50%.
+Class : ^777777Armor^000000
+Defense : ^7777773^000000
+Weight : ^77777790^000000
+Jobs : ^777777All^000000
+#
+
+27339#
+A mysterious armor once worn by an ancient warrior. Found in Morroc.
++200 HP
++100 SP
+Increases effectiveness of Novice Potion, Red Potion and Orange Potion by 50%.
+Class : ^777777Armor^000000
+Defense : ^7777773^000000
+Weight : ^77777790^000000
+Jobs : ^777777All^000000
+#
+
+27340#
+A mysterious ring once worn by an ancient warrior. Found in Morroc.
++4 to all stats, bonus decreases by 1 for every 10 job levels.
+Class : ^777777Armor^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
+Jobs : ^777777All^000000
+#
+
+19841#
+The Kafra Corp is proud to present this spring-themed lucky gift basket. Instead of chocolates and eggs, this basket will give one of the following at random when opened!
+Droopy Turtle Hat[1]
+Vanilmirth Hat
+Purple Cowboy Hat[1]
+Moon Rabbit Hat[1]
+Yggdrasil Crown
+Lif Doll Hat[1]
+Mini Glasses[1]
+5x Battle Manual X3
+40x Lvl. 10 Sword Mercenary Scroll 
+10x Job Battle Manual
+Box Weight : ^7777771^000000
+#
+
+19842#
+Open the box and receive one of the 24 Zodiac Diadem headgears.
+Contains one of the following:
+Aries Diadem / Crown
+Taurus Diadem / Crown
+Gemini Diadem / Crown
+Cancer Diadem / Crown
+Leo Diadem / Crown
+Virgo Diadem / Crown
+Libra Diadem / Crown
+Scorpio Diadem / Crown
+Sagittarius Diadem / Crown
+Capricorn Diadem / Crown
+Aquarius Diadem / Crown
+Pisces Diadem / Crown
+Weight : ^7777771^000000
+#
+
+27341#
+Mysterious shoes once worn by an ancient warrior. Found in Morroc.
++200 HP
++10 SP recovery rate
+5% chance to drop 'Fly Wing' when killing monsters
+Cannot be refined
+Class : ^777777Footwear^000000
+Defense : ^7777774^000000
+Weight : ^77777780^000000
+Jobs: ^777777Every Job^000000
+#
+27342#
+Novice class, +100 hp
+Mage class, skill sp cost reduced by %10 percent
+Aco class, +50% sp recovery
+Thief class, +10 flee
+Merchant class, increase potion recovery by 20%
+Swordsman class, +200 hp
+Archer class, +10 crit
+Class : ^777777Garment^000000
+Defense : ^7777771^000000
+Weight : ^77777720^000000
+Jobs: ^777777Every Job
+except Novice^000000
+#
+
+
+19843#
+When opened the openee will always receive 1x Battle ManualX3
+and a box that gives one of the following at random: 
+Mega Resist Potion x 80
+Mental Potion x 40
+Banana Beret
+Gelato Hat
+Magic Eyes
+Neko Mimi Kafra Hat
+Orange In Mouth
+Slotting Advertisement
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+
+19844#
+Gives one of the following at random: 
+
+Mega Resist Potion x 80
+Mental Potion x 40
+Banana Beret
+Gelato Hat
+Magic Eyes
+Neko Mimi Kafra Hat
+Orange In Mouth
+Slotting Advertisement
+
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+19845#
+Gives one of the following at random: 
+Skull Cap
+He Bubble Gum x 10
+3XBattle Manual x 8
+Mega Resist Potion x 80
+Ballon Hat
+Captain Hat
+Mechievous Fairy
+Filir Wing
+Bubblegum Lower
+Long Tongue
+Demon Mask
+
+This Box is Account Bound
+^ffffff_^000000
+Weight : ^77777720^000000
+#
+
+
+19847#
+This July heats up with the steamy new Groove Pack!
+
+Always gives 1 Battle ManualX3
+ 
+Gives one of the following at random:
+80xMega Resist Potion
+10x Fencer mercenary scroll
+3xHE Bubble Gum
+4x Job Battle Manual
+Chicken Hat[1]
+Sigrun's Wing
+Poring Letter
+Evil Marching Hat[1]
+Elven Ears[1]
+#
+
+19848#
+This July heats up with the steamy new Random Pack!
+
+Gives one of the following at random:
+80xMega Resist Potion
+10x Fencer mercenary scroll
+3xHE Bubble Gum
+4x Job Battle Manual
+Chicken Hat[1]
+Sigrun's Wing
+Poring Letter
+Evil Marching Hat[1]
+Elven Ears[1]
+#
+
+
+19849#
+Celebrate the end of summer with this lucky box!
+
+Gives one of the following at random:
+Mini Glasses [1]
+Takius Blindfold
+Drooping Defaulty
+Donut in Mouth
+Party Increase Agi Scroll x 100
+Party Assumptio Scroll x 100
+Party Blessing Scroll x 100
+HE Bubble Gum x 10
+Mental Potion x 80
+#
+
+19850#
+A Cursed Helmet which make hold some hidden power
++150 HP
++40 SP
+Class : ^777777Upper Headgear^000000
+Defense :^7777773^000000
+Weight : ^77777750^000000
+Required Level : ^7777771^000000
+Jobs :^777777All^000000
+#
+
+19851#
+Drake's got alot of junk in his sunken trunk and the Kafra Corp's corps of corpse explorers have recovered his booty from secret underwater caverns.
+
+Always Gives
+1 Battle Manualx3
+
+Contains of one the following at random
+2x Battle Manual X3
+Airship Captain's Hat[1]
+Rideword Hat[1]
+Ninja Scroll
+3x HE Bubble Gum
+Snake Head [1]
+4x Job Battle Manual
+Shark Hat
+Observer
+Black Frame Glasses[1]
+#
+
+19852#
+Drake's got alot of junk in his sunken trunk and the Kafra Corp's corps of corpse explorers have recovered his booty from secret underwater caverns.
+
+Contains of one the following at random
+2x Battle Manual X3
+Airship Captain's Hat[1]
+Rideword Hat[1]
+Ninja Scroll
+3x HE Bubble Gum
+Snake Head [1]
+4x Job Battle Manual
+Shark Hat
+Observer
+Black Frame Glasses[1]
+#
+
+19853#
+Celebrate this spooktober with this lucky box!
+
+Contains one of the following at random
+Dark Randgris Helm
+Hocket Mask
+Spirit Whispers
+Eddga Doll[1]
+Blank Eyes
+Chewing Gum
+Little Feather Hat
+Yggdrasil Crown
+Mystical Amplification Scroll x 100
+Mental Potion x 80
+Mega Resist Potion x 80
+#
+
+
+19854#
+Part of a Kobold's Ration Pack gives
+Str +8, 5 minute duration.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19855#
+Part of a Kobold's Ration Pack gives
+Agi +8, 5 minute duration.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19856#
+Part of a Kobold's Ration Pack gives
+Int +8, 5 minute duration.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19857#
+Part of a Kobold's Ration Pack gives
+Dex +8, 5 minute duration.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19858#
+Part of a Kobold's Ration Pack gives
+Luk +8, 5 minute duration.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19859#
+Part of a Kobold's Ration Pack gives
+Vit +8, 5 minute duration.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19860#
+A ration pack recovered from a Kobold. It smells kind of bad and you think you feel stuff moving on the inside...
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+19861#
+What kind of experiments were being done on the Kobold that you got this from?
+Lower Headgear
+Weight : ^7777771^000000
+#
+
+19862#
+This groove pack is meant to celebrate the holidays that are coming soon.
+Always contains the following
+3X Battle Manual 1cnt
+Thanksgiving Random Pack
+
+Thanksgiving Random Pack
+Contains one of the following by chance
+3X Battle Manual 2cnt
+Party Blessing Scoll 35cnt
+Party Increase Agility Scroll 35cnt
+HE Bubble Gum 3cnt
+Choco Donut In Mouth
+Skull Cap
+Holy Marcher Hat
+
+#
+
+19863#
+Contains one of the following by chance
+3X Battle Manual 2cnt
+Party Blessing Scoll 35cnt
+Party Increase Agility Scroll 35cnt
+HE Bubble Gum 3cnt
+Choco Donut In Mouth
+Skull Cap
+Holy Marcher Hat
+
+#
+
+19864#
+The 2015 Black Friday Lucky Box!
+
+Available for a limited period of time it contains one of the following by chance.
+Lv 10 Sword Mercenary Scroll 40cnt
+He Bubble Gum 10cnt
+Mental Potion 80cnt
+Party Increase Agi Scroll 100cnt
+Witch's Pumpkin Hat
+Yellow Ribbon
+Classic Cooking Crate 2cnt
+#
+
+19865#
+The Holly Joliday Lucky Box contains one of the following by chance.
+Gentleman's Pipe
+Gelato Hat
+Elven Ears [1]
+Well Chewed Pencil
+Marvelous Wig
+Santa Poring Hat [1]
+Job Battle Manual x 10
+Mental Potion x 80
+Party Blessing Scroll x 100
+Party Increase Agi Scroll x 100
+#
+19866#
+Always gives one: HE Bubble Gumx1 
+
+Will give one of the following at random:
+Fencer Scroll x10
+HE Bubble Gum x3
+Party Blessing Scroll x35
+Mega Resist Potion x80
+Battle Manual X3 x2
+Dress Hat
+Cat Lace Hairband
+Takius Blindfold[1]
+Evil Marching Hat
+#
+19867#
+
+Will give one of the following at random:
+Fencer Scroll x10
+HE Bubble Gum x3
+Party Blessing Scroll x35
+Mega Resist Potion x80
+Battle Manual X3 x2
+Dress Hat
+Cat Lace Hairband
+Takius Blindfold[1]
+Evil Marching Hat
 #
