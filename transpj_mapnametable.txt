@@ -1,4 +1,27 @@
-//-- - Last updated 2015-01-30 5:29 PM
+//-- Last updated 2015-10-26 10:26 PM
+
+// Half moon in the daylight
+1@pop1.rsw#Pope's Office#
+1@pop2.rsw#Way Back Home#
+1@pop3.rsw#Sky Garden#
+
+// Doram race - Lasagna town
+lasagna.rsw#Port Town Lasagna#
+lasa_fild01.rsw#Ravioli Plain, Border post#
+lasa_fild02.rsw#Ravioli Forest#
+lasa_dun01.rsw#Dragon Nest#
+lasa_dun02.rsw#Dragon Nest#
+lasa_dun03.rsw#Dragon Nest#
+conch_in.rsw#Inside Conch#
+lasa_in01.rsw#Inside Lasagna#
+lasa_dun_q.rsw#Dragon Nest#
+
+int_land.rsw#Remote Island#
+int_land01.rsw#Remote Island#
+int_land02.rsw#Remote Island#
+int_land03.rsw#Remote Island#
+int_land04.rsw#Remote Island#
+
 // ep16.1 Banquet for Hero + Prontera Renewal
 1@mir.rsw#Ritual room#
 2@mir.rsw#Ritual room#
@@ -7,7 +30,7 @@
 1@sthd.rsw#Aerial Fortress Top Floor#
 
 prt_cas.rsw#Prontera Central Palace#
-prt_cas_q.rsw#Prontera Imperial Palace#
+prt_cas_q.rsw#Prontera Imperial Villa#
 prt_prison.rsw#Prontera Dungeon#
 prt_lib.rsw#Memorial of Royal Family#
 prt_lib_q.rsw#Memorial of Past Royal Family#
@@ -38,8 +61,8 @@ lhz_dun_n.rsw#Tomb of the fallen#
 
 // Trails of the 3 Heroes
 1@glast.rsw#Past Glastheim#
-1@air1.rsw#비공정#
-1@air2.rsw#비공정#
+1@air1.rsw#Airship#
+1@air2.rsw#Airship#
 
 // Rebellion Job Change Map
 job_gun.rsw#Shelter of Rebellion#
@@ -71,13 +94,13 @@ moro_cav.rsw#Fire Cave#
 1@eom.rsw#Former Devil#
 1@jtb.rsw#Nightmare Jitterbug#
 
-dali02.rsw#Dimensional Crack#
-1@face.rsw#Wormface's Nest#
-1@sara.rsw#Memories of Sara#
-dali.rsw#Dimensional Crack#
-1@tnm1.rsw#Top Floor of Devil Tower#
-1@tnm2.rsw#Top Floor of Devil Tower#
-1@tnm3.rsw#Morroc Castle Underground#
+dali02.rsw#Dimensional Rift#
+1@face.rsw#Faceworm's Nest#
+1@sara.rsw#Sara's Memory#
+dali.rsw#Dimensional Rift#
+1@tnm1.rsw#Masin Tower Top floor#
+1@tnm2.rsw#Masin Tower Top floor#
+1@tnm3.rsw#Morocc Castle's Basement#
 1@ge_st.rsw#Geffen Magic Tournament#
 1@gef.rsw#Geffen Magic Tournament#
 1@gef_in.rsw#Geffen Magic Tournament#
@@ -91,8 +114,8 @@ evt_bomb.rsw#Labyrinth Events#
 
 gl_cas02_.rsw#Corridor 2nd Floor#
 gl_chyard_.rsw#Monastery Cemetery#
-2@gl_k.rsw#Old Templar 2nd Floor#
-1@gl_k.rsw#Old Templar 1st Floor#
+2@gl_k.rsw#1st floor of Old Glast Heim Chivalry#
+1@gl_k.rsw#2nd floor of Old Glast Heim Chivalry#
 
 te_prt_gld.rsw#Gloria#
 te_prtcas01.rsw#Gae Bolg#
@@ -725,8 +748,8 @@ anthell01.rsw#Ant Hell F1#
 anthell02.rsw#Ant Hell F2#
 gef_dun00.rsw#Geffen Dungeon F1#
 gef_dun01.rsw#Geffen Dungeon F2#
-gef_dun02.rsw#Geffenia#
-gef_dun03.rsw#Geffenia#
+gef_dun02.rsw#Geffen Dungeon F3#
+gef_dun03.rsw#Geffenia Dungeon#
 iz_dun00.rsw#Undersea Tunnel F1#
 iz_dun01.rsw#Undersea Tunnel F2#
 iz_dun02.rsw#Undersea Tunnel F3#

@@ -886,8 +886,33 @@ gl_chyard_.rsw#Churchyard#
 1@sara.rsw#Sara's Memory#
 dali.rsw#Dimensional Gap#
 
-1@def01.rsw#Wave Mode-Forest#
+//영웅의흔적
+dali02.rsw#Dimensional Gap#
+1@tnm1.rsw#Masin Tower Top floor#
+1@tnm2.rsw#Masin Tower Top floor#
+1@tnm3.rsw#Morocc Castle's basement#
+1@ge_st.rsw#Geffen Magic  Competition#
+1@gef.rsw#Geffen Magic  Competition#
+1@gef_in.rsw#Geffen Magic  Competition#
+1@spa.rsw#Palace of Ghost#
+
+1@def01.rsw#Wave Dungeon - forest#
 
 //시계탑나이트메어던전
 c_tower2_.rsw#Clock Town of twisted time 2nd floor#
 c_tower3_.rsw#Clock Town of twisted time 3rd floor#
+
+//EP.14.3
+moro_vol.rsw#Flame Basin#
+moro_cav.rsw#Flame cave#
+1@dth1.rsw#Bios Island#
+1@dth2.rsw#Bios Island#
+1@dth3.rsw#Bios Island#
+1@rev.rsw#Mors Cave#
+1@eom.rsw#Masin war#
+1@jtb.rsw#Jitterbug of Nightmare#
+
+// 영웅의 흔적3
+1@glast.rsw#Old Glastheim#
+1@air1.rsw#Aircraft#
+1@air2.rsw#Aircraft#
