@@ -46590,8 +46590,7 @@ Defense: ^7777770^000000
 #
 5674#
 A good place to store spare change. You never know when you might need zeny here or there for a potion.
-Allows the use of Lv. 2 Overcharge
-From ^CC0000May 19 - June 2nd^000000 Grandma Boxter in the 2nd floor Eden Group will give 400 Brownie points OR a free safe upgrade to +5 in exchange for this hat.
+Allows the use of Greed Lv1!
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
 Location : ^777777Upper^000000
@@ -69584,4 +69583,139 @@ Dress Hat
 Cat Lace Hairband
 Takius Blindfold[1]
 Evil Marching Hat
+#
+
+19868#
+
+Will give one of the following at random:
+Slot Coupon
+Bubblegum Lower headgear
+Party Assumptio Scroll x 100
+HE Bubble Gum x 10
+Mental Potion x 80
+Greed Scrolls x 350
+Musketeer Hat
+Moon Rabbit Hat
+Romantic White Flower
+Yoyo Hat
+#
+
+19846#
+A box containing a stage of 20 Adrenaline Scrolls
+#
+
+
+19810#
+This token grants one free night's stay at any 'Restful Reddington Inn'
+^ff0000Turn in to Restful Reddington to full regain HP/SP^000000
+#
+
+19869#
+March is here and with it comes a new box!
+
+Always includes 1x Battle Manualx3
+Includes one of the following at random: 
+25x Party Assumptio Scroll
+35x Mega Resist Potion
+3x HE Bubble Gum
+Little Feather Hat 
+Hunting Cap
+Rideword Hat
+Deviling Hat
+Whickebain Ears
+Piggy Bank
+#
+
+19870#
+March is here and with it comes a new box!
+
+Includes one of the following at random: 
+25x Party Assumptio Scroll
+35x Mega Resist Potion
+3x HE Bubble Gum
+Little Feather Hat 
+Hunting Cap
+Rideword Hat
+Deviling Hat
+Whickebain Ears
+Piggy Bank
+#
+
+19871#
+Adventure in April with this Lucky Box!
+Contains one of the following:
+Lv 10 Fencer Mercenary Scroll x 40
+Battle Manual X3 x 5
+Party Blessing Scroll x 100
+Party Agi Scroll x 100
+HE Bubble Gum x 10
+Yggddrasil Crown
+Pencil in Mouth
+Mental Potion x 80
+Sakura Coronet
+Bubble Gum In Mouth
+Elven Ears [1]
+#
+19872#
+When opened gives 1 HE Bubble Gum
+as well as one of the following:
+Mega Resist Potion 80 cnt
+Lv 10 Sword Mercenary Scroll 10 cnt
+Chicken Hat
+HE Bubble Gum 3 cnt
+Job Battlemanual 50 4cnt
+Sigrun's Wing
+Poring Letter
+Gangster Scarf
+Evil Marching Hat
+Holy Marching Hat
+Miniglasses [1]
+#
+
+19873#
+When opened gives one of the following:
+Mega Resist Potion 80 cnt
+Lv 10 Sword Mercenary Scroll 10 cnt
+Chicken Hat
+HE Bubble Gum 3 cnt
+Job Battlemanual 50 4cnt
+Sigrun's Wing
+Poring Letter
+Gangster Scarf
+Evil Marching Hat
+Holy Marching Hat
+Miniglasses [1]
+#
+
+5464#
+Zaha doll hat which resembles angel of Zaha. It looks great on your head.
+INT+2
+Can't be refined.
+Item Class : ^777777Headgear^000000    Defense : ^7777771^000000
+Location : ^777777Upper ^000000    Weight : ^7777770^000000
+Jobs : ^777777All^000000
+#
+
+19874#
+A kit of cooking supplies. Although much of it is old and out of date there might be something of use inside.
+Weight: 1
+#
+
+19876#
+2016 June Lucky Box!
+
+In Celebration of Gramp's pending retirement the following items can be obtained by chance,
+Lv 10 Fencer Merc Scroll 40 cnt
+3X Battle Manual 5 cnt
+Party Blessing Scroll 100 cnt
+Party Increase Agi Scroll 100 cnt
+Amistr Cap
+Lif Doll Hat
+HE Bubblegum 10 cnt
+Vanilmirth Hat
+Skull Cap
+Mental Potion 80 cnt
+Filir Wing
+Filir Hat
+Slot Coupon 1 cnt
 #
