@@ -2,2243 +2,2773 @@
 
 501#
 ^808080A potion made from ground Red Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 7
-Required Level: 1
-
-Base Heal Value ^00800045^000000 to ^00800065^000000HP
+^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
 #
 
 502#
 ^808080A potion made from ground Red and Yellow Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 10
-Required Level: 1
-
-Base Heal Value ^008000105^000000 to ^008000145^000000HP
+^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
 #
 
 503#
 ^808080A potion made from ground Yellow Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 13
-Required Level: 1
-
-Base Heal Value ^008000175^000000 to ^008000235^000000HP
+^FFFFFF_^000000
+Restores ^008000175^000000 to ^008000235^000000 HP.
 #
 
 504#
 ^808080A potion made from ground White Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 15
-Required Level: 1
-
-Base Heal Value ^008000325^000000 to ^008000405^000000HP
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP.
 #
 
 505#
 ^808080A potion made from ground Blue Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: SP Recovery
+Class: Recovery
 Weight: 15
-Required Level: 1
-
-Base Heal Value ^00800040^000000 to ^00800060^000000SP
+^FFFFFF_^000000
+Restores ^00800040^000000 to ^00800060^000000 SP.
 #
 
 506#
 ^808080A potion made from ground Green Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: Status Recovery
+Class: Recovery
 Weight: 7
-Required Level: 1
-
-Cures ^008000Poison^000000, ^008000Silence^000000, ^008000Blind^000000 and ^008000Chaos^000000 status effects.
-
+^FFFFFF_^000000
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
+
 507#
 ^808080Reddish herbs found in the wild. Often from monsters just slain. For some reason Midgardians still have no problem eating these.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 3
-Required Level: 1
-
-Base Heal Value ^00800018^000000 to ^00800028^000000HP
-
-Can be used in Potion Crafting.
+^FFFFFF_^000000
+Restores ^00800018^000000 to ^00800028^000000 HP.
 #
+
 508#
 ^808080Yellow herbs found in the wild. These give a slightly stronger hit than Red Herbs.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 5
-Required Level: 1
-
-Base Heal Value ^00800038^000000 to ^00800058^000000HP
-
-Can be used in Potion Crafting.
+^FFFFFF_^000000
+Restores ^00800038^000000 to ^00800058^000000 HP.
 #
+
 509#
 ^808080White herbs found in the wild. Any alchemist can tell you... this is the good stuff.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: HP Recovery
+Class: Recovery
 Weight: 7
-Required Level: 1
-
-Base Heal Value ^00800075^000000 to ^008000115^000000HP
-
-Can be used in Potion Crafting.
+^FFFFFF_^000000
+Restores ^00800075^000000 to ^008000115^000000 HP.
 #
+
 510#
 ^808080Blue herbs found in the wild. May be habit forming. Please consult your biochemist before use.^000000
-
+^FFFFFF_^000000
 Type: Consumable
-Class: SP Recovery
+Class: Recovery
 Weight: 7
-Required Level: 1
-
-Base Heal Value ^00800015^000000 to ^00800030^000000SP
-
-Can be used in Potion Crafting.
+^FFFFFF_^000000
+Restores ^00800015^000000 to ^00800030^000000 SP.
 #
+
 511#
-^000088Status Recovery Item^000000
-^000088Potion Crafting Item^000000
-A valuable medicinal
-herb which ^000088counteracts
-the effects of poison^000000.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080A valuable medicinal herb which counteracts the effects of poison.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Cures ^008000Poison^000000.
 #
+
 512#
-^000088HP Recovery Item^000000
-A round, edible fruit that, when eaten once a day, keeps the doctor away.
-^000088Recovers a small amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A round, edible fruit that, when eaten once a day, keeps the doctor away.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800016^000000 to ^00800022^000000 HP.
 #
+
 513#
-^000088HP Recovery Item^000000
-A sweet tasting tropical fruit made famous by its use in slapstick comedy and practical jokes.
-^000088Recovers a small amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A sweet tasting tropical fruit made famous by its use in slapstick comedy and practical jokes.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800017^000000 to ^00800021^000000 HP.
 #
+
 514#
-^000088SP Recovery Item^000000
-Clustered berries with smooth skin that can be fermented to make wine.
-^000088Recovers a small amount of SP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080Clustered berries with smooth skin that can be fermented to make wine.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800010^000000 to ^00800015^000000 SP.
 #
+
 515#
-^000088HP Recovery Item^000000
-An orange root that
-is supposedly good
-for your vision. Despite the Beta Carotene, kids don't care much for it.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080An orange root that is supposedly good for your vision. Despite the Beta Carotene, kids don't care much for it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800018^000000 to ^00800020^000000 HP.
 #
+
 516#
-^000088HP Recovery Item^000000
-A tuber that can be
-fried, baked, boiled
-mashed, even eaten.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A tuber that can be fried, baked, boiled mashed, even eaten.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800015^000000 to ^00800023^000000 HP.
 #
+
 517#
-^000088HP Recovery Item^000000
-A leg of meat
-that's been cooked
-to near perfection.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080A leg of meat that's been cooked to near perfection.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^00800070^000000 to ^008000100^000000 HP.
 #
+
 518#
-^000088HP Recovery Item^000000
-^000088SP Recovery Item^000000
-A sweet product made
-by bees that is endowed with yummy flavor and
-medicinal uses.
-^000088Recovers a small
-amount of HP and SP^000000.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A sweet product made by bees that is endowed with yummy flavor and medicinal uses.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Restores ^00800070^000000 to ^008000100^000000 HP and ^00800020^000000 to ^00800040^000000 SP.
 #
+
 519#
-^000088HP Recovery Item^000000
-Pasteurized and bottled cow milk that is chock full of bovine goodness.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080Pasteurized and bottled cow milk that is chock full of bovine goodness.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^00800027^000000 to ^00800037^000000 HP.
 #
+
 520#
-^000088HP Recovery Item^000000
-Leaf cut from a Hinalle Plant which has a cool, fresh scent. It can ease pain and reinvigorate.
-^000088Recovers a suitable
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Leaf cut from a Hinalle Plant which has a cool, fresh scent. It can ease pain and reinvigorate.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^008000175^000000 to ^008000235^000000 HP.
 #
+
 521#
-^000088HP Recovery Item^000000
-Leaf cut from an Aloe plant.
-^000088Recovers a suitable amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080Leaf cut from an Aloe plant.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP.
 #
+
 522#
-^000088HP Recovery Item^000000
-A shiny, purple fruit picked from the boughs of the Mastela tree.
-^000088Recovers a great amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080A shiny, purple fruit picked from the boughs of the Mastela tree.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^008000400^000000 to ^008000600^000000 HP.
 #
+
 523#
-^000088Status Recovery Item^000000
-Blessed water used
-in sacred ceremonies.
-^000088Cures Cursed status^000000.
-^ffffff_^000000
-Weight : ^7777773^000000
-#
+^808080Blessed water used in sacred ceremonies.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Cures ^008000Curse^000000.
+
 525#
-^000088Status Recovery Item^000000
-A mystic remedy
-for all illnesses.
-^000088Cures every
-abnormal status^000000.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A mystic remedy for all illnesses.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
+
 526#
-^000088HP Recovery Item^000000
-^000088Status Recovery Item^000000
-Highly nutritious jelly secreted from honeybees that they only feed to larvae and future queens.
-^000088Cures every abnormal status^000000; ^000088Recovers 250 HP^000000.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Highly nutritious jelly secreted from honeybees that they only feed to larvae and future queens.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
+
 528#
-^000088HP Recovery Item^000000
-Processed food that is normally fed to monsters.
-^000088Recovers a small
-amount of  HP^000000.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Processed food that is normally fed to monsters.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^00800072^000000 to ^008000108^000000 HP.
 #
+
 529#
-^000088HP Recovery Item^000000
-A confection of sugar, chocolate and other flavorings. Kids love it!
-^000088Recovers 45 HP^000000.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080A confection of sugar, chocolate and other flavorings. Kids love it!^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
 #
+
 530#
-^000088HP Recovery Item^000000
-A striped cane of
-peppermint candy.
-Sugar daddies love it!
-^000088Recovers 105 HP^000000.
-^ffffff_^000000
-Weight : ^7777774^000000
+^808080A striped cane of peppermint candy. Sugar daddies love it!^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
 #
+
 531#
-^000088HP Recovery Item^000000
-Bottled apple juice
-that's easy to digest.
-^000088Recovers a suitable
-amount of HP^000000.
-Also used to feed Little Poring pets
-^ffffff_^000000
-Weight : ^7777774^000000
+^808080Bottled apple juice that's easy to digest.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^00800025^000000 to ^00800035^000000 HP.
 #
+
 532#
-^000088HP Recovery Item^000000
-Bottled banana juice
-that's easy to digest.
-^000088Recovers a suitable
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777774^000000
-#
+^808080Bottled banana juice that's easy to digest.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^00800026^000000 to ^00800034^000000 HP.
+
 533#
-^000088SP Recovery Item^000000
-Bottled grape juice
-that's easy to digest.
-^000088Recovers a suitable
-amount of SP^000000.
-^ffffff_^000000
-Weight : ^7777774^000000
+^808080Bottled grape juice that's easy to digest.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^00800015^000000 to ^00800025^000000 SP.
 #
+
 534#
-^000088HP Recovery Item^000000
-Bottled carrot juice
-that's easy to digest.
-^000088Recovers a suitable
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777774^000000
+^808080Bottled carrot juice that's easy to digest.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^00800027^000000 to ^00800033^000000 HP.
 #
+
 535#
-^000088HP Recovery Item^000000
-A large orange fruit
-grown from a vine that's used in baking pies and
-a few other dishes.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A large orange fruit grown from a vine that's used in baking pies and a few other dishes.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800019^000000 to ^00800019^000000 HP.
 #
+
 536#
-^000088HP Recovery Item^000000
-Deliciously frosty ice cream that can cause
-brain freeze if you eat too much too quickly.
-^000088Recovers a suitable
-amount of HP^000000.
-^ffffff_^000000
-Weight : ^7777778^000000
+^808080Deliciously frosty ice cream that can cause brain freeze if you eat too much too quickly.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 8
+^FFFFFF_^000000
+Adds a 25% chance of inflicting ^800000Frozen^000000 to the user when using this item.
+Restores ^008000105^000000 to ^008000145^000000 HP.
 #
+
 537#
-^000088HP Recovery Item^000000
-Sterilized food that has been fortified with vitamins and minerals. Some Cute Pets will feed on this.
-^000088Restores about 50 HP^000000
-Weight : ^7777771^000000
+^808080Sterilized food that has been fortified with vitamins and minerals. Some Cute Pets will feed on this.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^00800050^000000 to ^00800090^000000 HP.
 #
+
 538#
-^000088HP Recovery Item^000000
-A warm, scrumptious cookie. Restores a suitable amount of HP.
-^000088Restores about 160 HP^000000
-Weight : ^7777773^000000
+^808080A warm, scrumptious cookie. Restores a suitable amount of HP.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^008000160^000000 to ^008000200^000000 HP.
 #
+
 539#
-^000088HP Recovery Item^000000
-A sweet slice of cake covered in icing and topped with a cherry. Recovers a suitable amount of HP.
-^000088Restores about 270 HP^000000
-Weight : ^77777710^000000
+^808080A sweet slice of cake covered in icing and topped with a cherry. Restores a suitable amount of HP.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Restores ^008000270^000000 to ^008000330^000000 HP.
 #
+
 540#
-^000088HP Recovery Item^000000
-Food intended for Falcons, but it's actually tasty enough for humans to eat.
-^000088Restores about 185 HP^000000
-Weight : ^7777775^000000
+^808080Food intended for Falcons, but it's actually tasty enough for humans to eat.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 5
+^FFFFFF_^000000
+Restores ^008000185^000000 to ^008000225^000000 HP.
 #
+
 541#
-^000088HP Recovery Item^000000
-Food manufactured to feed Peco Pecos, but will suffice for desperately hungry humans as well.
-^000088Restores about 325 HP^000000
-Weight : ^7777775^000000
+^808080Food manufactured to feed Peco Pecos, but will suffice for desperately hungry humans as well.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 5
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP.
 #
+
 542#
-Festive_Cookie
+Unimplimented Item
 #
+
 543#
-Festive_Rainbow_Cake
+Unused Item
 #
+
 544#
-^000088HP Recovery Item^000000
-A raw, fresh fish.
-^000088Restores about 25 HP^000000
-Weight : ^7777773^000000
+^808080A raw, fresh fish.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^00800025^000000 to ^00800060^000000 HP.
 #
+
 545#
-^000088HP Recovery Item^000000
-A condensed Red Potion that weighs significantly less.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A condensed Red Potion that weighs significantly less.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
 #
+
 546#
-^000088HP Recovery Item^000000
-A condensed Yellow Potion  that weighs significantly less.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A condensed Yellow Potion that weighs significantly less.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^008000175^000000 to ^008000235^000000 HP.
 #
+
 547#
-^000088HP Recovery Item^000000
-A condensed White Potion  that weighs significantly less.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A condensed White Potion that weighs significantly less.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP.
 #
 548#
-^000088SP Recovery Item^000000
-A palatable food with a unique scent that restores a small amount of SP.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A palatable food with a unique scent that restores a small amount of SP.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 5
+^FFFFFF_^000000
+Restores ^00800010^000000 to ^00800015^000000 SP.
 #
+
 549#
-^000088HP Recovery Item^000000
-A kind of plant root used as food that restores a great amount of HP. It's advised to eat this slowly with water, or to bake it beforehand.
-^ffffff_^000000
-Weight : ^7777778^000000
+^808080A kind of plant root used as food that restores a great amount of HP. It's advised to eat this slowly with water, or to bake it beforehand.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 8
+^FFFFFF_^000000
+Restores ^00800050^000000 to ^008000100^000000 HP.
 #
+
 550#
-^000088HP Recovery Item^000000
-A snack made out of rice that doesn't contain any fat. Some women love having this snack.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A snack made out of rice that doesn't contain any fat. Some women love having this snack.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^00800010^000000 to ^00800015^000000 HP.
 #
+
 551#
-^000088HP Recovery Item^000000
-An Eastern delicacy, in which various types of raw fish is placed on top of rice.
-The rice is marinated in vinegar then wrapped in dried seaweed.
-^000088Restores about 50 HP^000000
-Weight : ^7777775^000000
+^808080An Eastern delicacy, in which various types of raw fish is placed on top of rice. The rice is marinated in vinegar then wrapped in dried seaweed.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 5
+^FFFFFF_^000000
+Restores ^00800050^000000 to ^00800060^000000 HP.
 #
+
 552#
-^000088HP Recovery Item^000000
-A type of food that is usually eaten by people in a country after their abstinence ceremony.
-^000088Restores about 70 HP^000000
-Weight : ^7777771^000000
+^808080A type of food that is usually eaten by people in a country after their abstinence ceremony.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^00800070^000000 to ^00800090^000000 HP.
 #
+
 553#
-^000088HP Recovery Item^000000
-A type of dough that is filled with ground meat, usually served hot.
-People living in eastern countries have enjoyed eating this food for a long time.
-^000088Restores about 35 HP^000000
-Weight : ^7777775^000000
+^808080A type of dough that is filled with ground meat, usually served hot. People living in eastern countries have enjoyed eating this food for a long time.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 5
+^FFFFFF_^000000
+Restores ^00800035^000000 to ^00800070^000000 HP.
 #
+
 554#
-^000088HP Recovery Item^000000
-A tasty rice cake made for celebrating the Lunar New Year.	
-^000088Restores about 105 HP^000000					
-Class : ^777777Food^000000
-Weight : ^7777778^000000
+^808080A tasty rice cake made for celebrating the Lunar New Year.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 8
+^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
 #
+
 555#
-A type of food that is made of rice powder. There are many recipes to make this food, all of them absolutely delicious.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080A type of food that is made of rice powder. There are many recipes to make this food, all of them absolutely delicious.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 2
 #
+
 556#
-A thin stick of rice cake which is moist and sticky.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A thin stick of rice cake which is moist and sticky.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 557#
-A bag of sliced rice cake. Can be cooked in various ways.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A bag of sliced rice cake. Can be cooked in various ways.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 558#
-Fried and ground Cacao that is solidified with Milk and cacao paste. Delicious and bittersweet.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080Fried and ground Cacao that is solidified with Milk and cacao paste. Delicious and bittersweet.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 2
 #
+
 559#
-A collection of chocolates that are gathered and arranged to make a beautiful item. This is often used in courtship, and sometimes even used effectively. 
-^ffffff_^000000
-Weight : ^7777778^000000
+^808080A collection of chocolates that are gathered and arranged to make a beautiful item. This is often used in courtship, and sometimes even used effectively. ^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 8
 #
+
 560#
-White chocolate which is used to propose to a girl by a boy during White Day.
-^ffffff_^000000
-Weight : ^7777778^000000
+^808080White chocolate which is used to propose to a girl by a boy during White Day.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 8
 #
+
 561#
-A white cacao.
-^ffffff_^000000
-Weight : ^7777778^000000
+^808080A white cacao.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 8
 #
+
 562#
-kRO event item.
-^ffffff_^000000
-Weight : ^77777715^000000
-#
-563#
-kRO event item.
-^ffffff_^000000
-Weight : ^77777715^000000
-#
-564#
-A lump of rice which can be eaten for lunch.
-^ffffff_^000000
-Weight : ^7777773^000000
-#
-565#
-^000088HP Recovery Item^000000
-kRO event item.
-Restores 142 ~ 274 HP
-Weight : ^77777710^000000
-#
-566#
-^000088HP/SP Recovery Item^000000
-A type of soup wich is regarded as one of the three famous soups in the world.
-It has a spicy, sweet and sour taste with shrimp, lemons and chiles.
-^000088Restores 244 ~ 350 HP and 10 ~ 30 SP^000000.
-Weight : ^77777715^000000
-#
-567#
-^000088HP Recovery Item^000000
-A shellfish which has a long tail and many legs.
-When cooked, the color of the body turns red and its flesh is very tasty with a unique scent.
-^000088Restores 117 ~ 192 HP^000000
-Weight : ^7777774^000000
-#
-568#
-^000088SP Recovery Item^000000
-A bright yellow fruit with very sour juice and a fresh scent.
-^000088Restores 10 ~ 20 SP^000000
-Weight : ^7777774^000000
-#
-569#
-^000088HP Recovery Item^000000
-An exclusive red potion for Novices!
-^000088Restores 22 ~ 33 HP^000000
-Weight : ^7777770^000000
-#
-570#
-^000088HP Recovery Item^000000
-A candy which is rumored to bring luck to whomever eats it.
-^000088Restores 45 ~ 65 HP^000000
-Weight : ^7777773^000000
-#
-571#
-^000088HP Recovery Item^000000
-A candy cane which is rumored to bring luck to whomever eats it.
-^000088Restores 105 ~ 145 HP^000000
-Weight : ^7777774^000000
-#
-572#
-^000088HP Recovery Item^000000
-A cookie which is rumored to bring luck to whomever eats it.
-^000088Restores 160 ~ 200 HP^000000
-Weight : ^7777773^000000
-#
-573#
-^000088HP/SP Recovery Item^000000
-A kind of drink made from chocolate and milk from one of the Royal Court Dessert Specialist's recipes.
-Although the Dessert Chef wishes for people to drink this treat elegantly, it's usually gulped down, enjoyed with hands sloppily placed on the waist.
-^000088Restores 330 ~ 410 HP^000000
-^000088Restores 45 ~ 65 SP^000000
-Weight : ^77777715^000000
-#
-574#
-^000088HP Recovery Item^000000
-An egg from a bird. It's full of nutrition, making it an ideal food for growing children.
-^000088Restores 33 ~ 42 HP^000000
-Weight : ^7777773^000000
-#
-575#
-^000088HP Recovery Item^000000
-A big, tasty slice of cake made in celebration of Ragnarok's second anniversary.
-^000088Restores 270 ~ 330 HP^000000
-Weight : ^77777710^000000
-#
-576#
-^000088HP/SP Recovery Item^000000
-A freshly scented, thorny fruit from a tree.
-^000088Restores 130 ~ 300 HP and 20 ~ 30 SP^000000
-Weight : ^7777776^000000
-#
-577#
-^000088HP Recovery Item^000000
-Dried grains that are commonly used in the cuisines of many countries.
-^000088Restores a small amount of HP.^000000
-Weight : ^7777772^000000
-#
-578#
-^000088SP Recovery Item^000000
-A red berry that is renown for its slightly sweet and sour taste, and is best eaten fresh.
-^000088Restores a small amount of SP.^000000
-Weight : ^7777772^000000
-#
-579#
-^000088HP Recovery Item^000000
-A fresh fish that can be cooked in a variety of ways.
-^000088Restores a small amount of HP.^000000
-^FFFFFF ^000000
-Weight : ^7777772^000000
-#
-580#
-^000088HP Recovery Item^000000
-Freshly leavened bread that gives off a wholesome scent.
-^000088Restores a small amount of HP.^000000
-^FFFFFF ^000000
-Weight : ^7777772^000000
-#
-581#
-^000088HP Recovery Item^000000
-An edible mushroom that can be eaten raw or cooked.
-^000088Restores a small amount of HP.^000000
-^FFFFFF ^000000
-Weight : ^7777772^000000
-#
-582#
-^000088HP Recovery Item^000000
-A sweet citrus fruit that can be eaten raw, juiced, or cooked as a jam.
-^000088Restores a small amount of HP and SP.^000000
-^FFFFFF ^000000
-Weight : ^7777772^000000
-#
-//--------------------------------------------------------------------------
-584#
-^000088HP Recovery Item^000000
-A bowl filled with hot, hearty fish broth and a generous helping of fish cake.
-Weight : ^7777776^000000
-#
-//--------------------------------------------------------------------------
-587#
-^000088HP/SP Recovery Item^000000
-A freshly scented, thorny fruit from a tree that restores a small amount of HP and SP.
-Weight : ^7777774^000000
-#
-//--------------------------------------------------------------------------
-589#
-^000088HP Recovery Item^000000
-A delicious snack food that is a favorite of Teenagers everywhere.
-Heals a moderate amount of HP.
+^808080kRO event item.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
 Weight: 15
 #
-590#
-Brezel_
+
+563#
+^808080kRO event item.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
-591#
-^000088HP/SP Recovery Item^000000
-^000088Status Recovery Item^000000
-A pancake topped with caviar. Average people have trouble telling the difference between fine caviar and common frog spawn eggs.
-^000088Cures all abnormal statuses^000000,
-^000088recovers HP and SP^000000.
-^ffffff_^000000
-Weight : ^77777715^000000
+
+564#
+^808080A lump of rice which can be eaten for lunch.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
 #
-592#
-^000088HP/SP Recovery Item^000000
-^000088Status Recovery Item^000000
-A pancake topped with strawberry jam. This looks much more delicious than plain strawberries alone.
-^000088Cures all abnormal statuses^000000, ^000088recovers HP and SP^000000.
-^ffffff_^000000
-Weight : ^77777715^000000
-#			
-593#
-^000088HP/SP Recovery Item^000000
-^000088Status Recovery Item^000000
-A very sweet pancake topped with honey.
-^000088Cures all abnormal statuses^000000, ^000088recovers HP and SP^000000.
-^ffffff_^000000
-Weight : ^77777715^000000
+
+565#
+^808080kRO event item.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Restores ^008000142^000000 to ^008000274^000000 HP.
 #
-594#
-^000088HP/SP Recovery Item^000000
-^000088Status Recovery Item^000000
-A pancake in which sour cream is one of the main ingredients. Biting into just once will make your eyes water.
-^000088Cures all abnormal statuses^000000, ^000088recovers HP and SP^000000.
-Weight : ^77777715^000000
-#			
-595#
-^000088HP/SP Recovery Item^000000
-^000088Status Recovery Item^000000
-A pancake made with mushrooms that has a light taste that everyone seems to like.
-^000088Cures all abnormal statuses^000088,
-^000088recovers HP and SP^000000.
-Weight : ^77777715^000000
+
+566#
+^808080A type of soup which is regarded as one of the three famous soups in the world. It has a spicy, sweet and sour taste with shrimp, lemons and chiles.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000142^000000 to ^008000274^000000 HP and ^00800010^000000 to ^00800030^000000 SP.
 #
-596#
-^000088SP Recovery Item^000000
-A strawberry that is supposed to be covered in a smooth layer of chocolate, but whoever made this botched it up.
-It's not perfect, but this was made with love, if not skill.
-^000088Restores 1 ~ 100 SP^000000
-Weight : ^77777710^000000
+
+567#
+^808080A shellfish which has a long tail and many legs. When cooked, the color of the body turns red and its flesh is very tasty with a unique scent.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 5
+^FFFFFF_^000000
+Restores ^008000117^000000 to ^008000192^000000 HP.
 #
-597#
-^000088HP Recovery Item^000000
-A tart covered in a smooth layer of rich chocolate that is the perfect dessert for romantic dinners.
-^000088Restores 10 ~ 400 HP^000000
-Weight : ^77777710^000000
+
+568#
+^808080A bright yellow fruit with very sour juice and a fresh scent.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^00800010^000000 to ^00800020^000000 SP.
 #
-598#
-^000088HP Recovery Item^000000
-A red potion that has been condensed to reduce its weight and increase its effectiveness.
-^ffffff_^000000
-Weight : ^7777771^000000
+
+569#
+^808080An exclusive red potion for Novices!^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 0
+^FFFFFF_^000000
+Restores ^00800022^000000 to ^00800033^000000 HP.
 #
-599#
-^000088HP Recovery Item^000000
-An orange potion that has been condensed to reduce its weight and increase its effectiveness.
-^ffffff_^000000
-Weight : ^7777771^000000
+
+570#
+^808080A candy which is rumored to bring luck to whomever eats it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
 #
-601#
-^000088Spell Scroll Item^000000
-An enchanted fly's wing that instantly sends its user to a random spot
-when waved in the air.
-^000088Instant teleport.^000000
-^ffffff_^000000
-Weight : ^7777775^000000
+
+571#
+^808080A candy cane which is rumored to bring luck to whomever eats it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
 #
-602#
-^000088Spell Scroll Item^000000
-An enchanted butterfly's wing that instantly sends its user to his Save Point when waved in the air.
-^000088Instant teleport to character's Save Point.^000000
-^ffffff_^000000
-Weight : ^7777775^000000
+
+572#
+^808080A cookie which is rumored to bring luck to whomever eats it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^008000160^000000 to ^008000200^000000 HP.
 #
-603#
-^000088Chance Item Box^000000
-A mysterious blue box that seems to hold something inside, but you'll have to open it to find out.
-^ffffff_^000000
-Weight : ^77777720^000000
+
+573#
+^808080A kind of drink made from chocolate and milk from one of the Royal Court Dessert Specialist's recipes. Although the Dessert Chef wishes for people to drink this treat elegantly, it's usually gulped down, enjoyed with hands sloppily placed on the waist.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000330^000000 to ^008000410^000000 HP and ^00800045^000000 to ^00800065^000000 SP.
 #
-604#
-^000088Monster Summoner^000000
-A twig which contains
-the mysterious power of eternity. It can summon a living creature...
-^ffffff_^000000
-Weight : ^7777775^000000
+
+574#
+^808080An egg from a bird. It's full of nutrition, making it an ideal food for growing children.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 3
+^FFFFFF_^000000
+Restores ^00800033^000000 to ^00800042^000000 HP.
 #
-605#
-A medicine made from ground Mint that is used to ease pain and relax muscle tension. It's a popular painkiller because of its potency.
-Casts [Endure] Lv 1 when used.
-^ffffff_^000000
-Weight : ^77777710^000000
+
+575#
+^808080A big, tasty slice of cake made in celebration of Ragnarok's second anniversary.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Restores ^008000270^000000 to ^008000330^000000 HP.
 #
-606#
-A basic herbal emollient made from Aloe extract. Despite its stench and sour taste, it's addictive if regularly eaten.
-Casts [Provoke] Lv 1 on the user when used.
-^ffffff_^000000
-Weight : ^77777710^000000
+
+576#
+^808080A freshly scented, thorny fruit from a tree.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 6
+^FFFFFF_^000000
+Restores ^008000130^000000 to ^008000300^000000 HP and ^00800020^000000 to ^00800030^000000 SP.
 #
-607#
-^000088HP Recovery Item^000000
-^000088SP Recovery Item^000000
-Fruit from the Yggdrasil tree which brings life to our world. Its fantastic taste is full of life.
-^000088Fully restores
-HP and SP^000000.
-^ffffff_^000000
-Weight : ^77777730^000000
+
+577#
+^808080Dried grains that are commonly used in the cuisines of many countries.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800060^000000 to ^00800070^000000 HP.
 #
-608#
-^000088HP Recovery Item^000000
-^000088SP Recovery Item^000000
-Seed from the Yggdrasil tree which holds our world together. It has a weird, energizing pungence.
-^000088Restores one half
-of maximum HP and SP.^000000
-^ffffff_^000000
-Weight : ^77777730^000000
+
+578#
+^808080A red berry that is renown for its slightly sweet and sour taste, and is best eaten fresh.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800016^000000 to ^00800028^000000 SP.
 #
-609#
-A forbidden talisman that can reanimate the dead, resulting in a walking corpse or undead zombie.
-^ffffff_^000000
-Weight : ^77777710^000000
+
+579#
+^808080A fresh fish that can be cooked in a variety of ways.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^008000100^000000 to ^008000150^000000 HP.
 #
-610#
-^000088Status Recovery Item^000000
-Leaf from the Yggdrasil tree which maintains the mortal coil. It can bring life to fallen characters.
-Casts [Resurrection] Lv 1 on the selected target when used.
-^ffffff_^000000
-Weight : ^77777710^000000
+
+580#
+^808080Freshly leavened bread that gives off a wholesome scent.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800050^000000 to ^00800090^000000 HP.
 #
-611#
-A magnifying glass used for scrutinizing objects.
-^000088Appraises unidentified
-items and equipment.^000000
-^ffffff_^000000
-Weight : ^7777775^000000
+
+581#
+^808080An edible mushroom that can be eaten raw or cooked.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800020^000000 to ^00800030^000000 HP.
 #
-612#
-^000088Crafting Item^000000
-A disposable, miniature blast furnace that can be easily carried. Used to manufacture metals.
-Purchased for 25 zeny from Christopher at the Geffen Blacksmith Guild.
-Required when using the skills [Iron Tempering], [Steel Tempering] and [Enchanted Stone Craft]
-^ffffff_^000000
-Weight : ^77777720^000000
+
+582#
+^808080A sweet citrus fruit that can be eaten raw, juiced, or cooked as a jam.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 2
+^FFFFFF_^000000
+Restores ^00800010^000000 to ^00800020^000000 HP and ^00800010^000000 to ^00800020^000000 SP.
 #
-613#
-^000088Crafting Item^000000
-A disposable hammer
-made out of well-tempered steel. Necessary tool in crafting ^000088Level 1 Weapons^000000.
-Required when using the level 1 [Smith] skills.
-^ffffff_^000000
-Weight : ^77777720^000000
-#
-614#
-^000088Crafting Item^000000
-A disposable hammer
-made out of pure gold. Necessary tool in crafting ^000088Level 2 Weapons^000000.
-Required when using the level 2 [Smith] skills.
-^ffffff_^000000
-Weight : ^77777730^000000
-#
-615#
-^000088Crafting Item^000000
-A disposable hammer
-made out of Oridecon.
-Necessary tool in crafting ^000088Level 3 Weapons^000000.
-Required when using the level 3 [Smith] skills.
-^ffffff_^000000
-Weight : ^77777740^000000
-#
-616#
-An antique album in
-which the power of a
-mysterious Card item
-is contained...
-^ffffff_^000000
-Weight : ^7777775^000000
-#
-617#
-An old purple box
-holding contents
-that are a mystery
-until it is opened.
-^ffffff_^000000
-Weight : ^77777720^000000
-#
-618#
-A rolled up piece
-of parchment, now
-brittle with age, on
-which faded text can
-scarcely be read.
-^ffffff_^000000
-Weight : ^7777772^000000
-#
-619#
-An apple that isn't ripe enough for humans to
-eat. Poring finds it
-to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-620#
-A small bottle of
-orange juice. Drops
-finds it to be very tasty. Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-621#
-An herb that is too
-bitter for the human
-palate. Poporing finds
-it to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-622#
-A fragrant carrot
-colored with all the
-hues of the rainbow.
-Lunatic finds it to
-be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-623#
-A rather suave
-looking earthworm
-gifted with womanizing
-debonairness. Picky finds him to be quite delicious.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-624#
-A rotting, dirty
-fish that attracts
-flies. Chonchon finds
-it to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-625#
-A rusty piece of
-iron that would only
-interest scavengers
-and vermin. Steel
-Chonchon finds it
-to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-626#
-A fetid drink made
-of monster blood.
-Hunter Fly finds
-it to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-627#
-Sweet, luscious,
-full bodied milk.
-Savage Bebe finds
-it to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-628#
-A tough, chewy
-bone that has been
-dried in the sun. Baby
-Desert Wolf finds it
-to be very tasty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-629#
-A flower that has
-been miraculously
-blessed with the
-gift of song. Rocker
-is inexplicably drawn
-to its sweet melodies.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-630#
-A dewy, green moss
-that grows in cool
-places. Spore finds
-it quite delectable.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-631#
-A plant that contains
-poisons that would
-harm most living
-creatures. Poison
-Spore is known to
-savor its flavor.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-632#
-An earthworm that
-stopped caring about
-its figure years ago.
-Peco Peco loves the
-way that it tastes.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-633#
-A baked sweet potato
-with an appetizing scent. Smokie loves eating this.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-634#
-A premium quality
-banana grown in the
-tropics. Yoyo finds it
-irresistable; forever will it be his one weakness.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-635#
-A trophy awarded to
-the bravest of Orcs.
-Orc Warriors are
-compelled to claim
-it as their very own.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-636#
-An old, heartfelt
-letter that has never
-been delivered since
-it has no recipient.
-Munak is inexplicably
-drawn to this item.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-637#
-A generations old
-broom that is handed
-down within a family.
-Dokebi is drawn to
-it for some reason.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-638#
-A silver knife that is
-a symbol of a virgin's
-chastity. Sohee loves
-collecting these.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-639#
-A fancy, intricately
-decorated bracelet.
-Isis is lured by its
-regal beauty.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-640#
-A stone that softly
-glimmers with faint
-light. Petite is drawn
-to its gentle sparkle.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-641#
-A contract drawn in
-darkness. Deviruchi
-is compelled to claim
-this item as its own.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-642#
-A forbidden book in
-which the secret for
-summoning high level
-demons is detailed.
-Baphomet Jr. cannot
-resist its power.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
-#
-643#
-A portable incubator
-that is used to hatch
-Cute Pet monster eggs.
-^ffffff_^000000
-Weight : ^7777773^000000
-#
-644#
-A box that contains
-some sort of present.
-Weight : ^77777720^000000
-#
-645#
-A potent medicine that
-stimulates concentration. Temporarily increases
-Attack Speed.
-Jobs: ^777777All^000000
-Weight : ^77777710^000000
-#
+
 //--------------------------------------------------------------------------
+
+583#
+Unimplimented Item
+#
+
+584#
+^808080A bowl filled with hot, hearty fish broth and a generous helping of fish cake.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 6
+^FFFFFF_^000000
+Restores ^00800040^000000 to ^00800070^000000 HP.
+#
+
+585#
+Unimplimented Item
+#
+
+586#
+Unimplimented Item
+#
+
+//--------------------------------------------------------------------------
+
+587#
+^808080A freshly scented, thorny fruit from a tree that restores a small amount of HP and SP.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 4
+^FFFFFF_^000000
+Restores ^008000270^000000 to ^008000330^000000 HP and ^00800020^000000 to ^00800030^000000 SP.
+#
+
+//--------------------------------------------------------------------------
+
+589#
+^808080A delicious snack food that is a favorite of Teenagers everywhere.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000375^000000 to ^008000445^000000 HP.
+#
+
+590#
+Unimplimented Item
+#
+
+591#
+^808080A pancake topped with caviar. Average people have trouble telling the difference between fine caviar and common frog spawn eggs.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
+#
+
+592#
+^808080A pancake topped with strawberry jam. This looks much more delicious than plain strawberries alone.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
+#			
+
+593#
+^808080A very sweet pancake topped with honey.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
+#
+
+594#
+^808080A pancake in which sour cream is one of the main ingredients. Biting into just once will make your eyes water.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
+#			
+
+595#
+^808080A pancake made with mushrooms that has a light taste that everyone seems to like.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
+#
+
+596#
+^808080A strawberry that is supposed to be covered in a smooth layer of chocolate, but whoever made this botched it up. It's not perfect, but this was made with love, if not skill.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Restores ^0080001^000000 to ^008000100^000000 SP.
+#
+
+597#
+^808080A tart covered in a smooth layer of rich chocolate that is the perfect dessert for romantic dinners.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+^FFFFFF_^000000
+Restores ^00800010^000000 to ^008000400^000000 HP.
+#
+
+598#
+^808080A red potion that has been condensed to reduce its weight and increase its effectiveness.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
+#
+
+599#
+^808080An orange potion that has been condensed to reduce its weight and increase its effectiveness.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
+#
+
+600#
+Unimplimented Item
+#
+
+601#
+^808080An enchanted fly's wing that instantly sends its user to a random spot when waved in the air.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 5
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Instant Teleport^000000.
+#
+
+602#
+^808080An enchanted butterfly's wing that instantly sends its user to his Save Point when waved in the air.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 5
+^FFFFFF_^000000
+Teleports the user to Last Saved Location.
+#
+
+603#
+^808080A mysterious blue box that seems to hold something inside, but you'll have to open it to find out.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
+#
+
+604#
+^808080A twig which contains the mysterious power of eternity. It can summon a living creature...^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 5
+#
+
+605#
+^808080A medicine made from ground Mint that is used to ease pain and relax muscle tension. It's a popular painkiller because of its potency.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 10
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Endure^000000.
+#
+
+606#
+^808080A basic herbal emollient made from Aloe extract. Despite its stench and sour taste, it's addictive if regularly eaten.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 10
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Provoke^000000.
+#
+
+607#
+^808080Fruit from the Yggdrasil tree which brings life to our world. Its fantastic taste is full of life.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 30
+^FFFFFF_^000000
+Restores 100% HP and SP.
+#
+
+608#
+^808080Seed from the Yggdrasil tree which holds our world together. It has a weird, energizing pungence.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 30
+^FFFFFF_^000000
+Restores 50% HP and SP.
+#
+
+609#
+^808080A forbidden talisman that can reanimate the dead, resulting in a walking corpse or undead zombie.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 10
+#
+
+610#
+^808080Leaf from the Yggdrasil tree which maintains the mortal coil. It can bring life to fallen characters.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 10
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Resurrection^000000.
+#
+
+611#
+^808080A magnifying glass used for scrutinizing objects.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 5
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Item Appraisal^000000.
+#
+
+612#
+^808080A disposable, miniature blast furnace that can be easily carried. Used to manufacture metals. Purchased for 25 zeny from Christopher at the Geffen Blacksmith Guild. Required when using the skills [Iron Tempering], [Steel Tempering] and [Enchanted Stone Craft].^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 20
+#
+
+613#
+^808080A disposable hammer made out of well-tempered steel. Necessary tool in crafting ^000088Level 1 Weapons^000000. Required when using the level 1 [Smith] skills.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 20
+#
+
+614#
+^808080A disposable hammer made out of pure gold. Necessary tool in crafting ^000088Level 2 Weapons^000000. Required when using the level 2 [Smith] skills.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 30
+#
+
+615#
+^808080A disposable hammer made out of Oridecon. Necessary tool in crafting ^000088Level 3 Weapons^000000. Required when using the level 3 [Smith] skills.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 40
+#
+
+616#
+^808080An antique album in which the power of a mysterious Card item is contained...^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 5
+#
+
+617#
+^808080An old purple box holding contents that are a mystery until it is opened.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
+#
+
+618#
+^808080A rolled up piece of parchment, now brittle with age, on which faded text can scarcely be read.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 2
+#
+
+619#
+^808080An apple that isn't ripe enough for humans to eat. Poring finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+620#
+^808080A small bottle of orange juice. Drops finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+621#
+^808080An herb that is too bitter for the human palate. Poporing finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+622#
+^808080A fragrant carrot colored with all the hues of the rainbow. Lunatic finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+623#
+^808080A rather suave looking earthworm gifted with womanizing debonairness. Picky finds him to be quite delicious.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+624#
+^808080A rotting, dirty fish that attracts flies. Chonchon finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+625#
+^808080A rusty piece of iron that would only interest scavengers and vermin. Steel Chonchon finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+626#
+^808080A fetid drink made of monster blood. Hunter Fly finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+627#
+^808080Sweet, luscious, full bodied milk. Savage Bebe finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+628#
+^808080A tough, crunchy bone that has been dried in the sun. Baby Desert Wolf finds it to be very tasty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+629#
+^808080A flower that has been miraculously blessed with the gift of song. Rocker is inexplicably drawn to its sweet melodies.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+630#
+^808080A dewy, green moss that grows in cool places. Spore finds it quite delectable.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+631#
+^808080A plant that contains poisons that would harm most living creatures. Poison Spore is known to savor its flavor.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+632#
+^808080An earthworm that stopped caring about its figure years ago. Peco Peco loves the way that it tastes.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+633#
+^808080A baked sweet potato with an appetizing scent. Smokie loves eating this.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+634#
+^808080A premium quality banana grown in the tropics. Yoyo finds it irresistible; forever will it be his one weakness.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+635#
+^808080A trophy awarded to the bravest of Orcs. Orc Warrior is compelled to claim it as their very own.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+636#
+^808080An old, heartfelt letter that has never been delivered since it has no recipient. Munak is inexplicably drawn to this item.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+637#
+^808080A generations old broom that is handed down within a family. Dokebi is drawn to it for some reason.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+638#
+^808080A silver knife that is a symbol of a virgin's chastity. Sohee loves collecting these.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+639#
+^808080A fancy, intricately decorated bracelet. Isis is lured by its regal beauty.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+640#
+^808080A stone that softly glimmers with faint light. Ground Petite is drawn to its gentle sparkle.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+641#
+^808080A contract drawn in darkness. Deviruchi is compelled to claim this item as its own.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+642#
+^808080A forbidden book in which the secret for summoning high level demons is detailed. Baphomet Jr. cannot resist its power.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
+#
+
+643#
+^808080A portable incubator that is used to hatch Cute Pet monster eggs.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 3
+#
+
+644#
+^808080A box that contains some sort of present.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
+#
+
+645#
+^808080A potent medicine that stimulates concentration. Temporarily increases attack speed.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 10
+^FFFFFF_^000000
+ASPD + 10% for 30 minutes.
+#
+
+//--------------------------------------------------------------------------
+
 656#
-A special tonic that
-combats the effects of
-drowsiness. Temporarily increases Attack Speed.
-Required Level : ^77777740^000000
-Jobs: ^777777All except
-Acolyte, Priest, Bard,
-and Dancer Jobs^000000
-Weight : ^77777715^000000
+^808080A special tonic that combats the effects of drowsiness. Temporarily increases attack speed.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 15
+Required Level: 40
+Required Job: Novice Jobs, Swordman Jobs, Mage Jobs, Archer, Hunter Jobs, Merchant Jobs, Thief Jobs, Acolyte, Monk Jobs, Ninja Jobs, Gunslinger Jobs, Taekwon Jobs
+^FFFFFF_^000000
+ASPD + 15% for 30 minutes.
 #
+
 657#
-Remarkably powerful
-medicine that stimulates circulation and amplifies
-quickness. Temporarily
-increases Attack Speed. Required Level : ^77777785^000000
-Jobs: ^777777Swordman and
-Merchant Classes;
-Rogue, Mage, and
-Wizard Jobs^000000
-Weight : ^77777720^000000
+^808080A Remarkably powerful medicine that stimulates circulation and amplifies quickness. Temporarily increases attack speed.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 20
+Required Level: 85
+Required Job: Novice Jobs, Swordman Jobs, Mage, Wizard Jobs, Merchant Jobs, Thief, Rogue Jobs, Gunslinger Jobs, Taekwon, Taekwon Master
+^FFFFFF_^000000
+ASPD + 20% for 30 minutes.
 #
+
 658#
-A symbol of solidarity
-that evokes a feeling
-of nobility to those
-who see it.
-Weight : ^77777750^000000
+^808080A symbol of solidarity that evokes feelings of nobility in those who see it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 50
+Required Level: 1
+Required Job: All
+^FFFFFF_^000000
+Gives the user's guild 500000 to 1000000 experience when used.
 #
+
 659#
-An old book rumored
-to be enchanted by a
-girl whose name has
-been forgotten with
-time. For some reason,
-Bongun is drawn to it.
-Weight : ^7777775^000000
+^808080An old book rumored to be enchanted by a girl whose name has been forgotten with time. For some reason, Bongun is drawn to it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
 #
+
 660#
-A candle that may have a mysterious purpose.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
+^808080A candle that has a mysterious purpose. Zealotus seems to be drawn to it.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
 #
+
 661#
-A soft apron that is double stitched for better quality. Favorite item of the Alice monster.
-Class : ^777777Taming Item^000000
-Weight : ^7777775^000000
+^808080A soft apron that is double stitched for better quality. It is a favorite of Alice.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Taming Item
+Weight: 5
 #
+
 662#
-A badge made out of bronze that was used in an ancient asian country.
-It was given to government officials who went on business trips and they could use this badge to rent horses anywhere.
-^000088Temporarily increases Movement Speed^000000.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080A badge made out of bronze that was used in an ancient Asian country. It was given to government officials who went on business trips, allowing them to rent horses anywhere.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 3
+^FFFFFF_^000000
+Movement Speed + 80% for 3 minutes.
 #
+
 663#
-This is a popular food in traditional Korean festivals. It's made by filling a woven straw, cone shaped container with rice, and then pine needles are used to cover it.
-Restore 10% of Max HP.
-Weight : ^7777771^000000
+^808080This is a popular food in traditional Korean festivals. It's made by filling a cone shaped, woven straw container with rice, then covering it with pine needles.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 1
+^FFFFFF_^000000
+Restores 10% HP.
 #
+
 664#
-A box which contains a gift.
-Weight : ^77777720^000000
+^808080A box that contains some sort of present.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
 #
+
 665#
-A box which contains a gift.
-Weight : ^77777720^000000
+^808080A box that contains some sort of present.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
 #
+
 666#
-A box which contains a gift.
-Weight : ^77777720^000000
+^808080A box that contains some sort of present.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
 #
+
 667#
-A box which contains a gift.
-Weight : ^77777720^000000
+^808080A box that contains some sort of present.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 20
 #
+
 668#
-A red envelope which is given to children on New Year's Day.
-It seems to contain something that will make its recipient very happy.
-Open this to receive a random amount of zeny ranging from 1,000 - 10,000.
-^ffffff_^000000
-Weight : ^7777772^000000
+^0808080A red envelope which is given to children on New Year's Day. It seems to contain something that will make its recipient very happy.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 2
+^FFFFFF_^000000
+Gives 1000 to 10000 zeny when used.
 #
+
+669#
+Unimplimented Item
+#
+
 670#
-A bag filled with gold coins.
-^ffffff_^000000
-Weight : ^77777740^000000
+Unimplimented Item
 #
+
 671#
-A coin made of gold.
-^ffffff_^000000
-Weight : ^7777774^000000
+Unimplimented Item
 #
+
 672#
-A bag filled with bronze coins.
-^ffffff_^000000
-Weight : ^77777740^000000
+Unimplimented Item
 #
+
 673#
-Received from a recent UGC Promotion. Rumor is Manny the Mace in Prontera is looking for these tokens and may give gifts to those who turn them in.
-Redeem the Token with Manny the Mace (location Prontera 183, 175) to receive: 
-Laurel Wreath x 1 (headgear)
-^ffffff_^000000
-Double click this item to receive:
-Santa Bag x 2
-Battle Manual x 1
-Sweet Candy Cane x 20 [Santa Goblin Tame]
-Well-Baked Cookie x 5
-^ffffff_^000000
-Weight : ^7777774^000000
+^808080Received from a recent UGC Promotion. Rumor is Manny the Mace in Prontera is looking for these tokens and may give gifts to those who turn them in.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Item Producer
+Weight: 4
+^FFFFFF_^000000
+Redeem this item with Manny the Mace to receive ^008080Laurel Wreath^000000 x1.
+^FFFFFF_^000000
+This contains:
+^008080Santa Bag^000000 x2
+^008080Battle Manual^000000 x1
+^008080Sweet Candy Cane^000000 x20
+^008080Well-Baked Cookie^000000 x5
 #
+
 674#
-A coin made of mythril.
-^ffffff_^000000
-Weight : ^7777774^000000
+Unimplimented Item
 #
+
 675#
-A coin made of silver.
-^ffffff_^000000
-Weight : ^7777774^000000
+Unimplimented Item
 #
+
 676#
-A bag filled with silver coins.
-^ffffff_^000000
-Weight : ^77777740^000000
+Unimplimented Item
 #
+
 677#
-A coin made of platinum.
-^ffffff_^000000
-Weight : ^7777774^000000
+Unimplimented Item
 #
+
 678#
-A skeleton shaped bottle which contains deadly poison.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A skeleton shaped bottle which contains deadly poison.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 10
+^FFFFFF_^000000
+When using ^0000FFEnchant Deadly Poison^000000, this will be consumed.
 #
+
 679#
-An herbal medicine from an old eastern country that is rumored to cure every illness.
-^ffffff_^000000
-Weight : ^77777730^000000
+^808080An herbal medicine from an old eastern country that is rumored to cure every illness.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 30
+^FFFFFF_^000000
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
+
 680#
-A carnation which is given to parents or teachers on special occassions.
-^ffffff_^000000
-Weight : ^777777100^000000
+^808080A carnation which is given to parents and teachers on special occasions.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 100
 #
+
 681#
-A picture album of memories of the wedding ceremony or honeymoon.
-(Married people only)
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A picture album of memories of the wedding ceremony or honeymoon.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: General
+Weight: 1
+^FFFFFF_^000000
+Transforms the user with the appearance of a Bride/Groom for 30 minutes.
 #
+
 682#
-A magical drink which increases attack strength when it is taken.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A magical drink which increases attack strength when it is taken.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 10
+^FFFFFF_^000000
+ATK + 30 for 1 minute.
 #
+
 683#
-An enchanted herb which increases magical attack strength when eaten.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080An enchanted herb which increases magical attack strength when eaten.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 5
+^FFFFFF_^000000
+MATK + 30 for 1 minute.
 #
+
 684#
-A tropical delicacy known as the king of fruits. It's big, green and heavy, and is covered in thorns.
-Its odor may offend some people, but it tastes delicious.
-ATK +10, MATK +10
-^ffffff_^000000
-Weight : ^77777730^000000
+^808080A tropical delicacy known as the king of fruits. It's big, green, heavy, and covered in thorns. Its odor may offend some people, but it tastes delicious.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Stat Boost
+Weight: 30
+^FFFFFF_^000000
+ATK + 10, MATK + 10 for 1 minute.
 #
 685#
-A word which means 'September' in a desert country and a month of holy moon.
-During this period, everyone goes on a fast and lead an acentic life.
-^ffffff_^000000
-Weight : ^77777730^000000
+Unimplimented Item
 #
-686#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 3 Earth Spike^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-687#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Earth Spike^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-688#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 3 Cold Bolt^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-689#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Cold Bolt^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-690#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 3 Fire Bolt^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-691#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Fire Bolt^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-692#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 3 Lightening Bolt^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-693#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Lightening Bolt^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-694#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 3 Soul Strike^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-695#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Soul Strike^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-696#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 1 Fire Ball^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-697#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Fire Ball^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-698#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 1 Fire Wall^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-699#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Fire Wall^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-700#
-^000088Spell Scroll Item^000000
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 1 Frost Diver^000000.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-701#
-A trap that uses sticky, sweet scented liquid to lure and ensnare Thief Bugs. Handy if bugs are totally infesting a home.
-^ffffff_^000000
-Weight : ^77777720^000000
-#
-702#
-Bottled blood from
-a freshly slain beast.
-It's usually used to 
-lure other animals. 
-Sells for : 225 zeny
-^ffffff_^000000
-Weight : ^77777710^000000
-#
-703#
-A common plant with
-a mildly curative effect, its leaves can give a nice and smoothing sensation.
-Sells for : 250 zeny
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-704#
-A rare plant with curative properties that only grows deep in the forest during certain times of the year.
-Sells for : 250 zeny
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-705#
-A plant with three heart shaped leaves that is plentiful in meadows.
-^ffffff_^000000
-Weight : ^7777771^000000
-#
-706#
-An extremely rare clover with four leaves. Legends say that merely holding a Four Leaf Clover is a sign of great fortune to come. 
 
-^ffffff_^000000
-Weight : ^7777771^000000
+686#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 3 Earth Spike^000000.
 #
+
+687#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Earth Spike^000000.
+#
+
+688#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 3 Cold Bolt^000000.
+#
+
+689#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Cold Bolt^000000.
+#
+
+690#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 3 Fire Bolt^000000.
+#
+
+691#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Fire Bolt^000000.
+#
+
+692#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 3 Lightning Bolt^000000.
+#
+
+693#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Lightning Bolt^000000.
+#
+
+694#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 3 Soul Strike^000000.
+#
+
+695#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Soul Strike^000000.
+#
+
+696#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 3 Fire Ball^000000.
+#
+
+697#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Fire Ball^000000.
+#
+
+698#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Fire Wall^000000.
+#
+
+699#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 5 Fire Wall^000000.
+#
+
+700#
+^808080A spell scroll which was made by the essence of ancient magic.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Scroll
+Weight: 1
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Frost Diver^000000.
+#
+
+701#
+^808080A trap that uses sticky, sweet scented liquid to lure and ensnare Thief Bugs. Handy if bugs are totally infesting a home.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
+#
+
+702#
+^808080Bottled blood from a freshly slain beast. It's usually used to lure other animals.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
+#
+
+703#
+^808080A common plant with a mildly curative effect, its leaves can give a nice and smoothing sensation.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+
+704#
+^808080A rare plant with curative properties that only grows deep in the forest during certain times of the year.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+
+705#
+^808080A plant with three heart shaped leaves that is plentiful in meadows.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+
+706#
+^808080An extremely rare clover with four leaves. Legends say that merely holding a Four Leaf Clover is a sign of great fortune to come.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+
 707#
-A mysterious plant that sings melancholic songs under a full moon. Legend says it's a woman grieving over the loss of her lover that has been reborn.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A mysterious plant that sings melancholic songs under a full moon. Legend says it's a woman grieving over the loss of her lover that has yet to be reborn.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 708#
-A white flower containing oils that can relieve pain and aches. Strangely, only a few remember how to use it to cause memory loss.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A white flower containing oils that can relieve pain and aches. Strangely, only a few remember how to use it to cause memory loss.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 709#
-A powerful hallucinogen once ground and eaten,
-the growing of Izidor has been prohibited because of its awesome addictiveness.
-^ffffff_^000000
-Weight : ^7777771^000000
+A powerful hallucinogen once ground and eaten. The growing of Izidor has been prohibited because of its awesome addictiveness.
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 710#
-Rarely seen by humans, this flower supposedly shines brilliantly under the light of the moon.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Rarely seen by humans, this flower supposedly shines brilliantly under the light of the moon.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 711#
-A delicate and fragile plant that is still in the early stages of growth.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A delicate and fragile plant that is still in the early stages of growth.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 712#
-An ordinary, thornless wildflower that doesn't have any particular scent.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080An ordinary, thornless wildflower that doesn't have any particular scent.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 713#
-^000088Quest Item^000000
-An empty bottle
-that can be used
-for carrying liquid.
-^ffffff_^000000
-Weight : ^7777772^000000
+^808080An empty bottle that can be used for carrying liquid.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 2
 #
+
 714#
-^000088Special Item^000000
-Merely owning this
-gloriously resplendent
-gem is said to be a sign of being chosen by fate
-to wield great power.
-This is used to create a Guild.
-Type the command ^ff0000/guild^000000 followed by the desired guild name to create a new guild.
-^ffffff_^000000
-Weight : ^777777100^000000
+^808080Merely owning this gloriously resplendent gem is said to be a sign of being chosen by fate to wield great power.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 100
+^FFFFFF_^000000
+Upon creating a new guild, this will be consumed.
 #
+
 715#
-An enchanted crystal that is used in conjuction with certain magic spells. Once used, it is powerless and immediately destroyed.
-^ffffff_^000000
-Can be exchanged with Jade in Payon
-2 Red Gemstones -> 1 Yellow Gemstone
-2 Yellow Gemstone -> 1 Blue Gemstone
-Weight : ^7777773^000000
+^808080An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
+^FFFFFF_^000000
+When using certain skills, this will be consumed.
 #
+
 716#
-An enchanted crystal that is used in conjuction with certain magic spells. Once used, it is powerless and immediately destroyed.
-Can be exchanged with Jade in Payon
-2 Blue Gemstones -> 1 Red Gemstone
-2 Red Gemstone -> 1 Yellow Gemstone
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
+^FFFFFF_^000000
+When using certain skills, this will be consumed.
 #
+
 717#
-An enchanted crystal that is used in conjuction with certain magic spells. Once used, it is powerless and immediately destroyed.
-Can be exchanged with Jade in Payon
-2 Blue Gemstones -> 1 Red Gemstone
-2 Yellow Gemstone -> 1 Blue Gemstone
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
+^FFFFFF_^000000
+When using certain skills, this will be consumed.
 #
+
 718#
-A dark red jewel
-that is the birthstone for people born in January.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A dark red jewel that is the birthstone for people born in January.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 719#
-A purple jewel
-that is the birthstone for people born in February.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A purple jewel that is the birthstone for people born in February.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 720#
-A clear, sky blue jewel that is the birthstone for people born in March.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A clear, sky blue jewel that is the birthstone for people born in March.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 721#
-A brilliant, green jewel that is the birthstone for people born in May.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A brilliant, green jewel that is the birthstone for people born in May.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 722#
-A pink jewel that
-is the birthstone for
-people born in June.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A pink jewel that is the birthstone for people born in June.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 723#
-A deep maroon jewel
-that is the birthstone
-for people born in July. ^ffffff___^000000
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A deep maroon jewel that is the birthstone for people born in July.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 724#
-A ruby containing
-mysterious powers.
-^ffffff_^000000
-Weight : ^77777710^000000
+A ruby containing mysterious powers.
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 725#
-An onyx with alternating brown and white bands of sard. It's the birthstone for people born in August.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080An onyx with alternating brown and white bands of sard. It's the birthstone for people born in August.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 726#
-A dark blue gem that is the birthstone for people born during September.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A dark blue gem that is the birthstone for people born during September.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 727#
-A gem displaying an
-array of brilliant colors that is the birthstone for people born in October.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A gem displaying an array of brilliant colors that is the birthstone for people born in October.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 728#
-A golden gem
-that is the birthstone for people born in November.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A golden gem that is the birthstone for people born in November.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 729#
-A dazzling white-blue
-gem that is the birthstone for the month of December.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A dazzling white-blue gem that is the birthstone for the month of December.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 730#
-A small, twinkling and
-transparent gem that can be sold at a good price.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A small, twinkling and transparent gem that can be sold at a good price.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 731#
-A medium size, sparkling transparent gem that can be sold at a high price.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A medium size, sparkling transparent gem that can be sold at a high price.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 732#
-A huge, dazzling gem
-that can be sold at an
-outrageous price.
-^ffffff_^000000
-Weight : ^77777710^000000
+A huge, dazzling gem that can be sold at an outrageous price.
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 733#
-A damaged diamond with obvious imperfections that won't sell for much zeny.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A damaged diamond with obvious imperfections that won't sell for much zeny.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 734#
-A red frame that would make a nice present.
-^ffffff_^000000
-Weight : ^77777720^000000
+^808080A red frame that would make a nice present.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
 #
+
 735#
-Ancient Korean porcelain made of blue ceramic and crafted by a true master.
-^ffffff_^000000
-Weight : ^77777750^000000
+^808080Ancient Korean porcelain made of blue ceramic and crafted by a true master.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 50
 #
+
 736#
-A clean, white plate
-crafted by a Chinese
-master. It's a nice present for the ladies.
-^ffffff_^000000
-Weight : ^77777730^000000
+A clean, white plate crafted by a Chinese master. It's a nice present for the ladies.
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 30
 #
+
 737#
-A black colored ladle, made out of an especially strong glowing material.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A black colored ladle, made out of an especially strong shiny material.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 738#
-A case for containing
-pencils. It'd be a nice
-gift for artists, writers, students and the like
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A case for containing pencils. It'd be a nice gift for artists, writers, students and the like.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 739#
-Make-up for rich women that is made of extracts from plants and animals. When applied to the skin, it shines in a lustrous, attractive red color.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Make-up for rich women that is made of extracts from plants and animals. When applied to the skin, it shines in a lustrous, attractive red color.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 740#
-A cute cotton doll
-that's a favorite
-for little girls.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A cute cotton doll that's a favorite for little girls.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 741#
-A doll made to resemble a Poring monster. Everyone likes it for its cuteness.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made to resemble a Poring monster. Everyone likes it for its cuteness.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 742#
-A doll made in the image of a Chonchon monster.
-Most people feel a little repulsed by this doll...
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made in the image of a Chonchon monster. Most people feel a little repulsed by this doll....^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 743#
-A doll that looks just
-like a Spore monster.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll that looks just like a Spore monster.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 744#
-A bunch of flowers that
-is given to express love, thanks or appreciation.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A bunch of flowers that is given to express love, thanks, or appreciation.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 745#
-A small bouquet thrown by brides during the wedding ceremony. The single woman who catches it is the next to be married, supposedly.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A small bouquet thrown by brides during the wedding ceremony. The single woman who catches it is the next to be married, supposedly.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 746#
-A toy for young
-boys that's sort
-of like a marble.
-But not really.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A toy for young boys that's sort of like a marble. But not really.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 747#
-A gorgeous mirror made
-with polished crystal that is considered an essential for every woman.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A gorgeous mirror made with polished crystal that is considered an essential for every woman.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 748#
-A symbol of eternal love, this enchanted rose will never wither. However, it is rare and expensive.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A symbol of eternal love, this enchanted rose will never wither. However, it is rare and expensive.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 749#
-Sculpted out of ice by
-masters in the Arctic,
-this unique and beautiful rose makes a great gift.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Sculpted out of ice by masters in the Arctic, this unique and beautiful rose makes a great gift.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 750#
-A doll made to resemble Baphomet, enemy of all that is righteous. It is a dollmaker's masterpiece.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made to resemble Baphomet, enemy of all that is righteous. It is a doll maker's masterpiece.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 751#
-A doll made to resemble Osiris, king of darkness. Without a doubt, it is a dollmaker's masterpiece.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made to resemble Osiris, king of darkness. Without a doubt, it is a doll maker's masterpiece.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 752#
-A doll made to resemble Rocker, the grasshopper that loves to play its violin in the fields.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made to resemble Rocker, the grasshopper that loves to play its violin in the fields.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 753#
-A doll made to resemble one of the Yoyos. These intelligent monkeys live in groups and are very familiar with humans.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made to resemble one of the Yoyos. These intelligent monkeys live in groups and are very familiar with humans.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 754#
-A doll made to resemble Smokie, the racoon that ^333333possibly^000000 has the power of invisibility.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080A doll made to resemble Smokie, the raccoon that possibly has the power of invisibility.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 //--------------------------------------------------------------------------
+
 756#
-^000088Crafting Item^000000
-Raw ore that
-mostly consists
-of Oridecon metal.
-^ffffff_^000000
-Can be combined to create 1 Oridecon used to refine Level 3 & 4 Weapons
-Weight : ^77777720^000000
+^808080Raw ore that mostly consists of Oridecon metal.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
 #
+
 757#
-^000088Crafting Item^000000
-Raw ore that
-mostly consists
-of Elunium metal.
-^ffffff_^000000
-Can be combined to create 1 Elunium used to refine Armor
-Weight : ^77777720^000000
+^808080Raw ore that mostly consists of Elunium metal.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
 #
+
 //--------------------------------------------------------------------------
+
 901#
-A braided pigtail that
-has been cut from the
-head of a young girl.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A braided pigtail that has been cut from the head of a young girl.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 902#
-Some roots from trees can be used as medicine, but most of them are fibrous enough to be used as rope.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Some roots from trees can be used as medicine, but most of them are fibrous enough to be used as rope.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 903#
-Merely a severed
-reptile's tongue.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Merely a reptile's severed tongue.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 904#
-A tail severed
-from a scorpion.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A tail severed from a scorpion.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 905#
-Some stems from plants
-can be used to in making certain medicines.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Some stems from plants can be used to in making certain medicines.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 906#
-A single scale from
-a Worm Tail monster.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A single scale from a Worm Tail monster.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 907#
-A viscous plant substance used in the production of certain types of goods.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A viscous plant substance used in the production of certain types of goods.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 908#
-Frog eggs. 
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Frog eggs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 909#
-A small crystallization created by some monsters.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A small crystallization created by some monsters.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 910#
-A small crystallization created by some monsters.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A small crystallization created by some monsters.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 911#
-A small crystallization created by some monsters.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A small crystallization created by some monsters.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 912#
-A small crystallization created by some monsters.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A small crystallization created by some monsters.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 913#
-Farmiliar's sharpened tooth.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Farmiliar's sharp tooth.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 914#
-A clump of monster fur
-and fuzz that can be used to make thread and fabric.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A clump of monster fur and fuzz that can be used to make thread and fabric.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 915#
-Skin from a larva that has been shed or peeled off.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Skin from a larva that has been shed or peeled off.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 916#
-A bird's feather that
-can be used in decor
-or in fabric creation.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A bird's feather that can be used in decor or in fabric creation.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 917#
-A sharp talon
-from a bird's foot.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A sharp talon from a bird's foot.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 918#
-A webbed foot cut from
-a monster's hind leg.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A webbed foot cut from a monster's hind leg.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 919#
-Animal hide that can be used in making clothes, coverings or beddings.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Animal hide that can be used in making clothes, coverings, or bedding.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 920#
-A claw severed
-from a wolf's paw.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A claw severed from a wolf's paw.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 921#
-A spore discharged
-from a mushroom.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A spore discharged from a mushroom.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 922#
-A cuspid wrenched out of from a gruesome Orc's jaw.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A cuspid wrenched out of from a gruesome Orc's jaw.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 923#
-Baphomet's horn is a symbol representing evil.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Baphomet's horn is a symbol of evil.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 924#
-Butterfly wing powder
-that sparkles with the
-power of fantasy.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Butterfly wing powder that sparkles with the power of fantasy.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 925#
-A bird's beak.
-Waste not want not.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A bird's beak. Waste not want not.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 926#
-Scales from a snake that can be used to make some rather flamboyant clothes.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Scales from a snake that can be used to make some rather flamboyant clothes.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 //--------------------------------------------------------------------------
+
 928#
-Antennae that serve as sense organs for insects.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Antennae that serve as sense organs for insects.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 929#
-A heart which will
-never stop beating.
-It contains some sort
-of dreadful power.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A heart which will never stop beating. It contains some sort of dreadful power.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 930#
-Old, dirty bandage
-that's so soiled, it's
-almost worthless.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Old, dirty bandage that's so soiled, it's almost worthless.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 931#
-A small sculpture that
-serves as the token for
-every true Orc Warrior.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A small sculpture that serves as the token for every true Orc Warrior.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 932#
-A bone taken from
-an Undead skeleton.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A bone taken from an undead skeleton.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 //--------------------------------------------------------------------------
+
 934#
-A box that is buried with the dead. It contains gems and someone's mementos...
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A box that is buried with the dead. It contains gems and someone's mementos....^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 935#
-A hard shell that used
-to protect a monster.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A hard shell that used to protect a monster.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 936#
-A shell-like piece of
-tough monster skin that is covered with hard scales.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A shell-like piece of tough monster skin that is covered with hard scales.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 937#
-A sharp, poisonous
-fang from a monster.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A sharp, poisonous fang from a monster.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 938#
-Mysteriously
-sticky liquid.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Mysteriously sticky liquid.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 939#
-A stinger from
-a hornet or bee.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A stinger from a hornet or bee.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 940#
-A Rocker's hind leg.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A Rocker's hind leg.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 941#
-A ring placed in a cow's nose so that it can be steered more easily.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A ring placed in a cow's nose so that it can be steered more easily.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 942#
-A prehensile
-tail from a Yoyo.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A prehensile tail from a Yoyo.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 943#
-A solid, durable shell taken from a monster.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A solid, durable shell taken from a monster.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 944#
-A ''U'' shaped piece of iron fitted on a horse's hoof for its protection.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A 'U' shaped piece of iron fitted on a horse's hoof for its protection.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 945#
-A leaf that gives Smokies the power to change form and become invisible.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A leaf that gives Smokies the power to change form and become invisible.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 946#
-A hard, spiral shaped shell used by Snails.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A hard, spiral shaped shell used by Snails.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 947#
-Hard and sharp horn
-from a monster's head.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Hard and sharp horn from a monster's head.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 948#
-A lazy bear's foot that supposedly has a unique flavor and the power to restore male vigor.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A lazy bear's foot that supposedly has a unique flavor and the power to restore male vigor.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 949#
-A feather that boasts full, lustrous barbs used for making clothes of the highest quality.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A feather that boasts full, lustrous barbs used for making clothes of the highest quality.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 950#
-The heart of
-a mermaid.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080The heart of a mermaid.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 951#
-A fish monster's fin.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A fish monster's fin.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 952#
-A sharp needle from a
-Muka cactus monster.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A sharp needle from a Muka cactus monster.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 953#
-A heart constructed
-entirely out of stone.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A heart constructed entirely out of stone.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 954#
-A shimmering,
-reflective scale.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A shimmering, reflective scale.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 955#
-Shed skin from
-worms and insects.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Shed skin from worms and insects.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 956#
-Part of a fish's
-breathing apparatus.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Part of a fish's breathing apparatus.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 957#
-A putrid, incredibly
-pungent corpse's nail.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A putrid, incredibly pungent corpse's nail.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 958#
-A complete set of
-corpse's teeth. Well, as complete as it can get.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A complete set of corpse's teeth. Well, as complete as it can get.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 959#
-A nasty scale with a horribly offensive odor.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A nasty scale with a horribly offensive odor.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 960#
-A crustacean's claw.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A crustacean's claw.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 961#
-The shell of a
-marine mollusk.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080The shell of a marine mollusk.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 962#
-A flexible, prehensile and boneless appendage.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A flexible, prehensile, and boneless appendage.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 963#
-A scale that is much sharper than a razor.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A scale that is much sharper than a razor.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 964#
-A hard crab shell that smells horrible.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A hard crab shell that smells horrible.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 965#
-A hard shell taken
-from a dead clam.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A hard shell taken from a dead clam.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 966#
-Muscular and fatty clam tissue that can be cooked in all sorts of ways.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080Muscular and fatty clam tissue that can be cooked in all sorts of ways.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 967#
-A hard shell that
-obviously failed
-to protect a turtle.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080A hard shell that obviously failed to protect a turtle.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 968#
-An emblem given to
-an Orc Warrior that is
-proof of his heroism.
-^ffffff_^000000
-Weight : ^7777771^000000
+^808080An emblem given to an Orc Warrior that is proof of his heroism.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
 #
+
 969#
-A valuable metal in bullion form. It's used
-to make coins, jewelry
-and gaudy false teeth.
-^ffffff_^000000
-Weight : ^77777720^000000
+^808080A valuable metal in bullion form. It's used to make coins, jewelry, and gaudy false teeth.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
 #
+
 970#
-This colorless liquid
-is the secret behind the addictiveness of beers
-and wine. 200 Proof.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080This colorless liquid is the secret behind the addictiveness of beers and wine. 200 Proof.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
 #
+
 971#
-A liquid with unique scientific properties.
-It's difficult to mix in water and is normally diluted in a solution.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080A liquid with unique scientific properties. It's difficult to mix in water and is normally diluted in a solution.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
 #
+
 972#
-A liquid with interesting characteristics and many possible applications.
-^ffffff_^000000
-Weight : ^7777773^000000
+^808080A liquid with interesting characteristics and many possible applications.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 3
 #
+
 973#
-A mixture of chemical substances that can only be produced by geniuses.
-^ffffff_^000000
-Weight : ^7777777^000000
+^808080A mixture of chemical substances that can only be produced by geniuses.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 7
 #
+
 974#
-A special compound that has applications that can only be understood by keen minds schooled in science.
-^ffffff_^000000
-Weight : ^7777777^000000
+^808080A special compound that has applications that can only be understood by keen minds schooled in science.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 7
 #
+
 975#
-Red colored dye
-that is made from
-ground Red Herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Red colored dye that is made from ground Red Herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 976#
-Yellow colored dye
-that is made out of
-ground Yellow Herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Yellow colored dye that is made out of ground Yellow Herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 //--------------------------------------------------------------------------
+
 978#
-Blue colored dye
-that is made from
-ground Blue Herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Blue colored dye that is made from ground Blue Herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 979#
-Green colored dye
-that is made out of
-ground Green Herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Green colored dye that is made out of ground Green Herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 980#
-Orange colored dye that was made from grinding Red and Yellow Herbs together.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Orange colored dye that was made from grinding Red and Yellow Herbs together.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 981#
-Purpled colored dye
-that is made by grinding Blue and Red Herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Purple colored dye that is made by grinding Blue and Red Herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 982#
-White colored dye
-that is made out of
-ground White Herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080White colored dye that is made out of ground White Herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 983#
-Black colored dye
-made from various
-ground herbs.
-^ffffff_^000000
-Weight : ^77777715^000000
+^808080Black colored dye made from various ground herbs.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 15
 #
+
 984#
-^000088Crafting Item^000000
-Pure Oridecon metal.
-Widely known as the
-Blessed Metal, it can
-increase the damage of
-weapons once welded to
-them. Used to temper
-^000088Level 3 and 4 weapons^000000.
-^ffffff_^000000
-Weight : ^77777720^000000
+^808080Pure Oridecon metal. Widely known as the Blessed Metal, it can increase the damage of weapons once welded to them.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
+^FFFFFF_^000000
+When attempting to upgrade Level 3 and 4 weapons, this is consumed.
 #
+
 985#
-^000088Crafting Item^000000
-A very light, non-toxic metal used for refining and toughening ^000088Armor^000000.
-^ffffff_^000000
-Weight : ^77777720^000000
+^808080A very light, non-toxic metal used for refining and toughening armor.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 20
+^FFFFFF_^000000
+When attempting to upgrade armor, this is consumed.
 #
 
 986#
-^000088Crafting Item^000000
-A smithing tool on which heated metals are placed so that they can be shaped by hammering. Used in the making of common products.
-^ffffff_^000000
-Weight : ^77777750^000000
+^808080A smithing tool on which heated metals are placed so that they can be shaped by hammering. Used in the making of common products.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 50
 #
+
 987#
-^000088Crafting Item^000000
-An anvil, made of pure
-Oridecon, that's used
-to make quality goods.
-^ffffff_^000000
-Weight : ^77777770^000000
+^808080An anvil, made of pure Oridecon, that's used to make quality goods.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 70
 #
+
 988#
-^000088Crafting Item^000000
-An anvil, made of pure Gold, that's used in the manufacture of high quality products. 
-^ffffff_^000000
-Weight : ^77777790^000000
+^808080An anvil, made of pure Gold, that's used in the manufacture of high quality products.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 90
 #
+
 989#
-^000088Crafting Item^000000
-An anvil, made of pure Emperium, that's used to manufacture products of the highest quality.
-^ffffff_^000000
-Weight : ^777777100^000000
+^808080An anvil, made of pure Emperium, that's used to manufacture products of the highest quality.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 100
 #
+
 990#
-^000088Crafting Item^000000
-A vivid red ore that glows from inside with an orange yellow light. Possesses the Fire property and can form the enchanted stone, Flame Heart, when refined.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A vivid red ore that glows from inside with an orange yellow light. Possesses the Fire property and can form the enchanted stone, Flame Heart, when refined.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 991#
-^000088Crafting Item^000000
-A sky colored ore that
-glows with the light of the deep ocean depths. Possesses the ^6996ADWater^000000 property and forms the enchanted stone, Mystic Frozen, when refined.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A sky colored ore that glows with the light of the deep ocean depths. Possesses the Water property and forms the enchanted stone, Mystic Frozen, when refined.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 992#
-^000088Crafting Item^000000
-A lemon colored ore that contains a pale, greenish light. Possesses the Wind property and forms the enchanted stone, Rough Wind, when refined.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A lemon colored ore that contains a pale, greenish light. Possesses the Wind property and forms the enchanted stone, Rough Wind, when refined.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 993#
-^000088Crafting Item^000000
-A blue-green ore imbued with a faint, mesmerizing light. Possesses the Earth property and forms the enchanted stone, Great Nature, when refined.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A blue-green ore imbued with a faint, mesmerizing light. Possesses the Earth property and forms the enchanted stone, Great Nature, when refined.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 994#
-^000088Crafting Item^000000
-A dark red, heart
-shaped stone enchanted with the Fire property.
-^ffffff_^000000
-Weight : ^77777730^000000
+A dark red, heart shaped stone enchanted with the Fire property.
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 30
 #
+
 995#
-^000088Crafting Item^000000
-A light blue, crystal
-stone enchanted with
-the ^6996ADWater^000000 property.
-^ffffff_^000000
-Weight : ^77777730^000000
+^808080A light blue, crystal stone enchanted with the Water property.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 30
 #
+
 996#
-^000088Crafting Item^000000
-A pale green, lightning bolt shaped stone imbued with the Wind property.
-^ffffff_^000000
-Weight : ^77777730^000000
+^808080A pale green, lightning bolt shaped stone imbued with the Wind property.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 30
 #
+
 997#
-^000088Crafting Item^000000
-A citrus colored, bud
-shaped stone enchanted with the Earth property.
-^ffffff_^000000
-Weight : ^77777730^000000
+^808080A citrus colored, bud shaped stone enchanted with the Earth property.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 30
 #
+
 998#
-^000088Crafting Item^000000
-Malleable, silver-white metal that's very light weight and easy to temper. Commonly used to create arms and other goods.
-^ffffff_^000000
-Weight : ^7777775^000000
+^808080A malleable, silver-white metal that's very light weight and easy to temper. Commonly used to create arms and other goods.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 5
 #
+
 999#
-^000088Crafting Item^000000
-An iron and carbon alloy known for its structural durability and usually used in the crafting of high-quality arms.
-^ffffff_^000000
-Weight : ^77777710^000000
+^808080An iron and carbon alloy known for its structural durability and usually used in the crafting of high-quality arms.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
+
 1000#
-^000088Crafting Item^000000
-A small stellar crystal, fallen from the heavens, which can be used to craft strengthened weapons.
-Weight : ^77777710^000000
+^808080A small stellar crystal, fallen from the heavens, which can be used to craft strengthened weapons.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 10
 #
 1001#
 ^000088Crafting Item^000000
@@ -54255,18 +54785,7 @@ Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
 Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000
 #
-20164#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A book that's been put together sturdily enough to be wielded as a weapon in an emergency situation.
-^CC0000This item is not Refinable^000000
-Class : ^777777Book^000000
-Attack Strength: ^777777106^000000
-Weight : ^77777760^000000
-Weapon Level: ^7777772^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Priest, Sage, Taekwon Master^000000
-#
+
 20165#
 ^CC0000This Rental Weapon is not Tradable^000000
 ^0000CC40% Bonus Attack Damage to Water Element Targets^000000
@@ -54750,16 +55269,7 @@ Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Gunslinger^000000
 #
-20011#
-^CC0000This Rental Armor is not Tradable^000000
-Buckler that offers 20% resistance to All Race Damage
-^CC0000This item is not Refinable^000000
-Class : ^777777Shield^000000
-Def ^7777777^000000
-Weight : ^77777760^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
-#
+
 20021#
 ^CC0000This Rental Armor is not Tradable^000000
 Shoes that offer similar effect as a Matyr Carded +6 Shoes
@@ -54782,17 +55292,7 @@ Weight : ^77777740^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
-20031#
-^CC0000This Rental Armor is not Tradable^000000
-Garment that offer similar effect as a Raydric carded +6 Muffler.
-Resist Neutral Damage 15%
-^CC0000This item is not Refinable^000000
-Class : ^777777Muffler^000000
-Def ^7777776^000000
-Weight : ^77777740^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
-#
+
 20032#
 ^CC0000This Rental Armor is not Tradable^000000
 Garment that offer similar effect as a Whisper carded +6 Muffler.
@@ -72202,4 +72702,924 @@ Hankie
 Can Hat
 Costume: Lady_Tanee_Doll
 New Year Hairpin
+#
+
+24090#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+DEF+3.
+Increases resistance against Stun, Freezing, Bleeding, Curse status by 1% per every 2 refine levels.
+Increases resistance against Stone Curse, Sleeping, Silence, Blind status by 1% per every refine level.
+
+If Stability Shield  Shadow and the set consisting of Unfreezing Weapon Shadow, Unfreezing Earring Shadow, and Unfreezing Pendant Shadow are worn together, DEF+4.
+If the total combined refine levels of four items are greater than 30, gains immunity to the Freezing status.
+
+Type: ^777777Shadow equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Lv. req.: ^7777771^000000
+Class: ^777777All classes^000000
+#
+
+
+24099#
+A glove equipped on wearer's hand to draw his/her potential ability.
+DEF+1.
+Increases resistance against Freezing status by 1% per every refine level.
+If Stability Shield  Shadow and the set consisting of Unfreezing Weapon Shadow, Unfreezing Earring Shadow, and Unfreezing Pendant Shadow are worn together, DEF+4.
+If the total combined refine levels of four items are greater than 30, gains immunity to the Freezing status.
+Type: ^777777Shadow equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Lv. req.: ^7777771^000000
+Class: ^777777All classes^000000
+#
+24100#
+A sacred earring which is believed to protect it's wearer. It also draws the wearer's potential abilities.
+DEF+1.
+Increases resistance against Freezing status by 1% per every refine level.
+If Stability Shield  Shadow and the set consisting of Unfreezing Weapon Shadow, Unfreezing Earring Shadow, and Unfreezing Pendant Shadow are worn together, DEF+4.
+If the total combined refine levels of four items are greater than 30, gains immunity to the Freezing status.
+Type: ^777777Shadow equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Lv. req.: ^7777771^000000
+Class: ^777777All classes^000000
+#
+24101#
+A sacred necklace which is belived to protect its wearer. It also draws the wearer's potential abilities.
+DEF+1.
+Increases resistance against Freezing status by 1% per every refine level.
+If Stability Shield  Shadow and the set consisting of Unfreezing Weapon Shadow, Unfreezing Earring Shadow, and Unfreezing Pendant Shadow are worn together, DEF+4.
+If the total combined refine levels of four items are greater than 30, gains immunity to the Freezing status.
+Type: ^777777Shadow equipment^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Lv. req.: ^7777771^000000
+Class: ^777777All classes^000000
+#
+
+20470#
+Show your dominance over loved ones with this new costume!
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required LvL : ^7777771^000000
+Job : ^777777All^000000
+#
+
+17667#
+It's taken exactly 12 months for the scientist Kafras at the Kafra co to perfect the most romantic lucky box yet! 
+They recommend standing back when opening these boxes or risk taking splash damage from the love energy generated by the fun Lunar New Year and Valentine's themed items within!
+Contains one of the following by chance.
+Palace Guard Cap
+Transformation Scroll: Poring x 25
+Party Hard Scroll
+99 Love Balloon
+Prize Medals x 1000
+Costume: Happy Peace Proof
+Heart Wing Hairband
+HE Bubble Gum x 10
+Costume: Moon and Stars
+#
+18563#
+The hairband of girls that decorated with love feather and lace.
+Skill delay -5%, SP comsuption -10%;
+Skill delay and SP comsuption -3% for every 3 refining levels.
+Class: Headgear Defense: 0
+Location: Upper Weight: 30
+Required Level: 50
+Jobs: All
+#
+
+
+
+//----hero trail 3
+28310#
+^808080Sarah's left earring. It might help you to use Sarah's power if worn.^000000
+^FFFFFF_^000000
+^ff0000Account Bound^000000
+^FFFFFF_^000000
+Type: Accessory 
+DEF: 0
+Weight: 0
+Required Level: 145
+Required Job: All classes
+^FFFFFF_^000000
+Enables to use skill Heal Lv.1.
+#
+28311#
+^808080Sarah's right earring. It might help you to use Sarah's power if worn.^000000
+^FFFFFF_^000000
+^ff0000Account Bound^000000
+^FFFFFF_^000000
+Type: Accessory 
+DEF: 0
+Weight: 0
+Required Level: 145
+Required Job: All classes
+^FFFFFF_^000000
+Enables to use skill Teleport Lv.1.
+#
+15121#
+^808080The robe once worn by Sarah, enstilling mystical power.^000000
+^FFFFFF_^000000
+Type: Armor
+DEF: 35
+Weight: 80
+Required Level: 145
+Required Job: All classes
+^FFFFFF_^000000
+When using magic attacks has a small chance of increasing mATK by 8*the refine level of the robe for a short period of time.
+#
+4610#
+Type: Card
+Slot Into: Armor
+Weight: 1
+^FFFFFF_^000000
+If the user receives damage greater than their current maximum HP amount, this card will decrease the damage received by a large amount.
+#
+4939#
+CRI +2
+#
+4940#
+CRI +4
+#
+4941#
+CRI +6
+#
+4942#
+Perfect Dodge +3
+#
+4943#
+Perfect Dodge +4
+#
+4944#
+Perfect Dodge +5
+#
+4945#
+SP Cost -2%
+#
+4946#
+SP Cost -4%
+#
+4947#
+SP Cost -6%
+#
+4948#
+Delay after Skill -2%
+#
+4949#
+Delay after Skill -4%
+#
+4950#
+Delay after Skill -6%
+#
+6803#
+^808080Piece of Ancient Gigantes type monster. Maybe a researcher of some kind would see value in it.^000000
+Weight: ^7777771^000000
+#
+
+19914#
+^808080Airship Captain Felrock¡®s Hat^000000
+^FFFFFF_^000000
+Type: Costume
+Location: Upper
+Weight: 0
+Required Level: 1
+Required Job: All
+#
+15116#
+Armor worn by traveler riding the Airship. 
+It is an object robbed by monsters during the Airship attack incident.
+
+refining impossible, Trade impossible.
+If equipped together with Airship armor, Airship cloak, Airship boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration.
+Type : ^777777Armor^000000    Defense : ^777777100^000000
+Weight : ^7777770^000000
+Required Level : ^777777125^000000
+Job : ^777777All^000000
+
+MaxHP + 1000, MaxSP + 100, MDEF + 10.
+All State + 1.
+#
+20743#
+Cloak worn by traveler riding the Airship.
+It is an object robbed by monsters during the Airship attack incident.
+Nothing tolerance 10% increase, Flee + 20, Floating Casting 20% decrease.
+refining impossible, Trade impossible.
+Type : ^777777Robe^000000  Defense : ^77777725^000000
+Weight : ^7777770^000000
+Required Level : ^777777125^000000
+Job : ^777777All^000000
+#
+22046#
+Boots worn by traveler riding the Airship.
+It is an object robbed by monsters during the Airship attack incident.
+AGI + 1.
+Attack rate increase (Delay after attack 10% reduction).
+refining impossible, Trade impossible.
+Type : ^777777Shoes^000000  Defense : ^77777726^000000
+Weight : ^7777770^000000
+Required Level : ^777777125^000000
+Job : ^777777All^000000
+#
+15117#
+Airship captain Felrock¡®s possessions.
+Resolved the airship attack incident and acquired as a trophy.
+MaxHP + 500, MaxSP + 50, MDEF + 10.
+All State + 1.
+If 7 refined, MaxHP + 500, MaxSP + 50.
+If 9 refined, MaxHP + 200, MaxSP + 20.
+If 12 refined, MaxHP + 300, MaxSP + 30.
+If equipped together with Felrock¡®s Armor, Felrock¡®s Cloak, Felrock¡®s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
+Type : ^777777Armor^000000    Defense : ^77777770^000000
+Weight : ^77777775^000000
+Required Level : ^777777125^000000
+Job : ^777777All^000000
+#
+20744#
+Airship captain Felrock¡®s possessions.
+Resolved the airship attack incident and acquired as a trophy.
+Neutral tolerance 10% increase, Flee + 20.
+Floating Casting 10% decrease.
+If 7 refined, Variable Cast time 10% decrease.
+If 9 refined, Variable Cast time 10% decrease.
+If 12 refined, Variable Cast time 5% decrease.
+Type : ^777777Robe^000000    Defense : ^77777712^000000
+Weight : ^77777740^000000
+Required Level : ^777777125^000000
+Job : ^777777All^000000
+#
+22047#
+Airship captain Felrock¡®s possessions.
+Resolved the airship attack incident and acquired as a trophy.
+AGI + 1, Attack rate increase (Delay after attack 5% reduction).
+If 7 refined, AGI + 1, Delay after attack extra 5% decrease
+If 9 refined, AGI + 1, Delay after attack extra 5% decrease
+If 12 refined, ASPD + 1.
+Type : ^777777Shoes^000000    Defense : ^77777713^000000
+Weight : ^77777725^000000
+Required Level : ^777777125^000000
+Job : ^777777All^000000
+#
+17364#
+March has returned and with it comes this new groove pack!
+Always contains
+1 Bloody Dead Branch
+2 Kit Coins
+
+By chance will open into one of the following.
+Gryphon Hat
+10 cnt Raydric Transformation Scroll
+4 cnt HE Bubblegum
+2 cnt Battle Manual X3
+Costume Helm
+Ifrit Mask
+Earth Goddess Flower
+Girl's Hat
+Leek In Mouth
+#
+
+19526#
+A lightweight replica of the famous warrior's helmet, the latest in Rune-Midgards fashion. It won't really protect you from anything.
+#
+
+
+20218#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All jobs^000000
+#
+20219#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All jobs^000000
+#
+
+20191#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume equipment^000000 Defense : ^7777775^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All jobs^000000
+#
+
+20195#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume equipment^000000Defense : ^7777770^000000
+Location : ^777777Mid-bottom ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All jobs^000000
+#
+20071#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+A lost wolf puppy, maybe you should carry it like its mother to comfort it.
+Class : ^777777Costume Gear^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+20041#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+20031#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All^000000
+#
+
+20011#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+
+#
+
+17506#
+Celebrate St Paddy's Day with a random costume stolen from O'Riley
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Contains one of the following
+Costume Veil
+Costume Spell Circuit
+Costume Black Cat Ears Beret
+Costume Scratching Cat
+Costume Lost Wolf Puppy
+Costume Earth Goddess Flower
+Costume Bunny Head Dress
+Costume Lightning Speed
+#
+
+20217#
+^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Middle Bottom ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+
+#
+
+17365#
+Adventure in april with with this lucky box!
+
+Contains one of the following by chance.
+Crown of Deceit
+CD In Mouth
+Costume Jacks Castle Bat
+Fallen Angel Wing
+Costume Devoted Eyes
+Prize Medals x 2000
+HE Bubble Gum x 6
+Bloody Dead Branch x 5
+
+#
+
+17366#
+Spring is here! Celebrate steam and refine your gear with these Safe to 7 Certificates!
+
+When opened contains one of the following:
+1x Safe to 7 Body Armor Certificate
+1x Safe to 7 Weapon Armor Certificate 
+1x Safe to 7 Headgear Armor Certificate
+#
+
+20099#
+This fairy loves to bless adventurers with good luck!
+^ff0000Obtained from a sales event that is running from 4/15/2016-4/30/2016^000000
+Class : ^777777Costume Gear^000000 
+Defense : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+24082#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect. Max HP+1%. If refined to +7 or greater, increases Max HP by 1%.
+If the set consisting of Malicious Shield Shadow, Malicious Armor Shadow, and Malicious Shoes Shadow is worn together,
+enables 4% chance of gaining 2% of DMG inflicted upon an enemy as HP with each physical attack.
+Increases additional 1% of DMG inflicted upon an enemy as HP per every 5 refine level of all three items in the set.
+Class : Shadow Equipment
+Location : Footwear
+Required Level : 1
+Jobs : All Jobs
+#
+
+24083#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+HP regeneration+5%.
+If refined to +7 or greater, increases additional HP regeneration by 5%.
+If the set consisting of Malicious Shield Shadow, Malicious Armor Shadow, and Malicious Shoes Shadow is worn together, enables 4% chance of gaining 2% of DMG inflicted upon an enemy as HP with each physical attack.
+Increases additional 1% of DMG inflicted upon an enemy as HP per every 5 refine level of all three items in the set.
+Class : Shadow Equipment
+Location : Shield
+Required Level : 1
+Jobs : All Jobs
+#
+
+24081#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+HP+100.
+If refined to +7 or greater, increases Max HP by 1%.
+If the set consisting of Malicious Shield Shadow, Malicious Armor Shadow, and Malicious Shoes Shadow is worn together, enables 4% chance of gaining 2% of DMG inflicted upon an enemy as HP with each physical attack.
+Increases additional 1% of DMG inflicted upon an enemy as HP per every 5 refine level of all three items in the set.
+Class : Shadow Equipment
+Location : Armor
+Required Level : 1
+Jobs : All Jobs
+#
+
+17367#
+Get your groove on with this may groove pack.
+When opened always gives 1 Safe to 7 Chance Box
+
+Will also award one of the following by random chance
+Kafra Blossom Card
+Malicious Shadow Shoes
+Malicious Shadow Armor
+Malicious Shadow Shield
++20 Food Box
+HE Bubble Gum x 2
+KVM Badge x 100
+#
+
+20458#
+Two monsters became a team! To loot your heart!
+Type : ^777777Costume^000000 
+DEF : ^7777770^000000
+Location : ^777777Upper^000000 
+Weight : ^7777770^000000
+Lv. req. : ^7777771^000000
+Class : ^777777All classes^000000
+#
+
+
+
+15110#
+^808080This mechanical device uses the power of science to optimize your strength. You can combine it with other variants for a synergetic effect.^000000
+^FFFFFF_^000000
+Type: Armor
+Defense: 80
+Property: Neutral
+Weight: 200
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+ATK + 5%
+ATK + 1% per 4 upgrade levels of the item.
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Supplement Part Agi^000000
+^008080Supplement Part Str^000000
+ATK + 30
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Supplement Part Con^000000
+^008080Supplement Part Str^000000
+Increases the damage of ^0000FFAxe Tornado^000000 by 25%.
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Supplement Part Dex^000000
+^008080Supplement Part Str^000000
+Increases the damage of ^0000FFAxe Boomerang^000000 by 100%.
+#
+2995#
+^808080This mechanical device promotes the precise and timely execution of spells.^000000
+^FFFFFF_^000000
+Type: Accessory
+Defense: 0
+Weight: 10
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+Cast Delay - 10%
+Variable Casting Time - 10%
+Reduces the cooldown of ^0000FFAxe Boomerang^000000 by 2 seconds.
+Reduces the SP cost of skills by 10%.
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Supplement Part Dex^000000
+^008080Supplement Part Str^000000
+Increases the damage of ^0000FFAxe Boomerang^000000 by 100%.
+#
+20732#
+^808080This mechanical device heals wounds and rejuvenates your body.^000000
+^FFFFFF_^000000
+Type: Garment
+Defense: 20
+Weight: 50
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+Max HP + 6%
+Max HP + 1% per 2 upgrade levels of the item.
+^FFFFFF_^000000
+If upgrade level is +9 or higher,
+HP Recovery + 50%
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Supplement Part Con^000000
+^008080Supplement Part Str^000000
+Increases the damage of ^0000FFAxe Tornado^000000 by 25%.
+#
+22043#
+^808080Mechanical boots that keep you light on your feet. They are much lighter than they look.^000000
+^FFFFFF_^000000
+Type: Shoes
+Defense: 25
+Weight: 35
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+ASPD + 6%
+Max HP + 1% per 2 upgrade levels of the item.
+^FFFFFF_^000000
+If upgrade level is +4 or higher,
+ASPD + 1%
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Supplement Part Agi^000000
+^008080Supplement Part Str^000000
+ATK + 30
+#
+15111#
+^808080Designed to be worn over the frames of Madogears for enhanced Defense, this part is easy to assemble and disassemble.^000000
+^FFFFFF_^000000
+Type: Armor
+Defense: 110
+Property: Neutral
+Weight: 300
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+Reduces damage taken from Small, Medium size attackers by 10%.
+This item is indestructible in battle.
+^FFFFFF_^000000
+If upgrade level is +7 or higher,
+Reduces damage taken from Large size attackers by 10%.
+^FFFFFF_^000000
+If upgrade level is +9 or higher,
+Reduces damage taken from Small, Medium size attackers by 5%.
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Upgrade_Part - Booster^000000
+^008080Upgrade_Part - Engine^000000
+^008080Upgrade_Part - Gun Barrel^000000
+^008080Upgrade_Part - Plate^000000
+Increases the damage of ^0000FFArm Cannon^000000 by 50%.
+#
+2996#
+^808080Designed to strengthen the gun barrels of Madogears for enhanced firepower, this part is easy to assemble and disassemble.^000000
+^FFFFFF_^000000
+Type: Accessory
+Defense: 0
+Weight: 50
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+ATK + 4%
+HIT + 10
+Increases the damage of ^0000FFKnuckle Boost^000000 by 25%.
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Upgrade_Part - Booster^000000
+^008080Upgrade_Part - Engine^000000
+^008080Upgrade_Part - Gun Barrel^000000
+^008080Upgrade_Part - Plate^000000
+Increases the damage of ^0000FFArm Cannon^000000 by 50%.
+#
+20733#
+^808080Designed to maximize the outputs of Madogears, this part is easy to assemble and disassemble.^000000
+^FFFFFF_^000000
+Type: Garment
+Defense: 25
+Weight: 150
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+Cast Delay - 10%
+^FFFFFF_^000000
+If upgrade level is +7 or higher,
+Reduces damage taken from Neutral property attacks by 10%.
+^FFFFFF_^000000
+If upgrade level is +9 or higher,
+Cast Delay - 10%
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Upgrade_Part - Booster^000000
+^008080Upgrade_Part - Engine^000000
+^008080Upgrade_Part - Gun Barrel^000000
+^008080Upgrade_Part - Plate^000000
+Increases the damage of ^0000FFArm Cannon^000000 by 50%.
+#
+22044#
+^808080Designed to significantly improve Movement Speed, this Madogear part is easy to assemble and disassemble.^000000
+^FFFFFF_^000000
+Type: Shoes
+Defense: 23
+Weight: 100
+Required Level: 100
+Required Job: Mechanic
+^FFFFFF_^000000
+Reduces the SP cost of ^0000FFHover^000000 by 15.
+^FFFFFF_^000000
+If upgrade level is +7 or higher,
+Reduces the SP cost of ^0000FFAcceleration^000000 by 20.
+^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Upgrade_Part - Booster^000000
+^008080Upgrade_Part - Engine^000000
+^008080Upgrade_Part - Gun Barrel^000000
+^008080Upgrade_Part - Plate^000000
+Increases the damage of ^0000FFArm Cannon^000000 by 50%.
+#
+28101#
+^808080Its name is coined from the shape of the blade.^000000
+^FFFFFF_^000000
+Type: Weapon
+Class: Two-Handed Axe
+Attack: 320
+Property: Wind
+Weight: 400
+Weapon Level: 4
+Required Level: 100
+Required Job: Rune Knight, Royal Guard, Mechanic, Geneticist
+^FFFFFF_^000000
+Reduces the cooldown of ^0000FFAxe Tornado^000000 by 1 second.
+#
+21011#
+^808080A gigantic blade with a makeshift hilt.^000000
+^FFFFFF_^000000
+Type: Weapon
+Class: Two-Handed Sword
+Attack: 300
+Property: Neutral
+Weight: 500
+Weapon Level: 4
+Required Level: 130
+Required Job: Rune Knight, Royal Guard
+^FFFFFF_^000000
+ASPD - 15%
+Increases critical damage on targets by 1% per upgrade level of the item.
+This item is indestructible in battle.
+^FFFFFF_^000000
+If base STR is 110 or lower,
+ATK - 250
+#
+4933#
+Reduces damage taken from Neutral property attacks by 1%.
+^FFFFFFEnchantment^000000
+#
+4934#
+Reduces damage taken from Neutral property attacks by 2%.
+^FFFFFFEnchantment^000000
+#
+4935#
+Reduces damage taken from Neutral property attacks by 3%.
+^FFFFFFEnchantment^000000
+#
+6748#
+^808080The Artnard Excavation Team's daily report on its exploration and excavation of Phantasmagorika.^000000
+^FF0000Account Bound^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+6749#
+^808080All the machines found in Phantasmagorika have this component installed in the center of their mechanisms. The Excavation Team has named it the Power Control Device.^000000
+^FF0000Account Bound^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+6750#
+^808080A broken engine. Maybe it can be refurbished.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+6751#
+^808080A dented iron plate. Maybe it can be flattened and reusable.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+6752#
+^808080A burnt Charleston component. Take it to Mass Charleston. Maybe some of its parts can be salvaged.^000000
+^FF0000Account Bound^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+6753#
+^808080The Doom Prayers carry this token with them.^000000
+^FF0000Account Bound^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+6754#
+^808080A herb with wound-healing properties.^000000
+^FF0000Account Bound^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+22611#
+^808080Often found in the Excavation Site, this envelope activates a random effect for 30 seconds when opened.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 1
+#
+16030#
+^808080This upgraded version of Pile Bunker is lighter in weight, allowing the user to move more quickly.^000000
+^FFFFFF_^000000
+Type: Weapon
+Class: Mace
+Attack: 400
+Property: Neutral
+Weight: 300
+Weapon Level: 4
+Required Level: 130
+Required Job: Mechanic
+^FFFFFF_^000000
+Cast Delay - 1% per 2 upgrade levels of the item.
+#
+16031#
+^808080This upgraded version of Pile Bunker provides more destructive power.^000000
+^FFFFFF_^000000
+Type: Weapon
+Class: Mace
+Attack: 450
+Property: Neutral
+Weight: 400
+Weapon Level: 4
+Required Level: 130
+Required Job: Mechanic
+^FFFFFF_^000000
+ATK + 5 per upgrade level of the item.
+#
+16032#
+^808080This upgraded version of Pile Bunker facilitates the application of Special abilities.^000000
+^FFFFFF_^000000
+Type: Weapon
+Class: Mace
+Attack: 400
+Property: Neutral
+Weight: 350
+Weapon Level: 4
+Required Level: 130
+Required Job: Mechanic
+^FFFFFF_^000000
+Reduces the SP cost of skills by 1% per upgrade level of the item.
+#
+16033#
+^808080Kick and Kick's severed arm that works as effectively as any standard-issue weapon.^000000
+^FFFFFF_^000000
+Type: Weapon
+Class: Mace
+Attack: 195
+Property: Neutral
+Weight: 300
+Weapon Level: 4
+Required Level: 130
+Required Job: Rune Knight, Royal Guard, Mechanic, Geneticist, Arch Bishop, Sura
+^FFFFFF_^000000
+CRIT + 20
+This item is indestructible in battle.
+#
+6756#
+^808080Specially enriched energy found from Verus City location. Maybe this could help us reveal the secret of Verus City power core..?^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+6757#
+^808080Unique record found from Verus City ruin. You can have a peak of old Verus City life or some historical cases.^000000
+^FFFFFF_^000000
+Type: Miscellaneous
+Weight: 0
+#
+12291#
+^808080A New Year Cat's present. Having a description in small letters: "Royal mineral water made of Prontera aquifer water"^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+Required Level: 1
+Required Job: All
+^FFFFFF_^000000
+Restores 5% SP.
+Casts ^0000FFLevel 5 Increase AGI^000000.
+#
+12377#
+^808080The second new item of Mysterious PET Bottle. Blue ocean flavor. Due to its smell, the ocean spreads right in front of one's eyes.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+Required Level: 1
+Required Job: All
+^FFFFFF_^000000
+Restores 3% SP.
+Casts ^0000FFLevel 1 Magnificat^000000.
+#
+12290#
+^808080A New Year Cat's present. Having a description in small letters: "A premium can for cats containing tuna 45%"^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+Required Level: 1
+Required Job: All
+^FFFFFF_^000000
+Restores 5% HP.
+Casts ^0000FFLevel 5 Blessing^000000.
+#
+12376#
+^808080The second new item of Mysterious Can. Fresh mackerel flavor. Best nutrition for children in the growing period.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 10
+Required Level: 1
+Required Job: All
+^FFFFFF_^000000
+Restores 3% SP.
+Casts ^0000FFLevel 2 Gloria^000000.
+#
+
+17369#
+For our 13th Anniversary Celebration, the Kafra corporation has devised a extra-special Lucky Box with some never-before seen items! 
+
+Contains one of the following by chance
+6x Battle Manual X3
+6x Bloody Branch
+7x HE Bubble Gum
+Costume: Amistr Beret
+2000x Prize Medal
+Costume: Butterfly Hairpin
+Costume: Volume Fhat
+Tam[1]
+3d Glasses 
+Droopy Turtle Hat
+Bloody Butterfly[1]
+#
+
+20100#
+A costume of the Volumne FHat Item! Wear it with pride.
+#
+20197#
+A beret decked out to resemble a cute amistr
+#
+
+20763#
+Until August 5th, 2016 Costume Amistr Bag will have the following effects:
+
+SP + 10
+HP + 150
+HP Recovery + 5
+SP Recovery + 3
+
+Class : ^777777Costume^000000
+Location : ^777777Garment ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+
+#
+
+17709#
+Contains 1 Costume Amistr Bag
+#
+
+31052#
+A protective mask that was used by Alchemists to protect from poisonous gas.
+Type : ^777777Costume^000000 Armor : ^7777770^000000
+Location : ^777777Upper/Mid/Lower ^000000Weight : ^7777770^000000
+Req. level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+23164#
+A potion created and distributed by 13th anniversary NPC Granpa Boxter.
+No matter who you race with, you will pass everyone.
+Weight : ^7777771^000000
+#
+
+
+20164#
+Deer skeleton shaped helm worn by monster Duneyrr.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
 #
