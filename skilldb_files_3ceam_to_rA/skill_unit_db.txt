@@ -1,4 +1,4 @@
-// Skill Unit Database
+// Skill Unit Database, test
 //
 // Structure of Database:
 // Skill ID,Unit ID,Unit ID 2,Layout,Range,Interval,Target,Flag
