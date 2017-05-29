@@ -1,7 +1,7 @@
 $skill_req_for[2] = array( 1 => array(3, 1) ); 
 $skill_req_for[3] = array( 7 => array(60, 1, 61, 1, 62, 5), 4008 => array(356, 10, 355, 5) ); 
 $skill_req_for[4] = array( 4008 => array(357, 5, 358, 10) ); 
-$skill_req_for[5] = array( 1 => array(7, 5), 7 => array(62, 10), 23 => array(7, 5), 4008 => array(355, 5) ); 
+$skill_req_for[5] = array( 1 => array(7, 5), 7 => array(62, 10), 23 => array(7, 5) ); 
 $skill_req_for[6] = array( 1 => array(8, 5), 23 => array(8, 5), 4008 => array(358, 5, 356, 5) ); 
 $skill_req_for[7] = array( 7 => array(62, 3), 4008 => array(355, 5) ); 
 $skill_req_for[8] = array( 7 => array(63, 1), 14 => array(63, 1), 4008 => array(358, 3), 4015 => array(368, 1, 367, 5) ); 
@@ -32,12 +32,12 @@ $skill_req_for[35] = array( 14 => array(22, 1) );
 $skill_req_for[36] = array( 5 => array(37, 3, 39, 5), 23 => array(37, 3, 39, 5) ); 
 $skill_req_for[37] = array( 5 => array(38, 3), 23 => array(38, 3) ); 
 $skill_req_for[39] = array( 5 => array(41, 3), 23 => array(41, 3), 4011 => array(387, 5) ); 
-$skill_req_for[41] = array( 5 => array(2535, 1) ); 
+$skill_req_for[41] = array( 5 => array(2535, 1), 23 => array(2535, 1) ); 
 $skill_req_for[42] = array( 4011 => array(485, 10) ); 
 $skill_req_for[43] = array( 3 => array(44, 3), 23 => array(44, 3), 4012 => array(380, 10) ); 
 $skill_req_for[44] = array( 3 => array(45, 1), 17 => array(46, 10), 23 => array(45, 1), 4012 => array(380, 10, 381, 5) ); 
-$skill_req_for[45] = array( 11 => array(130, 1), 4012 => array(380, 10, 382, 10, 383, 9), 4020 => array(489, 10, 488, 10, 396, 5, 395, 5), 4021 => array(489, 10, 488, 10, 396, 5, 395, 5) ); 
-$skill_req_for[46] = array( 3 => array(47, 5), 11 => array(499, 10), 17 => array(124, 5), 4012 => array(382, 5), 4079 => array(2288, 7) ); 
+$skill_req_for[45] = array( 11 => array(130, 1), 4012 => array(380, 10, 382, 10, 383, 9), 4020 => array(489, 10, 488, 10, 396, 10, 395, 5), 4021 => array(489, 10, 488, 10, 396, 10, 395, 5) ); 
+$skill_req_for[46] = array( 3 => array(47, 5), 11 => array(499, 10), 17 => array(124, 5), 4012 => array(382, 5), 4020 => array(394, 5), 4021 => array(394, 5), 4079 => array(2288, 7) ); 
 $skill_req_for[47] = array( 4020 => array(394, 5), 4021 => array(394, 5) ); 
 $skill_req_for[48] = array( 4013 => array(376, 5, 379, 5) ); 
 $skill_req_for[50] = array( 6 => array(51, 5), 17 => array(210, 1), 23 => array(51, 5) ); 
@@ -45,7 +45,7 @@ $skill_req_for[51] = array( 12 => array(135, 2), 17 => array(213, 1), 4018 => ar
 $skill_req_for[52] = array( 6 => array(53, 3), 12 => array(138, 1), 23 => array(53, 3), 4013 => array(407, 10, 379, 5), 4190 => array(138, 1) ); 
 $skill_req_for[53] = array( 4013 => array(407, 1) ); 
 $skill_req_for[54] = array( 8 => array(77, 1) ); 
-$skill_req_for[55] = array( 7 => array(56, 1), 14 => array(258, 10), 4008 => array(399, 9, 398, 9, 397, 10, 357, 5), 4073 => array(2308, 1, 2320, 1) ); 
+$skill_req_for[55] = array( 7 => array(56, 1), 14 => array(258, 10), 4008 => array(357, 5, 397, 10, 398, 9), 4073 => array(2308, 1, 2320, 1) ); 
 $skill_req_for[56] = array( 7 => array(58, 5, 59, 3), 4008 => array(397, 5) ); 
 $skill_req_for[57] = array( 4060 => array(2020, 2) ); 
 $skill_req_for[58] = array( 7 => array(57, 3), 4008 => array(397, 5) ); 
@@ -138,7 +138,7 @@ $skill_req_for[237] = array( 18 => array(235, 3), 4019 => array(479, 5) );
 $skill_req_for[238] = array( 18 => array(244, 1) ); 
 $skill_req_for[243] = array( 18 => array(247, 1) ); 
 $skill_req_for[244] = array( 18 => array(243, 1) ); 
-$skill_req_for[248] = array( 14 => array(35, 5, 28, 10, 253, 7, 254, 10), 4015 => array(369, 8, 368, 5, 367, 5), 4073 => array(2322, 3), 4190 => array(253, 7) ); 
+$skill_req_for[248] = array( 14 => array(35, 5, 28, 10, 253, 7, 254, 10), 4015 => array(369, 8, 367, 5), 4073 => array(2322, 3), 4190 => array(253, 7) ); 
 $skill_req_for[249] = array( 14 => array(250, 5) ); 
 $skill_req_for[250] = array( 14 => array(251, 3), 4015 => array(367, 2), 4073 => array(2310, 3) ); 
 $skill_req_for[251] = array( 14 => array(252, 3, 257, 1), 4015 => array(480, 5) ); 
@@ -148,8 +148,8 @@ $skill_req_for[254] = array( 14 => array(255, 4), 4073 => array(2321, 5) );
 $skill_req_for[255] = array( 4015 => array(368, 3) ); 
 $skill_req_for[259] = array( 15 => array(261, 2, 265, 5), 4016 => array(372, 5, 371, 5, 370, 7), 4190 => array(261, 2) ); 
 $skill_req_for[260] = array( 15 => array(264, 2) ); 
-$skill_req_for[261] = array( 15 => array(262, 5, 265, 5, 266, 5), 4016 => array(401, 5, 372, 5, 371, 5, 370, 5), 4077 => array(2341, 5), 4190 => array(262, 5) ); 
-$skill_req_for[262] = array( 15 => array(270, 1), 4016 => array(401, 1), 4077 => array(2340, 1) ); 
+$skill_req_for[261] = array( 15 => array(262, 5, 265, 5, 266, 5), 4016 => array(372, 5, 370, 5), 4077 => array(2341, 5), 4190 => array(262, 5) ); 
+$skill_req_for[262] = array( 15 => array(270, 1), 4077 => array(2340, 1) ); 
 $skill_req_for[263] = array( 15 => array(272, 5), 4016 => array(371, 5), 4077 => array(2326, 5) ); 
 $skill_req_for[265] = array( 15 => array(263, 5, 269, 5) ); 
 $skill_req_for[266] = array( 15 => array(267, 3) ); 
@@ -184,14 +184,14 @@ $skill_req_for[311] = array( 19 => array(308, 1), 20 => array(308, 1) );
 $skill_req_for[313] = array( 19 => array(307, 3), 20 => array(307, 3) ); 
 $skill_req_for[315] = array( 19 => array(316, 3, 317, 1), 4020 => array(488, 10, 487, 10, 396, 5, 395, 7) ); 
 $skill_req_for[316] = array( 4020 => array(394, 1), 4075 => array(2418, 5) ); 
-$skill_req_for[317] = array( 19 => array(319, 3, 320, 3, 321, 3, 322, 3), 4020 => array(489, 3), 4075 => array(2414, 5) ); 
+$skill_req_for[317] = array( 19 => array(319, 3, 320, 3, 321, 3, 322, 3), 4020 => array(489, 3, 487, 3), 4075 => array(2414, 5) ); 
 $skill_req_for[319] = array( 19 => array(306, 10) ); 
 $skill_req_for[320] = array( 19 => array(311, 10) ); 
 $skill_req_for[321] = array( 19 => array(313, 10) ); 
 $skill_req_for[322] = array( 19 => array(309, 10) ); 
 $skill_req_for[323] = array( 20 => array(324, 3, 325, 1), 4021 => array(488, 10, 487, 10, 396, 5, 395, 7) ); 
 $skill_req_for[324] = array( 4021 => array(394, 1), 4076 => array(2418, 5) ); 
-$skill_req_for[325] = array( 20 => array(327, 3, 328, 3, 329, 3, 330, 3), 4021 => array(489, 3), 4076 => array(2414, 5) ); 
+$skill_req_for[325] = array( 20 => array(327, 3, 328, 3, 329, 3, 330, 3), 4021 => array(489, 3, 487, 3), 4076 => array(2414, 5) ); 
 $skill_req_for[327] = array( 20 => array(306, 10) ); 
 $skill_req_for[328] = array( 20 => array(311, 10) ); 
 $skill_req_for[329] = array( 20 => array(313, 10) ); 
@@ -199,7 +199,7 @@ $skill_req_for[330] = array( 20 => array(309, 10) );
 $skill_req_for[365] = array( 4010 => array(484, 1) ); 
 $skill_req_for[366] = array( 4010 => array(484, 10) ); 
 $skill_req_for[371] = array( 4016 => array(372, 2) ); 
-$skill_req_for[375] = array( 4017 => array(402, 1) ); 
+$skill_req_for[375] = array( 4017 => array(402, 2) ); 
 $skill_req_for[379] = array( 4013 => array(406, 1) ); 
 $skill_req_for[387] = array( 4011 => array(485, 1) ); 
 $skill_req_for[396] = array( 4020 => array(487, 1), 4021 => array(487, 1) ); 
@@ -217,9 +217,9 @@ $skill_req_for[427] = array( 4047 => array(428, 1, 429, 2, 430, 3, 431, 1, 432, 
 $skill_req_for[434] = array( 4047 => array(435, 1, 436, 2, 437, 3, 438, 1, 439, 2, 440, 3) ); 
 $skill_req_for[443] = array( 4047 => array(444, 9) ); 
 $skill_req_for[445] = array( 4049 => array(458, 1) ); 
-$skill_req_for[447] = array( 4049 => array(454, 1, 472, 1) ); 
+$skill_req_for[447] = array( 4049 => array(454, 1, 463, 1, 472, 1) ); 
 $skill_req_for[448] = array( 4049 => array(461, 1) ); 
-$skill_req_for[449] = array( 4049 => array(453, 1) ); 
+$skill_req_for[449] = array( 4049 => array(453, 1, 465, 1) ); 
 $skill_req_for[450] = array( 4049 => array(452, 1, 463, 1) ); 
 $skill_req_for[451] = array( 4049 => array(494, 5) ); 
 $skill_req_for[452] = array( 4049 => array(471, 1) ); 
@@ -227,7 +227,7 @@ $skill_req_for[453] = array( 4049 => array(465, 1, 467, 1, 468, 1) );
 $skill_req_for[454] = array( 4049 => array(462, 1, 463, 1, 470, 1) ); 
 $skill_req_for[455] = array( 4049 => array(460, 1) ); 
 $skill_req_for[456] = array( 4049 => array(464, 1) ); 
-$skill_req_for[457] = array( 4049 => array(456, 1) ); 
+$skill_req_for[457] = array( 4049 => array(456, 1, 464, 1) ); 
 $skill_req_for[467] = array( 4049 => array(469, 7) ); 
 $skill_req_for[468] = array( 4049 => array(469, 7) ); 
 $skill_req_for[500] = array( 24 => array(501, 1, 508, 1, 507, 1, 506, 2, 505, 4, 504, 4, 503, 5, 502, 1), 4215 => array(2552, 5) ); 
@@ -317,14 +317,15 @@ $skill_req_for[2235] = array( 4062 => array(2247, 1) );
 $skill_req_for[2236] = array( 4062 => array(2233, 5) ); 
 $skill_req_for[2237] = array( 4062 => array(2253, 1, 2254, 1) ); 
 $skill_req_for[2239] = array( 4062 => array(2237, 3) ); 
-$skill_req_for[2240] = array( 4062 => array(2241, 1, 2244, 1, 2245, 1) ); 
+$skill_req_for[2240] = array( 4062 => array(2241, 1, 2245, 1) ); 
 $skill_req_for[2241] = array( 4062 => array(2242, 1) ); 
+$skill_req_for[2243] = array( 4062 => array(2244, 1) ); 
 $skill_req_for[2245] = array( 4062 => array(2243, 1, 2246, 3) ); 
 $skill_req_for[2247] = array( 4062 => array(2234, 1) ); 
 $skill_req_for[2248] = array( 4062 => array(2239, 3, 2249, 1, 2250, 1, 2251, 1, 2252, 1) ); 
-$skill_req_for[2255] = array( 4064 => array(2256, 1, 2262, 1, 2266, 4, 2275, 1) ); 
+$skill_req_for[2255] = array( 4064 => array(2256, 1, 2262, 1, 2266, 4, 2275, 2) ); 
 $skill_req_for[2256] = array( 4064 => array(2257, 2, 2258, 2) ); 
-$skill_req_for[2258] = array( 4064 => array(2259, 3, 2260, 3) ); 
+$skill_req_for[2258] = array( 4064 => array(2259, 1, 2260, 3) ); 
 $skill_req_for[2259] = array( 4064 => array(2261, 2) ); 
 $skill_req_for[2260] = array( 4064 => array(2261, 2) ); 
 $skill_req_for[2262] = array( 4064 => array(2263, 1) ); 
@@ -338,9 +339,9 @@ $skill_req_for[2271] = array( 4064 => array(2274, 3) );
 $skill_req_for[2272] = array( 4064 => array(2273, 2) ); 
 $skill_req_for[2273] = array( 4064 => array(2274, 2) ); 
 $skill_req_for[2276] = array( 4064 => array(2278, 1, 2280, 1) ); 
-$skill_req_for[2277] = array( 4064 => array(2281, 2, 2282, 2) ); 
+$skill_req_for[2277] = array( 4064 => array(2281, 2, 5006, 1) ); 
 $skill_req_for[2278] = array( 4064 => array(2279, 3) ); 
-$skill_req_for[2281] = array( 4064 => array(2283, 1) ); 
+$skill_req_for[2281] = array( 4064 => array(2282, 2, 2283, 1) ); 
 $skill_req_for[2285] = array( 4079 => array(2286, 5) ); 
 $skill_req_for[2286] = array( 4079 => array(2290, 7, 2291, 5) ); 
 $skill_req_for[2287] = array( 4079 => array(2291, 3) ); 
@@ -392,7 +393,7 @@ $skill_req_for[2352] = array( 4076 => array(2427, 1, 2428, 1, 2431, 1) );
 $skill_req_for[2381] = array( 4075 => array(2427, 1, 2428, 1, 2431, 1) ); 
 $skill_req_for[2382] = array( 4075 => array(2427, 1, 2428, 1, 2431, 1) ); 
 $skill_req_for[2383] = array( 4075 => array(2427, 1, 2428, 1, 2431, 1) ); 
-$skill_req_for[2412] = array( 4075 => array(2419, 1, 2422, 1, 2423, 1, 5007, 1), 4076 => array(2419, 1, 2422, 1, 2423, 1, 5007, 1) ); 
+$skill_req_for[2412] = array( 4075 => array(2419, 1, 2422, 1, 2423, 1, 5007, 2), 4076 => array(2419, 1, 2422, 1, 2423, 1, 5007, 2) ); 
 $skill_req_for[2413] = array( 4075 => array(2426, 1), 4076 => array(2426, 1) ); 
 $skill_req_for[2414] = array( 4075 => array(2417, 1), 4076 => array(2417, 1) ); 
 $skill_req_for[2417] = array( 4075 => array(2413, 1), 4076 => array(2413, 1) ); 
@@ -457,6 +458,36 @@ $skill_req_for[3023] = array( 4211 => array(3024, 2) );
 $skill_req_for[3024] = array( 4211 => array(3025, 3) ); 
 $skill_req_for[3026] = array( 4212 => array(3029, 2) ); 
 $skill_req_for[3029] = array( 4212 => array(3027, 3) ); 
+$skill_req_for[5018] = array( 4218 => array(5019, 1) ); 
+$skill_req_for[5019] = array( 4218 => array(5020, 1) ); 
+$skill_req_for[5020] = array( 4218 => array(5021, 1) ); 
+$skill_req_for[5021] = array( 4218 => array(5022, 3) ); 
+$skill_req_for[5022] = array( 4218 => array(5023, 1) ); 
+$skill_req_for[5023] = array( 4218 => array(5024, 3) ); 
+$skill_req_for[5024] = array( 4218 => array(5026, 1, 5033, 1, 5041, 1, 5044, 1) ); 
+$skill_req_for[5025] = array( 4218 => array(5055, 1) ); 
+$skill_req_for[5026] = array( 4218 => array(5029, 3) ); 
+$skill_req_for[5027] = array( 4218 => array(5025, 3) ); 
+$skill_req_for[5028] = array( 4218 => array(5027, 3) ); 
+$skill_req_for[5029] = array( 4218 => array(5028, 3) ); 
+$skill_req_for[5031] = array( 4218 => array(5047, 1) ); 
+$skill_req_for[5032] = array( 4218 => array(5036, 3) ); 
+$skill_req_for[5033] = array( 4218 => array(5035, 3) ); 
+$skill_req_for[5035] = array( 4218 => array(5032, 3) ); 
+$skill_req_for[5036] = array( 4218 => array(5031, 3) ); 
+$skill_req_for[5037] = array( 4218 => array(5049, 1) ); 
+$skill_req_for[5038] = array( 4218 => array(5039, 3) ); 
+$skill_req_for[5039] = array( 4218 => array(5037, 3) ); 
+$skill_req_for[5040] = array( 4218 => array(5038, 3) ); 
+$skill_req_for[5041] = array( 4218 => array(5040, 3) ); 
+$skill_req_for[5045] = array( 4218 => array(5052, 5, 5046, 5) ); 
+$skill_req_for[5047] = array( 4218 => array(5045, 5) ); 
+$skill_req_for[5048] = array( 4218 => array(5054, 5) ); 
+$skill_req_for[5049] = array( 4218 => array(5050, 5) ); 
+$skill_req_for[5050] = array( 4218 => array(5051, 5) ); 
+$skill_req_for[5051] = array( 4218 => array(5056, 5) ); 
+$skill_req_for[5053] = array( 4218 => array(5048, 5) ); 
+$skill_req_for[5055] = array( 4218 => array(5053, 5) ); 
 $skill_req_for[8001] = array( 6013 => array(8002, 3, 8003, 5) ); 
 $skill_req_for[8005] = array( 6014 => array(8006, 5) ); 
 $skill_req_for[8006] = array( 6014 => array(8007, 3) ); 
@@ -470,48 +501,3 @@ $skill_req_for[10006] = array( 10000 => array(10009, 1) );
 $skill_req_for[10007] = array( 10000 => array(10008, 1) ); 
 $skill_req_for[10010] = array( 10000 => array(10011, 1, 10013, 1) ); 
 $skill_req_for[10011] = array( 10000 => array(10012, 1, 10013, 1) ); 
-
-
-// array to tell if a job id is in a job branch right away
-
-// swordsman
-$base_job[1] = $base_job[7] = $base_job[14] = $base_job[4008] = $base_job[4015] = $base_job[4060] = $base_job[4073] = 1;
-
-// mage
-$base_job[2] = $base_job[9] = $base_job[16] = $base_job[4010] = $base_job[4017] = $base_job[4061] = $base_job[4074] = 2;
-
-// archer -> hunter/bard/dancer -> sniper/clown/gypsy -> ranger/minstrel/wanderer
-$base_job[3] = $base_job[11] = $base_job[19] = $base_job[20] = $base_job[4012] = $base_job[4020] = $base_job[4021] = $base_job[4062] = $base_job[4075] = $base_job[4076] = 3;
-
-// acolyte
-$base_job[4] = $base_job[8] = $base_job[15] = $base_job[4009] =$base_job[4016] = $base_job[4063] = $base_job[4077] = 4;
-
-// merchant
-$base_job[5] = $base_job[10] = $base_job[18] = $base_job[4011] = $base_job[4019] = $base_job[4064] = $base_job[4078] = 5;
-
-// thief
-$base_job[6] = $base_job[12] = $base_job[17] = $base_job[4013] = $base_job[4018] = $base_job[4065] = $base_job[4079] = 6;
-
-// Taekwon
-$base_job[4046] = $base_job[4047] = $base_job[4049] = 4046;
-
-// supernovice with expanded supernovice
-$base_job[23] = $base_job[4190] = 23;
-
-// gunslinger, no sub branch
-$base_job[24] = $base_job[4215] = 24;
-
-// ninja with kagerou and oboro
-$base_job[25] = $base_job[4211] = $base_job[4212] = 25;
-
-// guild
-$base_job[10000] = 10000;
-
-// Family
-$base_job[22] = 22;
-
-// homuns
-$base_job[6013] = 6013;
-$base_job[6014] = 6014;
-$base_job[6015] = 6015;
-$base_job[6016] = 6016;
