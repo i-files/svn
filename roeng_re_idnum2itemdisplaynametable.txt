@@ -2135,7 +2135,6 @@
 3633#Mjolnir_Token#
 3634#Megingjord_Token#
 3737#Brownie_Point#
-3770#placeholder#
 4001#Poring_Card#
 4002#Fabre_Card#
 4003#Pupa_Card#
