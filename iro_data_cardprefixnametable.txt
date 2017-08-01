@@ -25,7 +25,7 @@
 4025#Keen#
 4026#Shrewd#
 4027#Athletic#
-4028#Double-forced#
+4028#Double-Forced#
 4029#Wolverine#
 4030#Windy#
 4031#of Ares#
@@ -443,6 +443,7 @@
 4443#of Underneath#
 4444#of Saharic#
 4445#of Windy#
+4446#Sharpen#
 4447#of Envenom#
 4448#of Damned#
 4449#of Hallowed#
@@ -450,8 +451,6 @@
 4451#of Axis#
 4452#Magical#
 4453#Violent#
-4454#Sorry#
-4455#Love#
 4456#Spell Master#
 4457#Psychic#
 4458#of Illusion#
@@ -474,11 +473,11 @@
 4475#Intangible#
 4476#Entomic#
 4477#Demonic#
-4480#Of Halfreload#
+4480#of Half Reload#
 4481#Half Jack Frost#
-4482#Of Half regeneration#
+4482#of Half Regeneration#
 4483#Half Spiritual#
-4484#Of Half Gemstone#
+4484#of Half Gemstone#
 4485#Half Abyss#
 4505#of Mad Witch#
 4506#of Archer#
@@ -491,7 +490,7 @@
 4513#of Thief#
 4514#Exorcism#
 4515#Flora#
-4516#of Stone wall#
+4516#of Stone Wall#
 4517#of Magician#
 4518#Burning#
 4519#Seraphim#
@@ -501,8 +500,8 @@
 4523#Aquarius#
 4524#of Swordman#
 4525#Sweeping#
-4526#of MDEF#
-4527#of DEF#
+4526#of Magical Defense#
+4527#of Defense#
 4528#Spirit#
 4529#Physical#
 4530#of Merchant#
@@ -510,22 +509,21 @@
 4532#Sprinting#
 4533#Blinding#
 4534#Water Bomb#
-4991#Carefree#
-4998#of Valor#
-4999#of Aegis#
 4545#Novice#
-//-----영웅의 흔적2
+4556#Power Ward#
+4557#of Spell Power#
+4559#Blitz#
 4560#of Bragi#
 4561#of Magic Protection#
-4562#of penetrating#
-4563#of acid#
-4564#of gentleman#
-4565#of grand cross#
-4566#of lucky#
+4562#of Penetrating#
+4563#of Acid#
+4564#of Gentleman#
+4565#of Grand Cross#
+4566#of Lucky#
 4567#of Bard#
 4568#of Gnosis#
 4569#of Origin#
-4570#of fast recovery#
+4570#of Fast Recovery#
 4571#of Bind#
 4572#of Solidity#
 4573#of Dancer#
@@ -545,7 +543,7 @@
 4587#Slasher#
 4588#of Power#
 4589#of Richness#
-4590#of Helpless#
+4590#of Helplessness#
 4591#of Bloody#
 4592#of Stone Curse#
 4593#of Shooter#
@@ -563,21 +561,56 @@
 4605#of Hunger#
 4606#of Revenge#
 4607#of Librarian#
-4556#Power Ward#
-4557#of Spell Power#
-// 2013년 2월_마신전메모리얼
-4559#Blitz#
-//--- hero trail 3
 4610#of Protection#
-4939##
-4940##
-4941##
-4942##
-4943##
-4944##
-4945##
-4946##
-4947##
-4948##
-4949##
-4950##
+4625#Wise Man's#
+4626#of Echo#
+4627#Vibrating#
+4628#Invisible Horror#
+4629#Skinny#
+4630#Time Keeper's#
+4631#Nimble#
+4632#Voltaic#
+4633#Queenbird#
+4634#Fatal#
+4635#Solid#
+4636#Corpse#
+4637#of Drain#
+4638#Plaid#
+4639#Force#
+4640#Intelligence#
+4641#of Soul Gathering#
+4652#Punishment#
+4653#Undead Animal's#
+4654#Tomb Raider's#
+4655#Grave Keeper's#
+4656#Hypnotist#
+4657#Flame#
+4658#of Sorcery#
+4659#Adventurer's#
+4660#Strong Willed#
+4661#Toughness#
+4662#Trinitarian#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+4991#Carefree#
+27012#Active Protection#
+27013#Balkan#
+27014#Mirage#
+27015#Restore#
+27016#All Scanning#
+27017#Tempur#
+27018#Overclocking#
+27019#Debugging#
+27020#System-Error#
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
