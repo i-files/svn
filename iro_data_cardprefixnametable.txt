@@ -405,7 +405,7 @@
 4405#of Magic Mirror#
 4406#Twinkle#
 4407#of Elimination#
-4408#Abbys#
+4408#Abyss#
 4409#Panic#
 4410#Mad#
 4411#Arta's#
@@ -473,12 +473,6 @@
 4475#Intangible#
 4476#Entomic#
 4477#Demonic#
-4480#of Half Reload#
-4481#Half Jack Frost#
-4482#of Half Regeneration#
-4483#Half Spiritual#
-4484#of Half Gemstone#
-4485#Half Abyss#
 4505#of Mad Witch#
 4506#of Archer#
 4507#Scaraba#
@@ -573,7 +567,7 @@
 4633#Queenbird#
 4634#Fatal#
 4635#Solid#
-4636#Corpse#
+4636#Legion#
 4637#of Drain#
 4638#Plaid#
 4639#Force#
@@ -598,6 +592,32 @@
 4668#Silky#
 4669#Gust#
 4670#Blaze#
+4671#of Sorcerer#
+4672#of Sura#
+4673#of Maestro#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Geneticist#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage#
+4694#Feint#
+4695#Rainstorm#
+4696#Reverberation#
 4697#Overload#
 4698#Boomerang#
 4699#Dual Cannon#
@@ -611,6 +631,33 @@
 27018#Overclocking#
 27019#Debugging#
 27020#System-Error#
+27147#Intensive#
+27148#Default#
+27149#Sniping#
+27150#of High Level#
+27151#of Freezing#
+27152#Prompt#
+31016#of Sorrow#
+31017#of Hate#
+31018#Frustration#
+31019#Chilly#
+31020#of Anger#
+31021#Madness#
+31022#Desperation#
+31023#Maniac#
 31024#Volcanic#
 31025#Deadly#
 31026#Auto Magic#
+27081#Moonlight#
+27082#Fox Tail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Sagittarius#
+27087#Truth#
+27088#Instigating#
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
