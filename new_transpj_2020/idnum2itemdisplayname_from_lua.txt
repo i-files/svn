@@ -14305,9 +14305,9 @@ High Adventurer Suit#15420#
 24506#Metallic Shadow Armor#
 24507#Metallic Shadow Shield#
 24508#Metallic Shadow Shoes#
-24509#Vibrating Shadow Weapon#
-24510#Vibration Shadow Pendant#
-24511#Vibration Shadow Earring#
+24509#Reverberation Shadow Weapon#
+24510#Reverberation Shadow Pendant#
+24511#Reverberation Shadow Earring#
 24512#Jack Shadow Armor#
 24513#Jack Shadow Shield#
 24514#Jack Shadow Shoes#
@@ -17406,8 +17406,8 @@ Booster Pack(115)#100038#
 부스터 팩(160)#100041#
 부스터 팩(175)#100042#
 부스터 팩(185)#100043#
-부스터 방어구 업그레이드 패키지#100044#
-Boosting 웨폰 업그레이드 패키지#100045#
+Booster Armor Upgrade Package#100044#
+Boosting Weapon Upgrade Package#100045#
 스타터 방어구 상자#100046#
 어태커 부스터 상자#100047#
 레인지 부스터 상자#100048#
@@ -17772,10 +17772,10 @@ Costume Sudden Wealth#420003#
 타나토스의 증오 가면#440000#
 의상 상어가 나타났다#440002#
 Costume Happy Cat#450001#
-어태커 부스터 플레이트#450002#
-엘리멘탈 부스터 로브#450003#
-디펀트 부스터 로브#450004#
-레인지 부스터 슈츠#450018#
+Attack Booster Plate#450002#
+Elemental Booster Robe#450003#
+Default Booster Robe#450004#
+Ranged Booster Suit#450018#
 Noblesse Breath Armor#450019#
 Noblesse Knight Armor#450020#
 Noblesse Spear Armor#450021#
@@ -17892,10 +17892,10 @@ Illusion Saint Robe#450145#
 Illusion Saphien's Armor of Ocean#450146#
 Illusion Chain Mail#460010#
 Demon Hunting Shield#470000#
-어태커 부스터 그리브#470001#
-엘리멘탈 부스터 슈즈#470002#
-디펀트 부스터 슈즈#470003#
-레인지 부스터 부츠#470016#
+Attack Booster Greaves#470001#
+Elemental Booster Shoes#470002#
+Default Booster Shoes#470003#
+Ranged Booster Boots#470016#
 Noblesse Attack Boots#470017#
 Noblesse Magic Boots#470018#
 Imperial Attack Boots#470019#
@@ -17906,10 +17906,10 @@ Automatic Leg Type A#470023#
 Automatic Leg Type B#470027#
 Juggernaut#470033#
 엘레멘탈 부츠#480000#
-어태커 부스터 망토#480001#
-엘리멘탈 부스터 머플러#480002#
-디펀트 부스터 머플러#480003#
-레인지 부스터 망토#480012#
+Attack Booster Manteau#480001#
+Elemental Booster Muffler#480002#
+Default Booster Muffler#480003#
+Ranged Booster Manteau#480012#
 Noblesse Attack Manteau#480014#
 Noblesse Magic Manteau#480016#
 Imperial Attack Manteau#480017#
@@ -17921,10 +17921,10 @@ Automatic Engine Wing Type B#480045#
 Guardian of Soul#480054#
 Illusion Morrigane's Manteau#480061#
 Raging Muffler#490004#
-어태커 부스터 링#490005#
-엘리멘탈 부스터 이어링#490006#
-디펀트 부스터 이어링#490007#
-레인지 부스터 브로치#490013#
+Attack Booster Ring#490005#
+Elemental Booster Earring#490006#
+Default Booster Earring#490007#
+Ranged Booster Brooch#490013#
 Devil Rakshasa Ring#490014#
 Noblesse Attack Ring#490015#
 Noblesse Magic Ring#490016#
@@ -17949,7 +17949,7 @@ Perceptual Amplification Ring#490079#
 Mental Expansion Ring#490083#
 Judge's Balance#490098#
 Ring of Pazuzu#500001#
-Boosting 소드#500003#
+Boosting Sword#500003#
 Light Blade#500004#
 Slate Sword#500007#
 Hypocrisy Machine#500008#
@@ -17958,8 +17958,8 @@ Patent Red Lotus Sword#500014#
 Patent Slate Sword#500017#
 Patent Light Blade#500018#
 Relapse Blade#510001#
-Boosting 대거#510002#
-Boosting 닌도#510006#
+Boosting Dagger#510002#
+Boosting Nindo#510006#
 Fatalist#510008#
 Wrath Rack#510009#
 Gula Teeth#510019#
@@ -17967,20 +17967,20 @@ Patent Madogum#510020#
 Patent Fatalist#510022#
 Patent Kiri no Tsuyu#510026#
 Relapse Dagger#520000#
-Boosting 액스#520002#
+Boosting Axe#520002#
 Pride Steel#530000#
-Boosting 스피어#530002#
+Boosting Sphere#530002#
 Gluttony Stick#530006#
 Patent Aquatic Spear#530009#
 Fortified Spear#540000#
-Boosting 스펠북#540001#
-Boosting 텍스트#540004#
+Boosting Spellbook#540001#
+Boosting Text#540004#
 Sloth Text#540005#
 Sloth Bible#540011#
 Patent Exorcist's Bible#530009#
 Fortified Book#550001#
-Boosting 소울로드#550002#
-Boosting 폭스테일#550006#
+Boosting Soul Rod#550002#
+Boosting Foxtail#550006#
 Safety Foxtail#550007#
 Chilling Cane#550008#
 Greed Wand#550009#
@@ -17988,37 +17988,37 @@ Addiction Wand#550012#
 Patent Shadow Staff#550013#
 Patent Chilling Cane#550014#
 Patent Meowmeow Foxtail#560000#
-Boosting 너클#560002#
+Boosting Knuckle#560002#
 Ray Knuckle#560004#
 Ira Fist#560008#
 Patent Iron Nail#560009#
 Patent Ray Knuckle#560011#
 Scrap Fist#570000#
-Boosting 기타#570002#
+Boosting Guitar#570002#
 Trumpet Shell#570005#
 Pigritia Wave#570008#
 Illusion Electric Guitar#570012#
 Scrap Lute#580000#
-Boosting 휩#580002#
+Boosting Whip#580002#
 Barbed Wire Whip#580005#
 Pigritia Spark#580008#
 Illusion Electric Eel#580009#
 Patent Barbed Wire Whip#580012#
 Scrap Whip#590000#
-Boosting 홀#590002#
+Boosting Hole#590002#
 Meteor Striker#590003#
 Saint Scepter#590006#
 Envy Blunt#590011#
 Patent Meteor Striker#590012#
 Patent Saint Mace#590015#
 Relapse Cross#600001#
-Boosting 투핸드소드#600004#
+Boosting Two-Handed Sword#600004#
 Dragonic Slayer#600008#
 Hypocrisy Edge#600009#
 Patent Oriental Sword#600011#
 Illusion Death Guidance#600013#
 Fortified Claymore#610000#
-Boosting 카타르#610003#
+Boosting Katar#610003#
 Blade Katar#610006#
 Avaritia Metal#610008#
 Patent Shiver Katar#610009#
@@ -18030,7 +18030,7 @@ Relapse Katar#630003#
 Luxuria Pierce#630006#
 Illusion Brionac#630007#
 Illusion Zephyrus#640000#
-Boosting 스태프#640004#
+Boosting Staff#640004#
 Blue Crystal Staff#640005#
 Pride Stone#640011#
 Patent Aeon Staff#640012#
@@ -18038,7 +18038,7 @@ Patent Blue Crystal Staff#640013#
 Fortified Staff#650003#
 Wrath Wheel#650004#
 Patent Huuma Shuriken Clearness#700001#
-Boosting 보우#700003#
+Boosting Bow#700003#
 Scarlet Dragon Leather Bow#700007#
 Superbia String#700008#
 Gula Gun#700009#
@@ -18049,7 +18049,7 @@ Patent Scarlet Dragon Leather Bow#700021#
 Scrap Bow#810000#
 Lust Pointer#820000#
 Lust Shatter#830000#
-Boosting 개틀링#830001#
+Boosting Gatling#830001#
 Lust Crusher#840000#
 Lust Boom#1000001#
 1차 전직 티켓#1000002#
