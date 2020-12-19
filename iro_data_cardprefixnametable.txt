@@ -562,7 +562,7 @@
 4628#Invisible Horror#
 4629#Skinny#
 4630#Time Keeper's#
-4631#Nimble#
+4631#Mercurial#
 4632#Voltaic#
 4633#Queenbird#
 4634#Fatal#
@@ -631,23 +631,6 @@
 27018#Overclocking#
 27019#Debugging#
 27020#System-Error#
-27147#Intensive#
-27148#Default#
-27149#Sniping#
-27150#of High Level#
-27151#of Freezing#
-27152#Prompt#
-31016#of Sorrow#
-31017#of Hate#
-31018#Frustration#
-31019#Chilly#
-31020#of Anger#
-31021#Madness#
-31022#Desperation#
-31023#Maniac#
-31024#Volcanic#
-31025#Deadly#
-31026#Auto Magic#
 27081#Moonlight#
 27082#Fox Tail#
 27083#Growth#
@@ -661,3 +644,104 @@
 27103#Vigor#
 27104#Compassion#
 27105#Sorrow#
+//Feb, 2017 The Illusion of the Frozen
+27110#Fast-footed#
+27111#Crisp#
+27112#Hardy#
+27113#Frozen#
+27147#Intensive#
+27148#Default#
+27149#Sniping#
+27150#of High Level#
+27151#of Freezing#
+27152#Prompt#
+27163#Abranchia#
+27164#Coya#
+27165#Avian#
+27166#Frio#
+27167#Glacial#
+27168#Padre#
+27169#Infante#
+27170#Dust#
+27171#Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#Dirty#
+27177#Marsh#
+27178#Zero Guard#
+27179#Wild Fang#
+27180#Power Break#
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+27249#Archi#
+27250#Anemos#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odorico#
+27261#Juu#
+27262#Dwigh#
+27263#Kanavian#
+27264#Evil Shadow#
+27265#Evil Fanatic#
+31016#of Sorrow#
+31017#of Hate#
+31018#Frustration#
+31019#Chilly#
+31020#of Anger#
+31021#Madness#
+31022#Desperation#
+31023#Maniac#
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
+4608#Knight's#
+4609#Knight's#
+
+//2017년 3월 Brasilis
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect collective#
+27124#Hunting#
+27125#Aqua Benedict#
+27126#Python#
+
+
+
+//2017년 9월 Moscovia Card
+27157#of Aqua Wood#
+27158#of Windness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#
+27162#Soul Steel#
+
+
+27304#Hell's#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#Of Holy Power#
+27310#Of Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#Of Tigerpower#
+27319#Poison Break#
+27320#Inhance Fire#
